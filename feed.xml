@@ -3,12 +3,32 @@
     <title>lucasbramas</title>
     <link href="https://loco420.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://loco420.github.io/gh-pages" />
-    <updated>2020-09-13T21:34:50+02:00</updated>
+    <updated>2020-09-13T21:41:41+02:00</updated>
     <author>
         <name>Lucas</name>
     </author>
     <id>https://loco420.github.io/gh-pages</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Lucas</name>
+        </author>
+        <link href="https://loco420.github.io/gh-pages/about.html"/>
+        <id>https://loco420.github.io/gh-pages/about.html</id>
+
+        <updated>2020-09-13T21:36:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    av
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                av
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Projet 4</title>
         <author>
@@ -53,8 +73,13 @@
         <link href="https://loco420.github.io/gh-pages/projet-1.html"/>
         <id>https://loco420.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-09-13T19:52:23+02:00</updated>
+        <updated>2020-09-13T21:38:15+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loco420.github.io/gh-pages/media/posts/1/project-1.png" alt="" />
+                <figure class="post__image"><img class="align-center" src="https://loco420.github.io/gh-pages/media/posts/1/project-1.png" alt="" width="550" height="355"></figure>
+            ]]>
+        </content>
     </entry>
 </feed>

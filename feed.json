@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://loco420.github.io/gh-pages/about.html",
+            "url": "https://loco420.github.io/gh-pages/about.html",
+            "title": "About",
+            "summary": "av",
+            "content_html": "av",
+            "author": {
+                "name": "Lucas"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-13T21:36:23+02:00",
+            "date_modified": "2020-09-13T21:36:23+02:00"
+        },
+        {
             "id": "https://loco420.github.io/gh-pages/projet-4.html",
             "url": "https://loco420.github.io/gh-pages/projet-4.html",
             "title": "Projet 4",
@@ -49,13 +63,15 @@
             "id": "https://loco420.github.io/gh-pages/projet-1.html",
             "url": "https://loco420.github.io/gh-pages/projet-1.html",
             "title": "projet 1",
+            "content_html": "<figure class=\"post__image\"><img class=\"align-center\" src=\"https://loco420.github.io/gh-pages/media/posts/1/project-1.png\" alt=\"\" width=\"550\" height=\"355\"></figure>",
+            "image": "https://loco420.github.io/gh-pages/media/posts/1/project-1.png",
             "author": {
                 "name": "Lucas"
             },
             "tags": [
             ],
             "date_published": "2020-09-13T19:52:23+02:00",
-            "date_modified": "2020-09-13T19:52:23+02:00"
+            "date_modified": "2020-09-13T21:38:15+02:00"
         }
     ]
 }
