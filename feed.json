@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lucasbramas",
+    "description": "",
+    "home_page_url": "https://loco420.github.io/gh-pages",
+    "feed_url": "https://loco420.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lucas"
+    },
+    "items": [
+        {
+            "id": "https://loco420.github.io/gh-pages/projet-1.html",
+            "url": "https://loco420.github.io/gh-pages/projet-1.html",
+            "title": "projet 1",
+            "author": {
+                "name": "Lucas"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-13T19:52:23+02:00",
+            "date_modified": "2020-09-13T19:52:23+02:00"
+        }
+    ]
+}
