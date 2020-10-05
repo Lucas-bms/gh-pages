@@ -3,71 +3,75 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-09-17T09:56:37+02:00</updated>
+    <updated>2020-10-05T12:16:10+02:00</updated>
     <author>
         <name>Lucas</name>
     </author>
     <id>https://lucas-bms.github.io/gh-pages</id>
 
     <entry>
-        <title>Projet 4</title>
+        <title>Une meilleure compréhension et gestion des services des abonnements</title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-4.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-4.html</id>
 
-        <updated>2020-09-15T08:41:48+02:00</updated>
+        <updated>2020-10-05T12:16:10+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Projet 3</title>
+        <title>Reconstruire l&#x27;expérience du siteweb pour une meilleure compréhension </title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
 
-        <updated>2020-09-13T20:10:19+02:00</updated>
+        <updated>2020-10-05T12:15:58+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Projet 2</title>
+        <title>Reconstruire l&#x27;expérience</title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-2.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-2.html</id>
 
-        <updated>2020-09-13T20:10:12+02:00</updated>
+        <updated>2020-10-05T12:15:52+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>projet 1</title>
+        <title>Reconstruire l&#x27;expérience d&#x27;un siteweb pour une meilleure compréhension et gestion des services</title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-09-14T09:11:36+02:00</updated>
+        <updated>2020-10-05T12:15:21+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/project-1.png" alt="" />
-                    Project overviewSummaryTrabool est un regroupement de services de mobilité et de loisirs culture sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole et des partenaires publiques et privés. Ce service étant déployé à mon arrivé&hellip;
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/feel-cover.jpg" alt="de" />
+                    Project overview Trabool est un regroupement de services de mobilité et de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/project-1.png" alt="" />
-                <h1 id="mcetoc_1ei5n7u9b0">Project overview</h1>
-<h3 id="mcetoc_1ei5n7u9b1"><strong>Summary</strong></h3>
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/feel-cover.jpg" alt="de" />
+                <h1>Project overview</h1>
+<p> </p>
+<figure class="post__image"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/feel-cover.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/feel-cover-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/feel-cover-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/feel-cover-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/feel-cover-lg.jpg 1024w"  alt="" width="5333" height="3333"></figure>
+<p> </p>
+<p> </p>
+<h3><strong>Summary</strong></h3>
 <p>Trabool est un regroupement de services de mobilité et de loisirs culture sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole et des partenaires publiques et privés.</p>
 <p>Ce service étant déployé à mon arrivé au sein de la Métropole, je l'ai suivi durant 12 mois au travers de plusieurs missions en parallèle (graphisme, test utilisateur de l'application, etc). Je vous présente ici le plus ambitieux projet.</p>
-<h3 id="mcetoc_1ei5n7u9b2"><strong>Problème</strong></h3>
+<h3><strong>Problème</strong></h3>
 <p>Le service Trabool est utilisé pour commander et recharger sa carte et abonnement. Une fois commandé sa carte sur le site et reçue, les usagers peuvent charger leurs abonnements dessus, depuis chez eux, grâce à un chargeur reçu dans le kit.</p>
 <p>En constante évolution, de nouvelle fonctionnalité technique devait être intégrée au site web afin de l'améliorer : ajouter des comptes, gestion de plusieurs compte et abonnement... Certains des aspects bloquaient le parcours utilisateur sur le site ainsi que l'architecture et la mise en page des pages : lors de la souscription d’un carte, de la visualisation des services et offres disponibles, pour renouveler une carte perdue, pour transférer des d’abonnement sur sa carte. Notre équipe a travaillé sur la refonte du site internet et des parcours utilisateurs afin d'y intégrer les évolutions.</p>
 <p> </p>
