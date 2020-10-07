@@ -3,21 +3,21 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-10-07T16:22:31+02:00</updated>
+    <updated>2020-10-07T23:25:10+02:00</updated>
     <author>
         <name>Lucas</name>
     </author>
     <id>https://lucas-bms.github.io/gh-pages</id>
 
     <entry>
-        <title>Redesigner l&#x27;expérience du site web Trabool</title>
+        <title>Redesigner l&#x27;expérience du site web</title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-10-07T16:22:31+02:00</updated>
+        <updated>2020-10-07T23:08:32+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/trabool-portfolio.jpg" alt="" />
@@ -213,47 +213,40 @@
         </content>
     </entry>
     <entry>
-        <title>4 - Feel </title>
+        <title>Objets électronique du quotidien : maitrisé vos situations conflictuelles</title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-4.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-4.html</id>
 
-        <updated>2020-10-07T09:59:33+02:00</updated>
+        <updated>2020-10-07T23:25:10+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-portfolio.jpg" alt="" />
-                    Titre. Nom du projet et image Feel : maitrisé vos situations confictuelles&hellip;
+                    Étiquettes. design interactif, workshop, product design, experimentation, iot Team. Mégane Richard, Alfiane,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-portfolio.jpg" alt="" />
-                <p><em><strong>Titre.</strong> Nom du projet et image</em></p>
-<p>Feel : maitrisé vos situations confictuelles</p>
-<p>Objets électronique du quotidien</p>
-<p><strong><em>Question, problématique :</em></strong></p>
-<p><em><strong>Pitch.</strong> An one-sentence <strong>pitch</strong> of what the project is about.</em></p>
-<p><strong><em>Étiquettes. </em></strong><code>design interactif, workshop, product design, experimentation, iot</code></p>
-<p><em><strong>Team.</strong> How big was the team for this? Were you the only designer? Who else did you work with to make this project happen? :</em></p>
-<p>Mégane Richard, Alfiane, Quentin, Lauraine</p>
-<p><em><strong>Role.</strong> What was your involvement on this project (e.g. visual design) :</em></p>
-<p><strong><em>Secteur.</em></strong> Design intéractif</p>
-<p><strong><em>Agence.</em></strong> Université de Bordeaux, Nicolas Gaudron</p>
-<p><strong><em>Platform.</em></strong> app, objet, produit, ilustrator, xd, rhino 3D,</p>
-<p><strong><em>Timeline &amp; date.</em></strong> 1 semaines</p>
-<p><strong><em>Constraints.</em></strong></p>
+                <div class="info">
+<p><strong class="caption">Étiquettes. </strong><strong>design interactif, workshop, product design, experimentation, iot</strong></p>
+<p><strong class="caption">Team.</strong> <strong>Mégane Richard, Alfiane, Quentin, Lauraine</strong></p>
+<p><strong class="caption">Secteur.</strong> <strong>Design interactif - Product Design</strong></p>
+<p><strong class="caption">Agence.</strong> <strong>Université de Bordeaux, Nicolas Gaudron</strong></p>
+<p><strong class="caption">Platform.</strong> <strong>app - objet - illustrator - xd - rhino 3D </strong></p>
+<p><strong class="caption">Timeline &amp; date.</strong><strong> workshop 1 semaines</strong></p>
 <p> </p>
-<h1 class="align-center">Overview</h1>
-<p><strong>Résumé du projet</strong></p>
+</div>
+<h3><strong>Résumé</strong></h3>
 <p>Workshop de design d'interaction sur "les objets électroniques du quotidients" sur la conception d'objet numérique intéractif.</p>
-<p><strong>Problème</strong></p>
+<h3><strong>Problème</strong></h3>
 <p>Les conflits et les tensions entre être humains sont choses qui peuvent arriver. Cependant, le conflit n'est pas une chose à évité car elle permet d'avancer et la colére, l'ernvement, les insultes et autres ne permettent pas d'avancer dans ce conflit. Les personnes ne pouvant pas ce contrôlé et communiquer auront des comportements controdictoire à la résilution de conflit .</p>
 <blockquote>
 <p>Discussion ou débat plus ou moins âpre et violent</p>
 </blockquote>
-<p><strong>Solution</strong></p>
+<h3><strong>Solution</strong></h3>
 <p>Feel est une application qui permet de maîtriser vos tensions et anticiper les situations conflictuelles afin d’améliorer la vie en communauté. Lorsque le bracelet détecte que vos nerfs sont au bord de l’explosion par votre rythme cardiaque, il se manifeste en produisant une pression sur votre poignet et vous invite à consulter votre application. Alors le socle muni de la balle de parole s’active lorsque le conflit éclate. Elle invite les utilisateurs à se munir de la balle de parole afin de poursuivre la confrontation. La balle connectée au bracelet suit les principes du bâton de parole.</p>
 <p>Le bracelet connecté mesure ...</p>
 <p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c7e96d-ff78-464d-a63c-e4a2938bfc0b/ecosytem_Service_4.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c7e96d-ff78-464d-a63c-e4a2938bfc0b/ecosytem_Service_4.jpg"></p>
@@ -307,7 +300,7 @@
 </li>
 </ol>
 <p> </p>
-<h1 class="align-center"><strong>Idéation</strong></h1>
+<h1 class="align-center"><span style="color: #fc9561;"><strong>Idéation</strong></span></h1>
 <p>Le processus de design est itératif et le prototypage permet d'explorer des expériences.</p>
 <p>À partir de la thématique, nous avons commencé par faire des brainstorming afin trouver et relier des thématiques entre elle. C'est par cette méthode que nous avons trouvée l'idée de la "dispute". Elle représente des moments du quotidien dans des contextes, sujets et provoque certaines émotions qui sont susceptible d'arriver.</p>
 <p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a1cf9bb-4a1a-45c9-aa25-cb6e0bf43c49/Capture_decran_2020-07-13_a_19.16.44.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a1cf9bb-4a1a-45c9-aa25-cb6e0bf43c49/Capture_decran_2020-07-13_a_19.16.44.png"></p>
@@ -331,7 +324,7 @@
 <p>Nous avons énormement diversifier nos supports alant du prototype carton, du sketch à des maquettes visuelles et 3D.</p>
 <p><code>sketch, 3D,wireframe</code></p>
 <p><code>vidéos</code></p>
-<h1 class="align-center">Outputs</h1>
+<h1 class="align-center"><span style="color: #fc9561;">Outputs</span></h1>
 <ul>
 <li>photo 3D</li>
 <li>Application</li>
@@ -345,6 +338,8 @@
 <p><em>" Le projet a été très collaboratif et nous avons travaillé tous les trois à un même objectif. Pendant la phase de mise en œuvre, j'ai essayé d'envisager une nouvelle catégorie de produits plutôt que d'essayer de la forcer à l'intérieur de vidéos, d'appels ou de signaux de discussion. J'ai essayé d'être très précis et cohérent sur la façon dont cette nouvelle catégorie était exprimée dans l'application. Au final, cela s'est traduit sous de nombreuses formes : animations, conception visuelle, flux d'interaction et utilisation du langage.</em></p>
 <p><em>J'ai essayé d'envisager une nouvelle catégorie de produits plutôt que d'essayer de la forcer dans des vidéos, des appels ou des chats.</em></p>
 <p><em>En outre, j'ai lancé une discussion sur le positionnement visuel, ce qui nous a fait réfléchir à la manière de positionner notre application par rapport à Skype. Finalement, j'ai construit un prototype fonctionnel en utilisant <a href="http://proto.io/">Proto.io</a> et j'ai essayé de créer des animations significatives."</em></p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -356,16 +351,16 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
 
-        <updated>2020-10-07T16:14:16+02:00</updated>
+        <updated>2020-10-07T22:21:58+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/vga-portfolio.jpg" alt="" />
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
                     Accompagner l’innovation dans les politiques publiques Pitch. Penser la mobilité durable dans&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/vga-portfolio.jpg" alt="" />
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
                 <p>Accompagner l’innovation dans les politiques publiques</p>
 <p><strong><em>Pitch. </em></strong>Penser la mobilité durable dans les zones rurales pour les trajets domiciles-travail</p>
 <p><strong><em>Étiquettes. </em></strong>UX Research - UX Design - Design Fiction </p>
