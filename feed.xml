@@ -3,48 +3,12 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-10-05T17:50:49+02:00</updated>
+    <updated>2020-10-07T16:22:31+02:00</updated>
     <author>
         <name>Lucas</name>
     </author>
     <id>https://lucas-bms.github.io/gh-pages</id>
 
-    <entry>
-        <title>Une meilleure compréhension et gestion des services des abonnements</title>
-        <author>
-            <name>Lucas</name>
-        </author>
-        <link href="https://lucas-bms.github.io/gh-pages/projet-4.html"/>
-        <id>https://lucas-bms.github.io/gh-pages/projet-4.html</id>
-
-        <updated>2020-10-05T12:16:10+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Reconstruire l&#x27;expérience du siteweb pour une meilleure compréhension </title>
-        <author>
-            <name>Lucas</name>
-        </author>
-        <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
-        <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
-
-        <updated>2020-10-05T12:15:58+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Reconstruire l&#x27;expérience</title>
-        <author>
-            <name>Lucas</name>
-        </author>
-        <link href="https://lucas-bms.github.io/gh-pages/projet-2.html"/>
-        <id>https://lucas-bms.github.io/gh-pages/projet-2.html</id>
-
-        <updated>2020-10-05T12:15:52+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Redesigner l&#x27;expérience du site web Trabool</title>
         <author>
@@ -53,22 +17,21 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-10-05T17:50:49+02:00</updated>
+        <updated>2020-10-07T16:22:31+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/trabool-cover.jpg" alt="" />
-                    Agence. Grand Lyon Métropole Service. Trabool Secteur. Politiques publiques, numérique Mon role.
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/trabool-portfolio.jpg" alt="" />
+                    AGENCE. Grand Lyon Métropole SECTEUR. Politiques publiques, numérique ROLE. UX Designe - Service&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/trabool-cover.jpg" alt="" />
-                <p><span style="color: #7e8c8d;"><em><span style="color: #9e9e9e;">Agence</span>. </em></span>Grand Lyon Métropole</p>
-<p><span style="color: #9e9e9e;"><em>Service.</em></span> Trabool </p>
-<p><span style="color: #9e9e9e;"><strong><em>Secteur. </em></strong></span>Politiques publiques, numérique</p>
-<p><span style="color: #7e8c8d;"><strong><em><span style="color: #9e9e9e;">Mon role. </span></em></strong></span>ux designer, service designer</p>
-<p><span style="color: #9e9e9e;"><strong><em>Timeline. </em></strong></span>Accompagnement sur 12 mois</p>
-<p><span style="color: #9e9e9e;"><em><strong>Étiquettes.</strong></em></span> web UI-UX service public test utilisateur</p>
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/trabool-portfolio.jpg" alt="" />
+                <p><span style="color: #fc9561;">AGENCE. </span>Grand Lyon Métropole</p>
+<p><span style="color: #fc9561;"><em>SECTEUR. </em></span>Politiques publiques, numérique</p>
+<p><span style="color: #7e8c8d;"><span style="color: #fc9561;"><em>ROLE.</em></span><strong><em><span style="color: #9e9e9e;"> </span></em></strong></span>UX Designe - Service Designe</p>
+<p><span style="color: #fc9561;"><em>TIMELINE</em><em>. </em></span>Accompagnement sur 12 mois</p>
+<p><span style="color: #fc9561;"><em>Étiquettes.</em></span> web UI-UX service public test utilisateur</p>
 <h3> </h3>
 <h3><strong>Résumé</strong></h3>
 <p>Trabool est un regroupement de services de mobilité et de loisirs culture sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole et des partenaires publiques et privés.</p>
@@ -78,7 +41,6 @@
 <p>De nouvelles fonctionnalités technique devaient être intégrée au site web afin de l'améliorer : ajouter des comptes, gérer plusieurs compte et abonnement... Certains des aspects bloquaient le parcours utilisateur sur le site ainsi que l'architecture et la mise en page des pages : (pour la souscription d’un carte, lors de la visualisation des services et des offres disponibles, pour renouveler une carte perdue, pour transférer des d’abonnement sur sa carte). Notre équipe a travaillé sur la refonte du site internet et des parcours utilisateurs afin d'y intégrer les évolutions.</p>
 <h3><strong>Solution</strong></h3>
 <p>Après plusieurs itérations et des tests utilisateurs, nous avons conçu des interfaces facilitant le parcours d'inscription, d'abonnement et d'accès à ces informations personnels.</p>
-<p> </p>
 <figure class="post__image"></figure>
 <h3><strong>Processus</strong></h3>
 <table style="border-collapse: collapse; width: 100%; height: 100%; background-color: #ecf0f1; border-color: #e03e2d; border-style: none;" border="0">
@@ -113,15 +75,16 @@
 </tr>
 </tbody>
 </table>
-<h4><strong>Mon rôle</strong></h4>
+<h3><strong>Mon rôle</strong></h3>
 <p>J’ai accompagné le projet durant une année alternance entre l’université de Bordeaux Montainge et la Métropole de Lyon. Mon rôle dans ce projet été celui de designer de services et user experience dans une équipe composé de deux chef de projet, une psychologue sociale et une designer UX, en collaboration avec l’équipe chargé du développement de site internet (Sopra Steria) et d’une bisiness analysti.</p>
 <p> </p>
-<h2 class="align-center"><strong>Recherche</strong></h2>
+<h2 class="align-center"><span style="color: #fc9561;"><strong>1. Recherche</strong></span></h2>
+<p> </p>
 <h6><strong>Qui sont les usagers de Trabool ?</strong></h6>
 <p>Trabool est un service public et s'adresse à tout les habitans de la métropole. Certains services sont accés sur un groupe cible (exemple : professionel ex), mais la plupart du temps, tous les usagers de la Métropole sont la cible-audiance des services. Le public du service Trabool est tous les habitants à partir de 18 ans, mais les usagers actuelles sont des hommes-femmes de 40 à 6O ans (mais aussi des usager en famille et cadre) qui ont le besoin de combiné des abonnements (vélo, voiture partagé) et les gérer les abonnements de leurs familles.</p>
 <p>(Par exemple, la carte Trabool permet de transferer un abonnement que l'on a chez un partenaire : Bluely pour les voitures, le service de vélo Vélo'v, les abonnements de transports en commun TCL par exemple. Mais ces services sont déjà utilisé chez les partenaires de maniéres distince. Il y a un interet à utilisé la carte Trabool que si l'on combine des abonnements : vélo, parking. Mais les utilisateurs sont extremes dans ce cas la ce qui limite le panel d'utilisateur possible du service.)</p>
 <p>Nous avons fluidifier le parcours et la compréhension des services proposé par Trabool pour ces types d'utilisateurs potentielle.</p>
-<h6><strong>Problème</strong></h6>
+<h3><strong>Problème</strong></h3>
 <p>Le projet bénéficie d’une phase d’expérimentation menée par Valentin Labit, psychologue sociale, c’est-à-dire que des usagers volontaires, appelé “Pionnier”, testent des services avant la mise en place aux grands publics. Ils répondent à des questionnaires et sont mobilisés pour des ateliers. Son expertise au long du projet et les informations qu'il recueille depuis plusieurs mois nous permis de identifier-rechercher les problémes et de définir les besoins usagers.</p>
 <figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/test-utilisateur.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-lg.jpg 1024w"  alt="" width="4160" height="3120"></figure>
 <p> </p>
@@ -148,7 +111,8 @@
 <li>présentation des offres</li>
 </ul>
 <p> </p>
-<h2 class="align-center"><strong>Redesign process</strong></h2>
+<h2 class="align-center"><span style="color: #fc9561;"><strong>2. Redesign process</strong></span></h2>
+<p> </p>
 <p>Grâce à aux observations que nous avions faites et l’analyse fournie par la <span data-token-index="1" data-reactroot="">business analyst,</span> nous avons pu commencer à imagin</p>
 <p>er des solutions de parcours d'usage. Notre phase d'idéation à commencé par des dessins-sketch rapide d'interface afin faire des wireframes et des prototypes, les testés, et itérer rapidement.</p>
 <p><strong>Commander un pass :</strong> nous avons imaginer un parcours plus simple pour crée son compte ou ce conencté via Grand Lyon connect (plateforme d'authentification de la Métropole), pour ensutie commander son pass.</p>
@@ -187,8 +151,8 @@
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande.png" data-size="1920x1629"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande-thumbnail.png" alt="" width="768" height="652"></a></figure>
 </div></div>
 <h2> </h2>
-<h2 class="align-center"><strong>Évaluation</strong></h2>
-<h5>Les conditions des t<strong>ests</strong></h5>
+<h2 class="align-center"><span style="color: #fc9561;"><strong>3. Évaluation</strong></span></h2>
+<h3> </h3>
 <p>Tester est le meilleur moyen d'évaluer l'expérience utilisateur. Le test sur wireframe base fidélite (ou high fid) aller nous permettre de comprendre comment les utilisateurs naviguer et intéragiser avec le site. Les objectifs étaient de valider l’expérience utilisateur et nos hypothèses de conception avant la mise en production en évaluatent le système global, l'ergonomie, l'utilisabilité et la compréhension générale du service Trabool.</p>
 <p>Pour cela, j'ai conçu un protocole de test avec-à partir de scénario d'usage pour les testeurs, afin de mesurer les taches accomplit (pour les parcours et fonctionnalité à tester) à partir qu'une grille d'observation. (parler plus ?). Les tests allez nous servire a validé ou non des fonctionnalités et parcours tel que : (ou si les problémes rencontrés y était toujours)</p>
 <ul>
@@ -201,24 +165,26 @@
 <p><strong>PHOTO ?</strong></p>
 <p>Les tests sont suivi d'un entretient et finissent par le questionnaire SUS (System Usability Scale) mesurant l’utilisabilité et l'expérience du site afin de pouvoir identifier la valeur notre siteweb. Huits testers volontaires ont été choisis pour les tests se déroulant dans une salle en individuel, via un ordinateur portable avec un enregistrement vidéo et audio.</p>
 <p>L’utilisabilité :<em> "la capacité de l’objet à être facilement utilisé par une personne donnée pour réaliser la tâche pour laquelle il a été conçu. La notion d’utilisabilité englobe à la fois la performance de réalisation de la tâche, la satisfaction que procure l’utilisation de l’objet et la facilité avec laquelle on apprend à s’en servir." </em>Usabilis</p>
-<h3><strong>Feedback</strong></h3>
+<h3><strong>Les retours utilisateurs</strong></h3>
 <p>Les entretiens on montrait que les testeurs comprennait si sa...</p>
 <p>Les tests nous ont permis de pointer des problèmes de conception poser problème aux utilisateurs.</p>
-<h6>1- Compréhension du service Trabool</h6>
+<h5><strong>1- Compréhension du service Trabool</strong></h5>
 <p>Tout d'abord, les testeurs la présentation du service n’est pas très claire, certains testeurs ne comprennent pas le service qui est proposé. Les long textes de présentations sont rarement lu.</p>
 <p>Les utilisateurs ne savent pas où chercher des informations sur Trabool : qui porte le projet ? qu’est-ce que s’est ? Comment ça marche ? Pour les offres, il manque des explications et la lecture n’est pas visible, ce qui peut avoir comme conséquence une expérience négative car non compréhensible. Si les utilisateurs/visiteurs du site ne comprennent pas, ils ne vont pas revenir.</p>
 <p>Il y manque de compréhension dans l'écosystéme de Trabool : une carte et le siteweb pour souscrire aux offres.</p>
 <p>Ils ne comprenent pas le service, la description n’est pas compréhensible et quels sont les services proprosés, il n’y a pas d’informations sur les porteurs du projet, lors de la commande d’une carte, etc.</p>
 <p> </p>
-<h6>2- Commander un Pass Trabool</h6>
+<h5><strong>2- Commander un Pass Trabool</strong></h5>
 <p>Lors de la commande de Pass, la demande de carte d’identité pose question sur son utilité et utilisation par le service. L’utilisateur ne sait pas ce qui signifie “Activité la fonctionnalité transport”. Le transfert d’abonnement n’est pas compris car les utilisateurs se demandent s’il n’y va pas y avoir une redondance dans les cartes. Nous avons constater une mauvaise compréhension du wording lors de commande de la carte Trabool comme "Activer la fonction transport" qui permet, une fois la carte recu, de s'abonner aux transports en commun. Lors des tests, 2 utilisateurs sur 8 ne l'ont pas activer.</p>
 <ul>
 <li>probleme changement de site cohérence des services global de le métropole</li>
+<li> </li>
 </ul>
-<h3>Final</h3>
 <p>Les tests nous permit de s'appuyer sur les points négatifs du parcours du site afin de les améliorer et d’émettre des hypothèses sur la suite de la conception.. Certains aspects que ne l'on redouter par (tel que...) n'ont pas était globalement compris et nous permet de prendre du recul pour améliore la suite.</p>
 <p>Mais globalement, la valeur du service apportée pour les usagers n’est pas très claire et ne semble pas correspondre à leurs attentes. L’utilisateur cible n’étant pas identifié. C’est surtout à partir de l’analyse des problèmes technique et des données de l’expérimentation que nous avons conçu la suite.</p>
-<h2 class="align-center"><strong>Design final</strong></h2>
+<p> </p>
+<h2 class="align-center"><span style="color: #fc9561;"><strong>4. Design final</strong></span></h2>
+<p> </p>
 <p>Après une phase d'itérations sur les interfaces hautes fidélités, nous avons conçu une version finale des interfaces. La version définitive des interfaces ont été re-tester afin de valider nos interfaces finales. Nous avons du limité nos idées aux techniques-des possibles et de la demande. Dans la version final, j'aurais voulu intégrer une carte des lieux ou ... . À la place, nous avons intégrer un trie par type de domaine des offres et une rubrique dédiés aux nouveaux services pour un affichage simple. Nous sommes contenue a des améliorations de reéogranisation des pages, de fluidification des parcours utilisateurs, et en intégrant la gestion desplusieurs comptes.</p>
 <p>Globalement dans la version fianl, les usagers se retrouvent dans les parcours, la création de compte et l'ajout et la gestion de plusieurs compte rendent plus clair la compréhension du service dans son ensemble et pours les nouveaux usagers.</p>
 <p><strong>Qu'est-ce qu'on a intégrer ?</strong></p>
@@ -234,6 +200,7 @@
 <figure class="post__image post__image--full"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/ecran-shadow-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-lg.png 1024w"  alt="" width="1525" height="788"></figure>
 <h1> </h1>
 <h1 class="align-center"><strong>Conclusion</strong></h1>
+<p> </p>
 <p>Le plus dur a été de travailler sur la conception du site internet, son expérience globale, mais nous n'avons pas put travailler le concept du service : imaginé d'autres parcours usagers, des interactions.</p>
 <p>De mon point de vue, la Métropole pouvait apporter autre chose qu’un site pour commander des abonnements et les regrouper dans une seule carte, et les tests utilisateurs ont permis de pointer ça.</p>
 <p>alors que les designers en interne auraient le rôle et les compétences pour le faire. Par la suite, j’ai cherché les objectifs initiaux du projets, pour quelles raisons, dans quels buts, qui ne m’avaient jamais été clairement donnés et affichés.</p>
@@ -241,6 +208,549 @@
 <ul>
 <li>pensér la mobilité en générale : ce fait le long et les réunions projets</li>
 <li>penser la mobilité plus générale , et si on fesait comme si sa</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>4 - Feel </title>
+        <author>
+            <name>Lucas</name>
+        </author>
+        <link href="https://lucas-bms.github.io/gh-pages/projet-4.html"/>
+        <id>https://lucas-bms.github.io/gh-pages/projet-4.html</id>
+
+        <updated>2020-10-07T09:59:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-portfolio.jpg" alt="" />
+                    Titre. Nom du projet et image Feel : maitrisé vos situations confictuelles&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-portfolio.jpg" alt="" />
+                <p><em><strong>Titre.</strong> Nom du projet et image</em></p>
+<p>Feel : maitrisé vos situations confictuelles</p>
+<p>Objets électronique du quotidien</p>
+<p><strong><em>Question, problématique :</em></strong></p>
+<p><em><strong>Pitch.</strong> An one-sentence <strong>pitch</strong> of what the project is about.</em></p>
+<p><strong><em>Étiquettes. </em></strong><code>design interactif, workshop, product design, experimentation, iot</code></p>
+<p><em><strong>Team.</strong> How big was the team for this? Were you the only designer? Who else did you work with to make this project happen? :</em></p>
+<p>Mégane Richard, Alfiane, Quentin, Lauraine</p>
+<p><em><strong>Role.</strong> What was your involvement on this project (e.g. visual design) :</em></p>
+<p><strong><em>Secteur.</em></strong> Design intéractif</p>
+<p><strong><em>Agence.</em></strong> Université de Bordeaux, Nicolas Gaudron</p>
+<p><strong><em>Platform.</em></strong> app, objet, produit, ilustrator, xd, rhino 3D,</p>
+<p><strong><em>Timeline &amp; date.</em></strong> 1 semaines</p>
+<p><strong><em>Constraints.</em></strong></p>
+<p> </p>
+<h1 class="align-center">Overview</h1>
+<p><strong>Résumé du projet</strong></p>
+<p>Workshop de design d'interaction sur "les objets électroniques du quotidients" sur la conception d'objet numérique intéractif.</p>
+<p><strong>Problème</strong></p>
+<p>Les conflits et les tensions entre être humains sont choses qui peuvent arriver. Cependant, le conflit n'est pas une chose à évité car elle permet d'avancer et la colére, l'ernvement, les insultes et autres ne permettent pas d'avancer dans ce conflit. Les personnes ne pouvant pas ce contrôlé et communiquer auront des comportements controdictoire à la résilution de conflit .</p>
+<blockquote>
+<p>Discussion ou débat plus ou moins âpre et violent</p>
+</blockquote>
+<p><strong>Solution</strong></p>
+<p>Feel est une application qui permet de maîtriser vos tensions et anticiper les situations conflictuelles afin d’améliorer la vie en communauté. Lorsque le bracelet détecte que vos nerfs sont au bord de l’explosion par votre rythme cardiaque, il se manifeste en produisant une pression sur votre poignet et vous invite à consulter votre application. Alors le socle muni de la balle de parole s’active lorsque le conflit éclate. Elle invite les utilisateurs à se munir de la balle de parole afin de poursuivre la confrontation. La balle connectée au bracelet suit les principes du bâton de parole.</p>
+<p>Le bracelet connecté mesure ...</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c7e96d-ff78-464d-a63c-e4a2938bfc0b/ecosytem_Service_4.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c7e96d-ff78-464d-a63c-e4a2938bfc0b/ecosytem_Service_4.jpg"></p>
+<p>L'application Feel est connecté à tous les appareils et permet un suivi global.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/277bc6a7-f418-4cd4-8328-68a3b2e6e54a/ecosytem_Service_3.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/277bc6a7-f418-4cd4-8328-68a3b2e6e54a/ecosytem_Service_3.jpg"></p>
+<p>Le socle et la balle de parole : Ce support cylindrique permet de recharger la balle de parole et de détecter les tensions dans la pièce au sein de laquelle il se trouve.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5967fb72-9189-4217-b2d2-1fef72747f1d/ecosytem_Service_2.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5967fb72-9189-4217-b2d2-1fef72747f1d/ecosytem_Service_2.jpg"></p>
+<p><code>photo de la video MOCKUP ?</code></p>
+<p><strong>Processus</strong></p>
+<ol>
+<li>
+<p>Jour 1</p>
+<ol>
+<li>idéation</li>
+<li>expérimentation</li>
+</ol>
+</li>
+<li>
+<p>Jour 2</p>
+<ol>
+<li>idéation</li>
+<li>scénario</li>
+</ol>
+</li>
+<li>
+<p>Jour 3</p>
+</li>
+<li>
+<p>Jour 4</p>
+</li>
+<li>
+<p>Jour 5</p>
+<ol>
+<li>presentation</li>
+</ol>
+</li>
+<li>
+<p>Ideation</p>
+</li>
+<li>
+<p>Scénario</p>
+</li>
+<li>
+<p>Expérimentation</p>
+</li>
+<li>
+<p>Prototypage</p>
+</li>
+<li>
+<p>Itération</p>
+</li>
+</ol>
+<p> </p>
+<h1 class="align-center"><strong>Idéation</strong></h1>
+<p>Le processus de design est itératif et le prototypage permet d'explorer des expériences.</p>
+<p>À partir de la thématique, nous avons commencé par faire des brainstorming afin trouver et relier des thématiques entre elle. C'est par cette méthode que nous avons trouvée l'idée de la "dispute". Elle représente des moments du quotidien dans des contextes, sujets et provoque certaines émotions qui sont susceptible d'arriver.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a1cf9bb-4a1a-45c9-aa25-cb6e0bf43c49/Capture_decran_2020-07-13_a_19.16.44.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a1cf9bb-4a1a-45c9-aa25-cb6e0bf43c49/Capture_decran_2020-07-13_a_19.16.44.png"></p>
+<p>Premier brainstorming</p>
+<p>Explication brainstorming plus</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/174dd761-ed49-4d9e-9f84-b165a1de8c19/Capture_decran_2020-07-13_a_19.19.32.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/174dd761-ed49-4d9e-9f84-b165a1de8c19/Capture_decran_2020-07-13_a_19.19.32.png"></p>
+<p>Deuxième brainstorming à partant de la dispute</p>
+<p>Nous avons scénarisé des contextes de "disputes" et les avons expérimenter avec divers medium. Cela nous a permis de comprendre comment fonctionner les éléments-stimuli extérieures à la personne qui peuvent agir. Nous avons matérialisé les résultats et recherche afin de comprendre pourquoi il arrive des disputes mais ela dépend aussi du caractére de chacun.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5589e01a-6dbd-49b6-a0cf-f3e09b6100de/Capture_decran_2020-07-13_a_19.30.17.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5589e01a-6dbd-49b6-a0cf-f3e09b6100de/Capture_decran_2020-07-13_a_19.30.17.png"></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0719b3e8-b622-4c12-9993-ab848c5155ba/Capture_decran_2020-07-13_a_19.44.37.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0719b3e8-b622-4c12-9993-ab848c5155ba/Capture_decran_2020-07-13_a_19.44.37.png"></p>
+<p>Sélection pour les scénarios. Element moteur de dispute et moment de dispute.</p>
+<p>Nous avons rechercher plein d'idée par la scénarisation, des brainstormings afin de les prototypés et itérer.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97143659-dbb9-4d9e-8acc-23029d0b9bc0/Capture_decran_2020-07-13_a_19.32.45.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97143659-dbb9-4d9e-8acc-23029d0b9bc0/Capture_decran_2020-07-13_a_19.32.45.png"></p>
+<p>Les scénarios, les prototypes d'expérience et les tests nous ont permis d'orienter notre chemin et nos choix de conception vers un produit qui permet la médiation et l'accompagnement lors de moment conflictuelle où il peut y avoir des manques de communication. Dans ce sens, les objets se veulent intermédiaire en changent l'emplacement conflictuelle qui peut avoir quand deux personnes ne sécoute pas.</p>
+<p><code>photo prototypage objet expérience</code></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4889e4f-9fc7-475d-a380-78eeee9d9073/Capture_decran_2020-07-13_a_19.35.30.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4889e4f-9fc7-475d-a380-78eeee9d9073/Capture_decran_2020-07-13_a_19.35.30.png"></p>
+<p>Problèmes qui peuvent survenir dans les pièces d'une maison.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d8b3415-2bb0-49e9-933d-65449aecf681/Capture_decran_2020-07-13_a_19.43.59.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d8b3415-2bb0-49e9-933d-65449aecf681/Capture_decran_2020-07-13_a_19.43.59.png"></p>
+<p>Parcours d'un dispute.</p>
+<p>Nous avons choisi d'expérimenter la dispute dans le contexte de foyer familliale ou la où l'on vit. Quand un moment contrainient arrive le pout agumente par l'augmentation des mouvement de bras du pout. Où bout de la deuxiéme evenement accentuent par un autre contraration, le bracelet vibre pour informer de cette état. Si le tont monte entre les individus, le socle repére la dispute et ce met à clignioté pour amener à prendre la balle et à la manipulet. Elle devient le baton de parole.</p>
+<p>Nous avons énormement diversifier nos supports alant du prototype carton, du sketch à des maquettes visuelles et 3D.</p>
+<p><code>sketch, 3D,wireframe</code></p>
+<p><code>vidéos</code></p>
+<h1 class="align-center">Outputs</h1>
+<ul>
+<li>photo 3D</li>
+<li>Application</li>
+<li>mockup</li>
+<li>photo dans le salon</li>
+<li>vidéo</li>
+</ul>
+<p> </p>
+<h1 class="align-center">Conclusion</h1>
+<p>Ce projet m'a appris une approche d'une design expérimenter dès le départ de la conception par le prototypage d'objet, penser pour faire, expérimenter autrement des expériences et des émotions (que je trouve bien loin du design thinking). Ce type de projet est très collaboratif et demande une équipe pluridisciplinaire avec compétences diversifiée. Pendant la phase d'idéation, j'ai essayé de voir comment des objets numériques tel que les lampes, le son pouvait et les intéractions avec des mécanismes nous capté ou détourné. Cela à amener à expérimenter un objet autour du poigniée qui s'enclanche par une pression celon la situation. Et j'ai finalement concu des prototypes des 3D.</p>
+<p><em>" Le projet a été très collaboratif et nous avons travaillé tous les trois à un même objectif. Pendant la phase de mise en œuvre, j'ai essayé d'envisager une nouvelle catégorie de produits plutôt que d'essayer de la forcer à l'intérieur de vidéos, d'appels ou de signaux de discussion. J'ai essayé d'être très précis et cohérent sur la façon dont cette nouvelle catégorie était exprimée dans l'application. Au final, cela s'est traduit sous de nombreuses formes : animations, conception visuelle, flux d'interaction et utilisation du langage.</em></p>
+<p><em>J'ai essayé d'envisager une nouvelle catégorie de produits plutôt que d'essayer de la forcer dans des vidéos, des appels ou des chats.</em></p>
+<p><em>En outre, j'ai lancé une discussion sur le positionnement visuel, ce qui nous a fait réfléchir à la manière de positionner notre application par rapport à Skype. Finalement, j'ai construit un prototype fonctionnel en utilisant <a href="http://proto.io/">Proto.io</a> et j'ai essayé de créer des animations significatives."</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Co-concevoir une mobilité durable dans les zones rurales / penser des nouveaux modes de transport dans les milieux ruraux</title>
+        <author>
+            <name>Lucas</name>
+        </author>
+        <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
+        <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
+
+        <updated>2020-10-07T16:14:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/vga-portfolio.jpg" alt="" />
+                    Accompagner l’innovation dans les politiques publiques Pitch. Penser la mobilité durable dans&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/vga-portfolio.jpg" alt="" />
+                <p>Accompagner l’innovation dans les politiques publiques</p>
+<p><strong><em>Pitch. </em></strong>Penser la mobilité durable dans les zones rurales pour les trajets domiciles-travail</p>
+<p><strong><em>Étiquettes. </em></strong>UX Research - UX Design - Design Fiction </p>
+<p><strong><em>Durée. </em></strong>4 semaines</p>
+<p><strong><em>Équipe. </em></strong>Noémie Antoine designeuse graphique et d'expérience - Margaux Maro-des-grottes designeuse graphique et d'expérience - Mégane Richard designeuse de service et d'expérience</p>
+<p><strong><em>Agence.</em></strong>Université de Bordeaux Montaigne, Communauté de commune Val de Garonne agglomération</p>
+<p><strong><em>Secteur. </em></strong>Innovation Publique</p>
+<h3> </h3>
+<h3><strong>Résumé</strong></h3>
+<p>La collectivité publique Val de Garonne Agglomération (VGA) a pour volonté de devenir acteur du le développement économique que connait actuellement la métropole de Bordeaux. En vue d'augmenter sa croissance et son économie, elle souhaite participer (au developpement de bordeaux) en se positionnant en tant pole résidentielle dans le paysage rural de Bordeaux. Elle met donc en place une stratégie d’attractivité et de mobilité résidentielle qui passe par une offre de transport alternative à la voiture particulière <em>(train, transports en commun et covoiturage) et</em> qui a pour but de fluidifier l'axe entre Bordeaux et son territoire.</p>
+<p>Dans ce contexte, notre travail consiste à accompagner les politiques publiques en dressent des scénarios propetifs qui imagine le développement de la <strong>mobilité résidentielle et professionnelle</strong> à l’échelle de l’agglomération et des villages voisins.</p>
+<h3><strong>Problème</strong></h3>
+<p>La voiture est très utilisée du à son milieu rural et la liberté qu'elle offre. Les transports en communs sont moins avantageux que la voiture, surtout en ce qui concerne les trajets domicile-travail. En comparaison, la voiture permet une plus grande flexibilité et indépendance dans ce milieu et se retrouve choix numéro 1 pour se déplacer. Mais dans le contexte actuel de la crise environnemental et de pollution, l'agglomération se trouve très polluer à cause de la voiture et doit repenser la mobilité vers <em>des comportements plus responsable, pour les flux de déplacement entre les communes pour les trajets domicile-travail et donc revoir le systeme de transport en commun.</em></p>
+<p><code>image diagramme utilisation voiture transport en commun.</code></p>
+<p><strong>Comment penser une offre de service de transport durable et flexible en prenant en compte le milieu rural dans le Val-de-Garonne afin de limiter l’usage de la voiture personnelle ?</strong></p>
+<h3><strong>Solution</strong></h3>
+<p>Les réponses apportées sont prospectives et permettent aux collectivités publiques d'envissager des possibles pistes de recherche et solutions à concrétisé sur le court, moyen et long terme. Notre piste ce base sur la création d'un univers fictif dans lequel habitants et élus du VGA vont se projeter par l'utilisation du design fiction, afin de remettre en question les hypothèses et à imaginer un future différent. Cette fiction sera l'introduction à une participation citoyenne par des débats et ateliers entre habitants, politiques publiques et acteurs autour de la mobilité dans le VGA afin d'envisager et d'expérimenter des solutions.</p>
+<p><span style="color: #f1c40f;">Nous avons conçu un processus de participation citoyenne afin d'informé et d'inclurer les citoyens à la conception d'idée pour une implémentation locale. </span></p>
+<h4>Le design fiction pour se projeter dans un future probable</h4>
+<p><span data-token-index="0" data-reactroot="">Titre</span></p>
+<p>Pour croire à la fiction, nous avons conçu une</p>
+<p>Un atelier permettent à tous de débattre apporté par un futur imaginaire.</p>
+<h4>Et si...?</h4>
+<h5><span data-token-index="0" data-reactroot="">...on ne pouvait plus conduire seul ?</span></h5>
+<p><span data-token-index="0" data-reactroot="">Pour croire à la fiction, nous avons conçu une différent dispositif : site, flyers et vidéo reprennent les codes du gouvernement et des médias. </span></p>
+<h4>Se projeter, débattre et imaginer pour innover</h4>
+<p><span data-token-index="0" data-reactroot="">Accompagner les politiques publiques d</span></p>
+<p>Ce récit fictionnel est l'ouverture à des ateliers de débats entre les parties prennentes. Ainsi, nous proposons des outils pour accompagner les ateliers afin de faire émerger des problématiques</p>
+<h3><strong>Processus</strong></h3>
+<p><strong>1. Immersion</strong></p>
+<ul>
+<li>recherche utilisateur</li>
+<li>questionnaire</li>
+<li>analyse des flux</li>
+</ul>
+<p><strong>2. Idéation</strong></p>
+<ul>
+<li>exploration de solution</li>
+<li>scénarios d'usage</li>
+<li>wireframe</li>
+</ul>
+<p><strong>3. Conception-exploration</strong></p>
+<ul>
+<li>design fiction</li>
+<li>vidéo</li>
+<li>atelier</li>
+</ul>
+<p> </p>
+<h2 class="align-center"><strong><span style="color: #fc9561;">1. IMMERSION</span></strong></h2>
+<p> </p>
+<h3><strong>Contexte</strong></h3>
+<p>Le Val-de-Garonne, c'est...</p>
+<p>43 communes<br>Deux villes-centres : Marmande (18 000 habitans) et Tonneins (9 000 habitants)<br>Situé à proximité de grandes métropoles : Bordeaux et Toulouse<br>Une politique coeur de ville : redynamiser la ville et le centre-vile de ville<br>Un patrimoine agricole et rural<br>Des pôles industriels.</p>
+<p>Le VGA est un territoire majoritairement rural et agricole. Les besoins des habitants sont décentralisés, par conséquent ils doivent parcourir de longues distances pour se rendre d’un point A à un point B, ce qui entraine une forte utilisation de la voiture. Malgrés les 4 lignes de transports fixes et un service de transports à la demande pour les villages situé aux alentours des villes centres (et location vélo), les transports en communs sont peut utilisés.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/vga-chiffre.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-lg.png 1024w"  alt="" width="1394" height="628"></figure>
+<p><code>(communes excentrés et habitations isolés)</code></p>
+<p><code>travail en usine ? diogramme</code></p>
+<p>L'agglomération va se voir ajouter des lignes de transports reliant les villages (bourg-relais) au pole centrele (marmande et tonneins).</p>
+<figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/carte-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-lg.png 1024w"  alt="Carte-transport " width="1618" height="832">
+<figcaption >Visualtion des transports existants et futures dans le Val de Garonne</figcaption>
+</figure>
+<h3><strong>Inspiration terrain</strong></h3>
+<p>Après une réunion avec les élus de l'agglomération du Val-des-Garonnes pour le brief du projet et fixer les objectifs, notre équipe c'est rendu sur le terrain afin de commencer par une phase de recherche utilisateurs et d'immersion dans la ville la plus importante du VGA : Marmande. Pour chaque projet de design, commencé par une phase d'inspiration et d'immersion permet de ce confronté à certain vécu des usagers.</p>
+<p>À partir du grille de questions, nous avons aussi interrogé environ 20 habitants afin d'identifier les habitudes de transports et les connaissances des transports en communs et les besoins des usagers : les usagers des transports en commun, les chauffeurs de car, les riverains et automobiliste. et des informations sur les expériences de chacun-futur utilisateur.</p>
+<p>Nous avons pris les transports en commun afin de savoir au mieux comment se passe un trajet du centre ville de Marmande vers la périphérie (usines et habitations) (temps, confort).</p>
+<p><code>photo bus</code></p>
+<p><code>-&gt; image verbatins</code></p>
+<p><code>photo trie des verbatims</code></p>
+<p> </p>
+<h5><strong>Analyse des recherches</strong></h5>
+<p>A partir de cette étude et d'une observation global, nous avons fragmenté les utilisateurs principaux en plusieurs groupes : les utilisateurs de voiture, des transports en commun avec les jeunes travailleurs, les lycéens-collégiens et les personnes âgés. Nous avons détaillé leur profile en fonction de leurs objectifs, attentes, motivations, peurs et appétences technologique. Nous avons put élaborer la visualisation de l'expérience d'usagers. Grace à cela, nous avons visualisé les besoins et objectifs des l'utilisateurs durant leurs utilisations d'un service ou produit, en notant les émotions négatives et positives de ces interactions. Les points importants des besoins et douleurs de l'expérience nous ont été utile dans la phase d'idéation.</p>
+<p><strong><em>Photos livrables 1.1???</em></strong></p>
+<h5><strong>Les usagers en voitures</strong></h5>
+<p>Nous observons que la voiture est le moyen qui permet beaucoup le plus de flexibilité en comparaisons aux transorts en commun. De plus, en analysant l'économie des villes, nous observont des centres-villes desertique, les princpaux commerces se trouvent dans des zones commerciales en périphérie et que les services (travail, santé) sont éparpillés dans les communes du VGA. Ils sont donc plus adapté et accessible en voiture.</p>
+<p><code>→ personea</code></p>
+<p><code>→ parcours usager</code></p>
+<h5><strong>Les usagers des transports en commun</strong></h5>
+<p>Les parcours usagers des transports en communs est moins flexible car il y a moins de fréquence, peu d'arréte à l'extérieure dans les villages ce qui oblige à prendre le vélo par exemple. Il y aussi moins de connexion intercommunale obligant à passer par Marmande si l'on veux aller dans un autre village. De plus, la fluidité du parcours est ralenti par la complexité des inscription et des réservations pour les bus à la demande (il faut prévoir, appeler) et des problémes logistique entraine des retards et des problémes de correspondances. Enfin, il y a peu de service de mobilités proposait par rapport aux besoins de déplacement quotidients des habitants, autent en transport en commun mais aussi en aménagemnt <em>(peu ou pas de parking relais, peu ou pas de routes dédiés aux vélos).</em></p>
+<p><code>→ parcours</code></p>
+<p><code>→ personae</code></p>
+<h3><strong>Constat</strong></h3>
+<p>Notre analyse nous a amené à plusieurs constats : intermodalité actuelle en milieu rural :</p>
+<ul>
+<li>Un manque d’informations sur les transports à disposition ;</li>
+<li>Difficulté de réservation et d’accessibilité aux arrêts (adaptabilité suivant l’usager jeune ou sénior) ;</li>
+<li>Manque de services de mobilité - non flexible et non fluide ;</li>
+<li>Certains types de mobilité ne sont pas utilisés par manque d’information et peur / préjugés (covoiturage) ;</li>
+<li>Non sensibilisation à la mobilité de demain, intérêt collectif et individuel à utiliser les transports en commun pour favoriser l’intermodalité.</li>
+</ul>
+<h3><strong>Les besoins des usagers <span style="color: #fc9561;">(avant constat ?)</span></strong></h3>
+<p><em>Suite à nos observations de terrain et à nos analyses des flux de mobilité et les services de mobilité existant, nous avons dégagés des besoins essentiels. P</em>armit ces points on peut citer : la mise en palce plus clair d'information clair sur les services de mobilité éxistant, d'avoir accés à des services de mobilités (fluides et flexibles, accessible, proximité). La fluidité pour <em>l'inscription et la réservation en amont de trajet en bus et nous constatons que l’accessibilité physique aux réseaux de transport est difficile, notamment si la personne n’a pas d’arrêt dans sa commune ou si les arrêts sont éloignés. Enfin, la fréquence des horaires est limitée.</em></p>
+<p><em>et aussi nous constatons que les correspondances sont nombreuses et que l’intermodalité est un frein aux déplacements doux.</em></p>
+<p>Les besoins des usagers :</p>
+<ul>
+<li>Besoins d’être <strong>informé</strong> (sur les services de mobilité existant)</li>
+<li>Besoins de <strong>fluidité</strong></li>
+<li>Besoins de <strong>flexibilité</strong>(dans le temps et l’espace)</li>
+<li>Besoins d’accessibilité</li>
+<li>dépendance à la voiture</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/besoins.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-lg.png 1024w"  alt="" width="1248" height="604"></figure>
+<p>Cibles</p>
+<p><span data-token-index="0" data-reactroot="">De ce contexte, nous avons dégagé des types d’usagers potentiels qui sont les habitants travaillant à horaires fixes pour la</span> <span data-token-index="2" data-reactroot="">mobilité résidentielle et professionnelle</span><span data-token-index="3" data-reactroot="">. Ceux qui réalisent ce type de trajet réguliers sont certains employés, beaucoup d’ouvriers et surtout les scolaires.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/cibles.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-lg.png 1024w"  alt="" width="2000" height="1066"></figure>
+<h2> </h2>
+<h2 class="align-center"><strong><span style="color: #fc9561;">2. Idéation</span></strong></h2>
+<p> </p>
+<p>Les parcours usagers ont permis d'identifier les points de faiblesse des usagers du bus mais au aussi des pistes de leviers sont apparues. Suite à la commande du commanditaire, nous avons émis trois pistes de solutions afin de le présenter et sélectionner la piste qu'ils voulaient explorer.</p>
+<h3>Piste 1</h3>
+<p>Notre premiére piste permet de p<strong>enser et favoriser l’offre de service de mobilité des navettes <s>(PEM - Bourgs-relais)</s>.</strong></p>
+<p>Faciliter l’accès au nouveau service de mobilité dans les trajets des communes vers les PEM (???) en améliorant la découverte et l’information, en optimisant la réservation et en enrichissant l’expérience du voyage. Cette hyposthése répont aux problémes de information et communciation autour des transports en commmuns. Cependant, cette hypothèse ne permettait pas de répondre à la demande de fluidité.</p>
+<p> </p>
+<h3>Piste 2 : un s<strong>ervice de covoiturage</strong></h3>
+<p><code>→ page 22 à 27 livrable 2</code></p>
+<p>La deuxième piste explorer la notion de creation de nouvelle économie de la mobilité. Pour cela, j'ai imaginer un service de transport collaboratif basé sur le covoiturage, pour les déplacements communaux et in-tercommunaux de Val des Garonne Agglomération gratuit et gratifier. De plus cette nouvelle offre de service permet un intermédiaire à la voiture particulière pour faciliter l’intercommunalité et l’interconnexion avec les services de mobilité des navettes (PEM - Bourgs-relais).</p>
+<p>Le service de covoiturage fonctionnerai sur le meme principe qu'une application mais de façon gratuite en rémunérant les usagers de monnaie local créer pour cela. La monnaie pourrait ensuite étre utilsié dans les commerces du VGA. Cependant, le conducteur ne se rémunére par sur les couts de sont trajets. En partenariat avec les commerçants locaux.</p>
+<p>Pour présenter cette hypothése, nous l'avons mit sout forme de scénarios d'usage.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/pist-2-stotyboard.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/pist-2-stotyboard-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/pist-2-stotyboard-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/pist-2-stotyboard-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/pist-2-stotyboard-lg.png 1024w"  alt="" width="1542" height="990"></figure>
+<h3><strong>Piste 3 : transversal</strong></h3>
+<p>L'agglomération du vag souhaité une réflexion transversale sur l’évolution des mobilités face à l’enjeu de la lutte contre le changement climatique et l’élaboration de scénarios prospectifs d’adaptation des mobilités (déplacements individuels, et éventuellement intégration du fret) aux contraintes environnementales et réglementaires de demain. inclut dans la problématique de trajet domicile-travail.</p>
+<p>Nous avons imaginer <em>les futurs modes de transport qui permettront de répondre aux problématiques de mobilité en milieu rural que vous avez identifiées en phase de diagnostic.</em></p>
+<p>Nous avons imaginé en piste transversal la construction de design fiction. Afin d'anticiper les futurs probables, en pensant le futur afin de réinterroger le présent, pour faire naître le débat, proposer des solutions futurs ou montrer les limites des solutions existantes, en mêlant la réalité et la fiction pour construire un monde possible, et ainsi se projeter dans le futur.</p>
+<p>Utiliser le design fiction pour établir un contexte qui engage la réflexion et propose des solutions futurs afin de sensibiliser les usages vis-à-vis de la voiture</p>
+<p>Après sélection du client, nous sommes partie sur une expmoration par le design fiction.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/piste-3-transversalle.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-lg.png 1024w"  alt="" width="1552" height="786"></figure>
+<h2> </h2>
+<h2 class="align-center"><strong><span style="color: #fc9561;">3. Construire le future</span></strong></h2>
+<p> </p>
+<p>La construction de notre solution de design fiction se divise en deux étapes :</p>
+<ol>
+<li>la conception du design fiction dans un premier temps qui introduit à un imaginaire à travers des objets d'immersions ;</li>
+<li>ce qui améne à des ateliers de coopération-coparticipation dans une deuxiéme temps servent à débattre sur la mobilité par le design fiction et a imaginé un futur meilleur en participation avec les habitants, élus et parties prenantes.</li>
+</ol>
+<figure class="post__image"><img loading="lazy"  src="../../../../../../Users/lucasbramas/Documents/job-board/portfolio/code/v4/img/vga/fiction" data-is-external-image="true"  alt="" width="1502" height="736"></figure>
+<h3> </h3>
+<h3>Le design fiction explication <em>(plus haut avant explication solution?)</em></h3>
+<p><strong>Quoi ?</strong> Le design fiction est une branche du design qui créer des projets fait pour anticiper des futurs plausibles, probables, désirables, préférables... On imagine le futur grace à la fiction pour réinterroger le présent par la projection « et si... c’était comme ça... que se passerait-il ? » au travers d'un récit.</p>
+<p><strong>Pourquoi ?</strong> Le design fiction sonde nos croyances et nos valeurs, remettent en question nos hypothèses et nous encouragent à imaginer comment ce que nous appelons la « réalité » peut être différente. Et permet de créer des débats autour de problématique. Pour ces raisons, le design fiction prend une place de plus en plus importante au sein des politiques publiques car “ces nouvelles visions qui s’expriment sont des retours à considérer pour éclairer les décideurs publics.” (qui??)</p>
+<p><strong>Comment ?</strong> Il s’agit de créer un contexte, une histoire fictive autour d'un récit dans laquelle nos usagers/spectateurs peuvent se projeter et cela à l’aide d’un univers tangible et d'objet qui créer un monde. C'est dans la projection dans ce monde fictif que l'on peut débattre en utilisant comme support les élements de ce monde.</p>
+<blockquote>“Le design fiction, c’est avant tout une invitation à penser et repenser les futurs. En critiquant les présents à l’œuvre aujourd’hui, il inspire de nouveaux imaginaires pour demain. La démarche propose une posture critique quant à l’innovation publique.” Max MOLLON &amp; Bastien KERSPERN</blockquote>
+<h3><strong>Construire un monde : la fiction </strong></h3>
+<p class="align-center"><strong>Et si on ne pouvait plus conduire seul ?</strong></p>
+<p>Notre monde fictif imagine la mobilité avec le moyen de transport idéal pour les habitants du VGA : la voiture. Pour que cela soit viable, nous avons imaginé une lois sur le covoiturage à certains horaire afin de sensibilisé à la voiture à plusieurs. Basé sur la vignette étiqu'air, une vignette doit être apposée sur le part-prise pour savoir combien de personne doivent se trouver dans la voiture dans certaine tranche horaire. Celon la voiture, vous devriez conduire avec un, deux ou trois passagers dans votre voiture.</p>
+<p><span style="color: #fc9561;">Nous avons choisissons de parler de la voiture particuliare car il y a une forte dépendance des habitants pour ce type de transport, qui nettement plus facile d'usage que les transports en communs. Pourtant, n’est-ce pas toujours contraignant ? Plein de questions peuvent se poser. C’est l’objectif du design fiction.</span></p>
+<p>Nous avons imaginer un futur possible, problable mais celui-ci n'est peut étre pas préférable ni meme parfait, ce n'est peut étre pas comme ca que les choses vont ce passer, mais il nous permet d'etre la base de la refléxion.</p>
+<p><span data-token-index="0" data-reactroot="">Nous proposons ce système de vignette pour sensibiliser à la voiture à plusieurs car si il y a trop de voiture seul pollution. </span></p>
+<p><code>expliquer plus pk design fiction et choix</code></p>
+<p>Pour introduire le design fiction, nous avons immaginer une vidéo de présentation.</p>
+<p>Voici la vidéo fictive présentent le concept dans le VGA.</p>
+<p><code>Vidéo bruit</code></p>
+<p>Pour immerger les spectateurs et habitants en plus de la vidéo, nous avons présenté un site internet où les usagers peuvent simuler leur carte Écovoit’.</p>
+<p><code>video site</code></p>
+<p>Cette vidéo et ce site ne sont pas des prototypes habituels, ce sont des objets de diégèse, qui invite à croire en une fiction, par lequel nous envisageons l’avenir. Ces prototypes non pas pour but d’être des produits applicables, vendables (mis à disposition sur le marché) comme le propose ceux du design traditionnel, ce sont des prototypes du design fiction, ils ont pour but de questionner.</p>
+<p>Nous avons concut d'autre object de communication, chaque dispositif de fiction est choisi pour plonger le citoyen dans la fiction, il faut créer un point de jonction, point qui permet de relier la fiction au réel. En reprenant les codes de communication du gouvernement, et les médias que ce dernier utilise, cela ancre et positionne notre fiction dans un quotidien familier au citoyen :</p>
+<ul>
+<li>Flyers et affiches en ville : moyen fortement utilisé par le ministère pour transmettre un message + Style. conventionnel qui appui cette jonction au réel.</li>
+<li>Site : pour asseoir l’image sérieuse et préventive de l’institution.</li>
+<li>Vidéo : communication indirecte autre que du gouvernement qui plonge directement dans la fiction, permettant de cibler les citoyens jeunes qui utilisent un autre médium pour s’informer de l’actualité comme Facebook.</li>
+</ul>
+<p>(design fiction comment ? on met où quoi ? → )</p>
+<h3><strong>Concevoir avec les usagers</strong></h3>
+<p><span style="color: #e03e2d;">Le design fiction propose une histoire qui interroge notre quotidien, nos besoins. Et c’est grâce à ces réactions que nous pouvons créer ensemble dans la seconde phase regroupant des ateliers. Pour ce faire il faut dans un premier temps, introduire une fiction sur le territoire de VGA, celle que nous vous avons montré, c’est-à-dire dans des lieux publics. Puis proposer une instance de co-création, débat et atelier. L’atelier permet de créer du lien, de la cohésion sociale entre habitants et l’action publique. Avec l’atelier on crée un espace temps pour avoir des retours de citoyens pour permettre aux élus de prendre en considération leurs avis et faire des choix adaptés. Le design fiction permet de prendre du temps pour le débat, la discussion entre élus et citoyens.</span></p>
+<p>Avec la fiction, nous avons décidé d’aller encore plus loin que le débat, en réalisant des ateliers qui serviront eux à créer des solutions qui vont être appliquées sur le territoire. Ici, c’est notamment pour répondre à des besoins de mobilité intra VGA, trajet domicile-travail, que nous avons réalisé ces prototypes de fiction.</p>
+<p>Nous avons imaginé le dérouler des ateliers avec les différentes phases le comprennent, ainsi qu'élaborer des outils pour celui-ci. La première partie étant faite pour présenter et débattre autour de la fiction, et la deuxième pour trouver des problématiques et réfléchir à des solutions par la suite dans d'autre atelier.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/atelier-1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-1-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-1-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-1-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-1-lg.png 1024w"  alt="" width="1514" height="454"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/atelier-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-2-lg.png 1024w"  alt="" width="1510" height="512"></figure>
+<p><code><span data-token-index="0" data-reactroot="">photo outils</span></code></p>
+<p>Nous avons imaginer que les ateliers pourraient être décliner par la suite en différentes phases, allant jusqu'a imaginer et pourquoi pas propotyper et tester des solutions imaginer.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/atelier-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-3-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-3-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-3-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/atelier-3-lg.png 1024w"  alt="" width="1822" height="1156"></figure>
+<p><span style="color: #e03e2d;">Viens ensuite des ateliers autour de la génération d’idée, la classification des solutions (cours terme : “bricolage“, que les citoyens peuvent faire), moyen et long terme, et la conception de scénario d’usage. La fin de chaque atelier laisse place à un pitch, une restitution de ce qui a été fait dans la journée. L’atelier de prototypage et de test permettra de concevoir des prototypes de solution (court-moyen-long terme) et de les tester.</span></p>
+<p><code>-&gt; photo</code></p>
+<p><span style="color: #e03e2d;">L’idée du dernier atelier est un développement d’idées plus abouties. Mais il faut envisager au moins 3 orientations de l’idée à développer. En effet, pour ne pas que l’idée reste dans un coin en attendant, toute la phase d’approbation, prototypage, réalisation, qui prend du temps, des solutions immédiates doivent voir le jour. C’est alors la solution « bricolage », où les citoyens pourront développer à leur échelle, avec leurs moyens la solution première, qui permet d’ancrer un premier pas dans la réalisation, l’action et c’est ce pas qui va permettre de rester motiver. Si on arrête l’atelier en annonçant qu’il faut maintenant attendre 3 ans avant d’obtenir les fonds/fiances nécessaires, cela démotivera un grand nombre. La secondaire, c’est avec les élus, une solution à moyen terme qui permet et envisage une plus longue réflexion. Enfin, la dernière est notre solution à long terme. Solution qui nécessite plus de besoins, plus de ressources, et donc qui demande plus de temps. OUVERTURE : Un format (atelier) envisageable pour d’autres problèmes. Le principe serait de continuer les ateliers avec les citoyens &gt; Innovation, acte politique en soi qui permet de co-construire l’avenir ensemble.</span></p>
+<h3>L'intérêt</h3>
+<p><span style="color: #e03e2d;">L’intérêt du design fiction : Vous sensibilisez vos citoyens à la mobilité. Vous engager une démarche d’empathie envers vos citoyens. Vous proposer de construire une solution pérenne car vous la construisez avec eux. De plus, le fait de le faire avec le design fiction per- met d’apporter un certain recule et de <strong>poser les bases d'un vrais problématiques.</strong> En effet, comme remarqué, vos citoyens ont une forte dépendance à la voiture, il faut alors passer par une sensibilisation, une remise en question de leurs pratiques pour imaginer investir une autre forme de mobilité. Que ce soit avec la navette (en vue de la complexité qu’elle représente) ou avec du covoiturage gratifié (en vue du premier oral). Le design fiction va vous permettre aussi d’explorer en profondeur les possibilités d’action là où le design thinking n’aurais pas imaginé les futurs possibles.</span></p>
+<p> </p>
+<p>L'observation de terrain nous a permis de faire émerger des problématiques existante en terme de mobilité, que le design fiction nous permet de réintérroger au travers du récit narratif. Apres cela, nous pouvons réintégrer une phase d'idéation nouvelle. Meme si cela pourra paraitre redondans, il nous semblait primordiale de pouvoir réintérroger les problématiques et objectifs avec toutes les parties prenentes afin de pouvoir par la suite proposé un service qui prennent en comtpe des problémes systémiques plus profond. (pas simplement un arrete si la.. repsenser defacon global et plus en profondeur.)</p>
+<p>Ils nous semblaient nécessaires de pouvoir repartir sur une phase d’exploration et d’idéation en coopération-participation avec les habitants du à la diversités géographiques de l’implémentation</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Accompagner les politiques publiques </title>
+        <author>
+            <name>Lucas</name>
+        </author>
+        <link href="https://lucas-bms.github.io/gh-pages/projet-2.html"/>
+        <id>https://lucas-bms.github.io/gh-pages/projet-2.html</id>
+
+        <updated>2020-10-06T16:43:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/2/IMG_20190408_141355.jpg" alt="" />
+                    Réalisation de proposition de valeur suivi d'un sprint design afin de clarifier&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/2/IMG_20190408_141355.jpg" alt="" />
+                <p>Réalisation de proposition de valeur suivi d'un sprint design afin de clarifier les offres de chaques service.</p>
+<p><strong>Étiquettes. </strong>facilitation, workshop, value proposition design, figma, design sprint, product design</p>
+<p><strong>Team. </strong>pour la préparation : Erwan Leluron chef de projet, Alexandra Douine designeuse de service et infographiste Nod-a (prestataire de service design)</p>
+<p><strong>Role. </strong>Designer de services</p>
+<p><strong>Platform. </strong>wireframe papier, concept de service, kit</p>
+<p><strong>Timeline. </strong>2 semaines</p>
+<p><strong>Constraints. </strong>le changement</p>
+<h1> </h1>
+<h1> </h1>
+<h1> </h1>
+<h1 class="align-center">Project overview</h1>
+<p> </p>
+<p>Travaillant comme service designer et ux designer au sein de la Métropole de Lyon durant 1 an dans une équipe projet, j'ai participé à la préparation d'un sprint design. Pendant 18 heures, nous avons conçus et prototyper des applications mobiles (et business ? voir <a href="http://verachen.me">verachen.me</a>) afin de clarifier l'offre de service rendu par les services de la Métropole.</p>
+<ul>
+<li>améliorer les propositions de valeurs (clarifier)</li>
+<li>aider les usagers partenaires à mieux différencier les services et fludifier les parcours entre eux (ctd passage d'un service à l'autre).</li>
+</ul>
+<h3><strong>Problème</strong></h3>
+<p>Les services numériques proposé aux usagers de la Métropole de Lyon sont orientés vers l'utilisation de Toodego pour les démarches administratives et vers le service Trabool pour la mobilité en transport et les offres culturelles. Les projets menaient au sein d'organisation publique sont parfois long et procédurio, la cultutre de test-learn ou de l'itiration n'est pas encore encrés dans le processus de projet ou difficillement appicable. et demande de toujours interroger.. c</p>
+<p>Ces services sont conçu (par dsn) sont construits en silo, les offres de services actuel et future ne sont pas connus et partagé à toutes l'équipe ce qui entraine des propositions des services parfois similaire : horaires des bus, nanina. Suite à des retours des partenaires et des usagers exprimant leurs manquent de compréhension de ce que chaque services proposent, car les partenaires de la métropole sont présents sont présent dans chacun des deux services (trabool-toodego), les chefs de projets ont décidé de s’organiser pour trouver une solution en organisant un design sprint. L’agence de design Nod-A a été missionné afin de mettre en place le workshop. Le chef de projet Erwan Leluron a convié les designers internes à la Métropole, Alexandra Douine et moi-même, pour l'organisation - l'accompagnement et la préparation de ce sprint design avec l'agence. Notre rôle était de concevoir avec les designers de l’agence l'organisation de l’atelier.</p>
+<p> </p>
+<h3><i>Solution</i></h3>
+<p> </p>
+<p> </p>
+<h3><em>Processus</em></h3>
+<ol>
+<li><strong>préparation du sprint</strong>
+<ol>
+<li>réunion de co-design</li>
+<li>business model canvas</li>
+<li>carte des interactions des projets</li>
+</ol>
+</li>
+<li><strong>Design sprint (déroulé)</strong>
+<ol>
+<li><strong>présentation analyse</strong> - (<em>présentation des business model des services, point de frictions des écosystémes</em>) → photos des fiches produits business model, photo de l'atelier, écosytéme et cartes intéractions</li>
+<li><strong>idéation</strong> <em>(création de parcours usagers, vote des scénarios-parcours usagers, scéanrios)</em></li>
+<li><strong>prototypage</strong> <em>(parcours usagers, nouveaux écosytémes des services, roadmap, interface, présentation des service, elevator pitch, presentation)</em></li>
+</ol>
+</li>
+<li><strong>Retour du sprint</strong>
+<ol>
+<li>analyse des retours</li>
+<li>réunions avec les chefs de projets</li>
+<li>entretien avec les décideurs</li>
+<li>test auprès des agents</li>
+<li>partages avec les chefs de projets</li>
+<li>création d'un "kit projet"</li>
+</ol>
+</li>
+</ol>
+<p> </p>
+<h1>1. Préparation du sprint</h1>
+<p><span style="color: #e67e23;">Le design sprint est une méthode d'atelier basé sur la résolution de problème par l'expérimentation, le maquettage et le test d'idée-hypothèse rapide sur 5 jours avec très peu de moyen.</span></p>
+<p><span style="color: #e67e23;">Le service Trabool et Toodego ont le probléme de</span></p>
+<p>Le sprint se passe sur deux jours, la problématique a donc été choisi durant des réunions avec les chefs de projets, le manager, les designers et l'agence de design sprint. Les divers problèmes ressortis auxquels les équipes projets sont confronté sont :</p>
+<ul>
+<li>L’offre de services des produits n’est pas connue ni partagée par tous les chefs de projets et les équipes projets</li>
+<li>Les services proposent certaines fonctionnalités similaires.</li>
+<li>Offre BtoB : les partenaires ne comprennent pas toujours l’articulation entre les différents services (et recoivent plusieurs soisitation des chefs ..)</li>
+<li>Offre BtoC : les usagers s’y perdre (exemple : il y la même offre pour Velo’v)</li>
+<li>Comment communiquer clairement sur les services proposaient ?</li>
+</ul>
+<p>Et donc comment la collectivité pour communiquer dessus<em>Business problem : servir les politiques publiques</em></p>
+<p>L’objectif du projet et clarifier les offres de services, d'avoir une vision commune partagée avec toute l'équipe.</p>
+<p>Quartes hypothèses de scénarios possible de solution ont été émis afin de déterminer le champs d'idée qui mèneront à l'idéation de nouvelle solutions. Ces scénarios représentent si les services doivent fusionner complétement, sur certains services ou ne plus recouvrir les mêmes services.</p>
+<ol>
+<li>Fusion des deux services-produits</li>
+<li>Partage des services en deux</li>
+<li>Séparation totale des services-produits</li>
+<li>Un produit aspire certaines service de l'autre</li>
+</ol>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5561d208-b2d3-4420-a8f8-4983c938c6c8/Capture_decran_2020-07-08_a_19.36.57.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5561d208-b2d3-4420-a8f8-4983c938c6c8/Capture_decran_2020-07-08_a_19.36.57.png"></p>
+<h3>Ecosyteme des projets</h3>
+<p>Pour la préparation du sprint, l'agence de design se chargeait de concevoir les outils de l'atelier (persona, parcours, canvas), et Alexandra Douine et moi-même de faire l'écosystème de services actuelle.</p>
+<p>J'ai aussi en amont du sprint proposé de faire le business model et la proposition de valeur de chaque service concernés avec les chefs de projets (Toodego, Trabool, Only'moov, Grand Lyon Connect) afin d'identifier des possibles répétition ou sujet à clarifier en complément de ceux proposé par l’agence. Ils seront par la suite présentés aux participants lors du sprint afin d'identifier des possibles répétitions ou sujet à clarifier. D’autres réunions ont été réalisées afin de préciser les problèmes et le dérouler de l’atelier que Nod-A nous proposait. L'agence était chargé de concevoir les outils pour l’atelier (persona, parcours, canvas), et nous les designers en internes, de mettre en place des outils qui serviront pour commencer l’atelier.</p>
+<h3>Proposition de valeur</h3>
+<p>La value proposition design et le business model servent à ...</p>
+<p>J'ai donc organisé des ateliers avec les chefs de projets pour le développement de nouvelle proposition de service. Cette exercice à était le moyen d'identifier des opportunités lors du workshop.</p>
+<p><em><code>Photos value proposition design</code></em></p>
+<p><em><code>carte des acteurs</code></em></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9f6b417-c791-41e4-bbe2-96eefe2b32fe/Capture_decran_2020-07-09_a_16.06.53.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9f6b417-c791-41e4-bbe2-96eefe2b32fe/Capture_decran_2020-07-09_a_16.06.53.png"></p>
+<h1> </h1>
+<h1 class="align-center">2. Design sprint</h1>
+<p>Le workshop - design sprint c'est déroulé sur deux jours (18heures) avec 20 participants (chefs de projets et experts), divisés en deux équipes. Alexandra et moi, designers internes, étaient partagé dans chaque équipe afin d'y apporté un point de vue design contenue du suivi des projets que l'on a.</p>
+<h3><strong>Présentation des analyses</strong></h3>
+<p>(<em>présentation des business model des services, point de frictions des écosystémes</em>) → <code>photos des fiches produits business model, photo de l'atelier, écosytéme et cartes intéractions</code></p>
+<p><strong>Business model canvas &amp; ecosysteme des produits</strong></p>
+<p>Après une présentation des business models des produits-services, chaque équipe était amené à relier les informations similaires et zones de recouvrement qui se retrouver dans les autres business model afin de repérer des doublons mais aussi à identifier les éléments flous. Nous avons put voir des partenaires communs, des services et des informations (exemple : qualité de l'air, les informations de circulations) et des fonctionnalités communes (chaque services comprend un tableau de bord).</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24c33e82-f157-48ac-8a8a-757f63f21e99/ecosysteme_.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24c33e82-f157-48ac-8a8a-757f63f21e99/ecosysteme_.jpg"></p>
+<p>Business model et recouvrement.</p>
+<p>Pendant ce temps, la deuxième équipe notées toutes les interactions entres les produits afin d'y ajoutés des cartes "points de souffrances" qui identifie les interrogations autours de cet l'écosystèmes, les doublons et incompréhension des services.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67ee36ff-6eb6-4c28-b535-563f334c8017/Capture_decran_2020-07-09_a_11.07.16.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67ee36ff-6eb6-4c28-b535-563f334c8017/Capture_decran_2020-07-09_a_11.07.16.png"></p>
+<p>Écosystème des produits et points de frictions</p>
+<h3>I<strong>déation</strong></h3>
+<p>****<em>(création de parcours usagers, vote des scénarios-parcours usagers, scéanrios)</em></p>
+<p>Le repérage des irritants de l'écosystème et des ressemblances dans les business model a servit de base pour créer des parcours usagers avec l'aide de personae, en fonctions des hyptothése de scénarios de projet (croisement, séparation, partage, un plus grand). Les deux équipes produisant trois scénarios chacune. Chaque participant était ensuite amené à noter des "points de souffrance" et questionnement sur touts les parcours.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a72a1e89-65e0-4ff9-8688-4808158ebcd7/a-parcours-usagers.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a72a1e89-65e0-4ff9-8688-4808158ebcd7/a-parcours-usagers.jpg"></p>
+<p>Les différents parcours en fonction des hypothèses.</p>
+<p><code>plus photos des parcours+</code></p>
+<p><strong>Quel hypothèse choisir ?</strong></p>
+<p>Ce partage a servi à faire un choix éclairer pour la suite. Chaque participant a reçu deux gommettes qui lui permettent de voter pour le scénario qui lui semble le plus plausible (avec le moins de questionnement et d'irritant) afin que chaque équipe puisse prototype une solution pour le scénario choisi.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1274748-9006-433f-a4b7-d6793bad1941/Capture_decran_2020-07-09_a_11.37.28.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1274748-9006-433f-a4b7-d6793bad1941/Capture_decran_2020-07-09_a_11.37.28.png"></p>
+<p>Vote final de chaque équipe</p>
+<p>L'équipe 1 ayant choisi le scénario "un plus petit, l'autre plus grand", c'est-à-dire qu'un projet prend certaines fonctionnalités de l'autre service, et l'équipe 2 le scénario "projet sans recouvrement".</p>
+<p>v1</p>
+<ul>
+<li>Personnellement, j'ai choisi hypothèse trois car il me semblait de divisé les services et que chacun ne fasse pas la même chose pour ensuite réfléchir comment les deux interagissent entre eux. Cette divisions serait plus clair sur ce que propose chaque services-produits pour les usagers et partenaires.</li>
+</ul>
+<p>V2</p>
+<p>J'ai personnellement choisi l'hypothèse trois qui est de séparer les services car</p>
+<p>car il me semble que divisé les services permet de mieux réfléchir comment ils interagissent ensemble et de délémité le champs de chacun. L'usager ce retrouvera pas forcer d'utilisé les services qu'il ne souhaite pas ou qu'il n'en a pas le besoin. Son parcours est simplifier et plus fluide. D'un autre coté, un serce tout en un permet de centralisé tout les besoins des usagers en une seule plateforme, mais se trouvera vite subermeger d'information.</p>
+<p>chaque service fait une choses mais c'est contour sont clair, que le partage de service complique le parcours de l'usager. <em>Je passe par Trabool pour sa, je veux faire nanina je me retrouve sur toodego, comment ce fait il ?</em> Faire une chose mais une chose mais bien. type MVP</p>
+<p>car je pense que <s>pour un service public</s> les usagers doivent comprendre rapidement et clairement les services auxquelles il interagit. En vue des cibles, qui pour un service public sont parfois tous les habitants, il ne doit pas ce perdre dans entre tout ce que propose les services publiques. Cependant, malgrés cette division les services ne restent pas indépendant l'un de l'autre et améne à etre réfléchit dans un écosystéme similaire dans le parcours de l'usager. Mais des usagers n'auront pour certains pas d'utilité à aller sur Trabool par exemple s'il ce déplace en vélo particulier (donc pas pas d'abonnement en transports), mais irai sur Toodego pour contacter sa mairie ou bien faire ses démarches administratives.</p>
+<p>Les hypothèses semblent fausse ou amené vers la mauvaise direction, car les services sont pensés ensemble. Mais cette division des services servira autant pour les chefs de projets a agir d'un point de vue opérationnel mais aussi pour les parties prenantes dans la clarification de la proposition de valeur de ce que chaque service proposent.</p>
+<h3>P<strong>rototypage</strong></h3>
+<p><em>(parcours usagers, nouveaux écosytémes des services, roadmap, interface, présentation des service, elevator pitch, presentation)</em></p>
+<p>Le choix des hypothéses de scénarios sélectionner ont servis des bases à la préparation de nouveaux scénarios d'usage. À partir de cela, les équipes aidés des facilitateur et des expertises de chacun et des designers ont conçut différent support afin de projeter dans les solutions :</p>
+<ul>
+<li>des fiches produits pour les services imaginer</li>
+<li>des parcours usagers</li>
+<li>un nouvelle écosystéme intégrer aux autres produits-services</li>
+<li>une roadmap afin d'avoir une vision à moyen et long termes jusqu'a 2025 énumérant toutes les fonctionnalités au fil du temps</li>
+<li>Une fiche "Notre principe" récapitulant</li>
+</ul>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9ca8ec9-8f7f-49fc-ac83-da1e6abaf290/Capture_decran_2020-07-09_a_16.23.55.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9ca8ec9-8f7f-49fc-ac83-da1e6abaf290/Capture_decran_2020-07-09_a_16.23.55.png"></p>
+<p><strong>Fiches produits</strong></p>
+<p><strong><em>Équipe 1</em></strong></p>
+<p>L'équipe une à imaginer deux services :</p>
+<ul>
+<li>un permettent d'étre faire toutes ces démarches</li>
+<li>le deuxiéme afin de pouvoir utilisé tous les services de liés à la métropole et la "carte"</li>
+</ul>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb8e055b-968c-4a04-af02-ea7fac024199/Capture_decran_2020-07-09_a_16.28.25.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb8e055b-968c-4a04-af02-ea7fac024199/Capture_decran_2020-07-09_a_16.28.25.png"></p>
+<p>Service 1.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f63d79dd-61db-4e4e-b07a-46efb52b8551/Capture_decran_2020-07-09_a_16.22.07.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f63d79dd-61db-4e4e-b07a-46efb52b8551/Capture_decran_2020-07-09_a_16.22.07.png"></p>
+<p>Service 2.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/774142ff-1388-4c96-a54e-d31d0c0a5f3d/Capture_decran_2020-07-09_a_16.35.05.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/774142ff-1388-4c96-a54e-d31d0c0a5f3d/Capture_decran_2020-07-09_a_16.35.05.png"></p>
+<p><strong><em>Équipe 2</em></strong></p>
+<p>Je vous présente les solutions de l'équipe de je fesais partie. Nous avons séléetionner l'hyppoth"ée celon l'aquelle il serait préférable de séparer les services proposés de façon distincte.</p>
+<p><code>Reprendre le texte des fiches</code></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68116a8e-73af-415a-8e02-81a618223f5b/Capture_decran_2020-07-09_a_16.36.46.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68116a8e-73af-415a-8e02-81a618223f5b/Capture_decran_2020-07-09_a_16.36.46.png"></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10a1b77d-9664-4cb4-9b61-382decfbafa3/Capture_decran_2020-07-09_a_16.36.52.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10a1b77d-9664-4cb4-9b61-382decfbafa3/Capture_decran_2020-07-09_a_16.36.52.png"></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/659853ad-1421-42b9-9620-2d524adb8bf7/Capture_decran_2020-07-09_a_16.36.58.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/659853ad-1421-42b9-9620-2d524adb8bf7/Capture_decran_2020-07-09_a_16.36.58.png"></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14c9dadd-9069-4a02-a3f9-cf676555cce2/Capture_decran_2020-07-09_a_16.37.10.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14c9dadd-9069-4a02-a3f9-cf676555cce2/Capture_decran_2020-07-09_a_16.37.10.png"></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dea584c-89d9-4de5-aea8-31f902891a12/Capture_decran_2020-07-09_a_16.37.04.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dea584c-89d9-4de5-aea8-31f902891a12/Capture_decran_2020-07-09_a_16.37.04.png"></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c6896e0-de35-48b7-93d9-e19d5e1b36cb/Capture_decran_2020-07-09_a_16.37.17.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c6896e0-de35-48b7-93d9-e19d5e1b36cb/Capture_decran_2020-07-09_a_16.37.17.png"></p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fe3bc65-7a91-41a0-aa71-4142aa179534/Capture_decran_2020-07-09_a_16.37.23.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fe3bc65-7a91-41a0-aa71-4142aa179534/Capture_decran_2020-07-09_a_16.37.23.png"></p>
+<h3><strong>Présentation final</strong></h3>
+<p>Afin de présenter les solutions trouver et pour envisager la suite après le sprint, nous avons présenter les prototypes au directeur du service qui est le décideur final du sprint. Les retours qu'il a put faire sont sur la séparation des services-silotage de notre solution... est qu'il pensent que les services ne devraient pas étre séparer mes croisée afin que les usagers passe d'un service à l'autre et soi un usage quotidien. (voir figma notes apple). Finalement, il décidera de ne pas partir sur une des solutions imaginer. Malgrés cela,</p>
+<p>si l'on continue avec les changements de sprint et si finalement les efforts du sprint n'ont pas abouti à une solution. Le directeur du service sera le décideur final du sprint.</p>
+<p>la séparation des services, qu'ils voient plus en croisement afin que les usagers puissent passé d'un service à l'autre. Quelque soit le choix, nous avont fait des progres.</p>
+<p>Les retours globals des décideurs sont sur la séparation des services, qu'ils voient plus en croisement afin que les usagers puissent passé d'un service à l'autre.</p>
+<p><code>photo presentation final</code></p>
+<p> </p>
+<h1 class="align-center">3. Retour du design sprint</h1>
+<ol>
+<li><strong>Retour du sprint</strong>
+<ol>
+<li>analyse des retours</li>
+<li>réunions avec les chefs de projets</li>
+<li>réunions avec les boss</li>
+<li>test auprès des agents</li>
+<li>partages avec les chefs de projets</li>
+<li>création d'un "kit projet"</li>
+</ol>
+</li>
+</ol>
+<p><strong>Analyse des retours</strong></p>
+<p>Le sprint est fini, que faisons-nous ? Le gros du travail a été fait durant deux jours grâce à l'intelligence collective et les expertises de chacun, créant beaucoup de matière sur laquelle se basé, il fallait la retravaillé, en discuter l'esprit froid. De plus, l'important du design sprint est aussi de tester les prototypes afin d'évaluer les retours usagers et surtout de validé ou invalidé les hypothèses avec des prototypes. A ce stade, nous ne savons pas si nos idées déboucherons sur quelque chose.</p>
+<p>Pour la suite, nous avons (l'équipe projet) orgnaiser des réunions avec les chefs de projets pour reparler des solutions réalisés ainsi que de la suite et avec les décideurs afin d'avoir une vision stratégiques. Ce processus finirait par des tests ou expérimentation avec un panel d'usager expérimentateur.</p>
+<p> </p>
+<p>Lors de la première réunion, les chefs de projets et les membres des équipes n’étaient pas satisfaits des résultats et préféraient continuer comme ils étaient partis, malgré les incohérences et les recouvrements de services. <s>J’ai été très étonné de la décision de ne pas choisir, mais cela révèle le dysfonctionnement interne de la Métropole.</s> La décisions final était de continuer les projets et nous n'avons pas pus tester les idées.</p>
+<p>À partir de là, nous avons quand même fait les réunions avec les directeurs et décideur afin de récolter les avis positifs et négatifs de chaque proposition de service, mais aussi les stratégies de la Métropole et le rôle qu’ils estiment qu’elle devrait avoir. Les réunions nous ont servi à faire ressortir des règles d’obligations, de contraintes et de souhaits par rapport au service.</p>
+<p> </p>
+<p><code>photo du kit et des politiques publiques</code></p>
+<p>Nous avons conçus un kit projet afin que les chefs de projets s'oriente en foncions de la stratégie de la Métropole.</p>
+<p> </p>
+<h1 class="align-center">Conclusion</h1>
+<p>L’atelier m’a permis d’insister sur des éléments du service à clarifier. L’atelier permet aussi d’affirmer le rôle du design et des designers en interne. J'ai pu proposer des outils d'analyse des services et apporté mon expertise que j'avais aquéries sur les projets durant l'année pendant le sprint.</p>
+<p>Cette bulle imaginaire créée par l’atelier permet de créer par l’intelligence collective une dynamique de groupe qui essaye de trouver une solution commune au problème qu’il rencontre. La suite de l’atelier est un moment cruciale car il faut pouvoir reprendre les éléments conçu lors de l’atelier pour bien commencer la suite. L’atelier montre aussi qu’il faut un suivi pour la suite car les problèmes soulever sont laissés de coter.</p>
+<p>Même si le projet n’a pas encore abouti, j’ai eu la possibilité de mettre en place une démarche de conception à la source du problème et par la suite à pointer. Toutefois, la démarche engagée par le design à la suite de l’atelier, politiques prennent le dessus sur les vrais objectifs et vrais usagers finaux.</p>
+<p>Ce projet qui cloturait mon parcours au sein de la Métropole ma montrer la compléxité de mettre en oeuvre des projets pour les usagers, mais aussi le manque des politiques publiques a répondre à de réel problématiques, à être itératif et surtout, à tester. Ce projet mélant problémes sociales, communication politique et intéret partenariale ma confonter dans l'idée que j'aurais intégrer les décideurs finaux plus en amont et les intégrer dans le processus de conception. Enfin, la Métropole s'est enrichi d'une culture design grace à ce projet, même si j'en attendais beaucoup plus, le processus de décisions est très complexe et nous avons encore du mal à faire remonter les informations du terrains aux décideurs. Le sprint n'a pas aboutit à une solution imaginée mais à servi à améliorer la pratique... des projets.</p>
+<p>Toutefois, j'aurais aimé intégrer</p>
+<ul>
+<li>identifier la problématique</li>
+<li>integrer</li>
 </ul>
             ]]>
         </content>
