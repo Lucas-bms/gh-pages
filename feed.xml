@@ -3,7 +3,7 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-10-07T23:25:10+02:00</updated>
+    <updated>2020-10-08T16:29:23+02:00</updated>
     <author>
         <name>Lucas</name>
     </author>
@@ -17,64 +17,54 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-10-07T23:08:32+02:00</updated>
+        <updated>2020-10-08T16:29:23+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/trabool-portfolio.jpg" alt="" />
-                    AGENCE. Grand Lyon Métropole SECTEUR. Politiques publiques, numérique ROLE. UX Designe - Service&hellip;
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-2.jpg" alt="" />
+                    Rôle. UX Designer - Service Designer Agence. Grand Lyon Métropole Équipe. Valentin,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/trabool-portfolio.jpg" alt="" />
-                <p><span style="color: #fc9561;">AGENCE. </span>Grand Lyon Métropole</p>
-<p><span style="color: #fc9561;"><em>SECTEUR. </em></span>Politiques publiques, numérique</p>
-<p><span style="color: #7e8c8d;"><span style="color: #fc9561;"><em>ROLE.</em></span><strong><em><span style="color: #9e9e9e;"> </span></em></strong></span>UX Designe - Service Designe</p>
-<p><span style="color: #fc9561;"><em>TIMELINE</em><em>. </em></span>Accompagnement sur 12 mois</p>
-<p><span style="color: #fc9561;"><em>Étiquettes.</em></span> web UI-UX service public test utilisateur</p>
-<h3> </h3>
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-2.jpg" alt="" />
+                <div class="info">
+<p><strong class="caption">Rôle.</strong> <strong>UX Designer - Service Designer</strong></p>
+<p><strong class="caption">Agence.</strong> <strong>Grand Lyon Métropole</strong></p>
+<p><strong class="caption">Équipe. </strong><strong>Valentin, Alexandra</strong></p>
+<p><strong class="caption">Secteur.</strong> <strong>politiques publiques, numérique</strong></p>
+<p><strong class="caption">Étiquettes. </strong><strong>web - UX-UI - service public - test utilisateur</strong></p>
+<p><strong class="caption">Platform.</strong> <strong>app - objet - illustrator - xd - rhino 3D </strong></p>
+<p><strong class="caption">Timeline &amp; date. </strong><strong>Accompagnement sur 12 mois - projet de 2 mois</strong></p>
+<p> </p>
+</div>
 <h3><strong>Résumé</strong></h3>
-<p>Trabool est un regroupement de services de mobilité et de loisirs culture sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole et des partenaires publiques et privés.</p>
-<p>Le site de Trabool est utilisé pour commander et recharger sa carte et abonnement. Une fois commandé sa carte sur le site et reçue, les usagers peuvent charger leurs abonnements dessus, depuis chez eux, grâce à un chargeur reçu dans le kit.</p>
+<p>Trabool est un de services de mobilité et de loisirs culture sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole avec des partenaires publiques et privés. Le site de Trabool est utilisé par les usagers pour commander et recharger leurs carte et leurs abonnement depuis chez eux, grâce à un chargeur reçu dans le kit.</p>
 <p>Ce service étant déployé à mon arrivé au sein de la Métropole, je l'ai suivi durant 12 mois au travers de plusieurs missions en parallèle (graphisme, test utilisateur de l'application, etc). Je vous présente ici le plus ambitieux projet.</p>
 <h3><strong>Problème</strong></h3>
-<p>De nouvelles fonctionnalités technique devaient être intégrée au site web afin de l'améliorer : ajouter des comptes, gérer plusieurs compte et abonnement... Certains des aspects bloquaient le parcours utilisateur sur le site ainsi que l'architecture et la mise en page des pages : (pour la souscription d’un carte, lors de la visualisation des services et des offres disponibles, pour renouveler une carte perdue, pour transférer des d’abonnement sur sa carte). Notre équipe a travaillé sur la refonte du site internet et des parcours utilisateurs afin d'y intégrer les évolutions.</p>
+<p>Au fur et à mesure de l'évolution de Trabool, de nouvelles fonctionnalités techniques on été intégrée au site web afin de l'améliorer : ajouter des comptes, gérer plusieurs compte et abonnement, commander ou renouveler une carte et bien d'autres. Mais certains de ces aspects bloquaient le parcours utilisateur sur le site par l'architecture d'information et la mise en page. Piloter par le chef de projet, notre équipe a travaillé sur la refonte du site internet et des parcours utilisateurs afin d'y intégrer les évolutions.</p>
 <h3><strong>Solution</strong></h3>
-<p>Après plusieurs itérations et des tests utilisateurs, nous avons conçu des interfaces facilitant le parcours d'inscription, d'abonnement et d'accès à ces informations personnels.</p>
+<p>Après plusieurs itérations et des tests utilisateurs, nous avons conçu des interfaces facilitant le parcours d'inscription, l'abonnement ainsi que l'accès et la gestion de ces informations personnels.</p>
+<h5>Découvrez les offres sur le territoire lyonnais </h5>
+<p> </p>
+<h5> </h5>
+<h5><strong>Une gestion simplifier :</strong> Un seul site internet pour tout gérer.</h5>
+<p>Ajouter aussi simplement tout les membres de votre famille. Et en un coup d’oeil, regarder où en sont vos abonnements et ceux de votre famille. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-un-pass-1.jpg" data-size="1920x1400"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-un-pass-1-thumbnail.jpg" alt="" width="768" height="560"></a></figure>
+</div></div>
 <figure class="post__image"></figure>
-<h3><strong>Processus</strong></h3>
-<table style="border-collapse: collapse; width: 100%; height: 100%; background-color: #ecf0f1; border-color: #e03e2d; border-style: none;" border="0">
-<tbody>
-<tr style="height: 105px;">
-<td style="width: 138px; height: 105px;"><strong>1. Recherche </strong></td>
-<td style="width: 203px; height: 105px;"><strong>2. Design </strong></td>
-<td style="width: 238px; height: 105px;"><strong>3. Évaluation </strong></td>
-<td style="width: 166px; height: 105px;"><strong>4. Itération</strong></td>
-</tr>
-<tr style="height: 261px;">
-<td style="width: 138px; height: 261px;">
-<p>Réunion équipe technique</p>
-<p>Analyse UX</p>
-<p>Recherche utilisateur</p>
-</td>
-<td style="width: 203px; height: 261px;">
-<p>Architecture de l’information</p>
-<p>Sketch &amp; Wireframe</p>
-<p>Prototype interact</p>
-</td>
-<td style="width: 238px; height: 261px;">
-<p>Test utilisateur</p>
-<p>Questionnaires</p>
-<p>Analyse des retours utilisateurs</p>
-</td>
-<td style="width: 166px; height: 261px;">
-<p>Intégration des retours</p>
-<p>Wireframe</p>
-<p>intégration UI</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p class="align-left"> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/5-E-mes-pass.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-lg.png 1024w"  alt="" width="576" height="454"></figure>
+<h5 class="align-left"><span data-token-index="0" data-reactroot="">Une clarté du service</span> : Avec Trabool, ayez une seule carte pour vos déplacements.</h5>
+<p class="align-left">Un seul endroit pour commandez, vous abonnez à des services et gérer les abonnements de vous et votre famille.</p>
+<p class="align-left"> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<h3><strong>Processus : notre approche</strong></h3>
+<h3><figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/processus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-lg.png 1024w"  alt="" width="1383" height="265"></figure></h3>
+<h3> </h3>
 <h3><strong>Mon rôle</strong></h3>
 <p>J’ai accompagné le projet durant une année alternance entre l’université de Bordeaux Montainge et la Métropole de Lyon. Mon rôle dans ce projet été celui de designer de services et user experience dans une équipe composé de deux chef de projet, une psychologue sociale et une designer UX, en collaboration avec l’équipe chargé du développement de site internet (Sopra Steria) et d’une bisiness analysti.</p>
 <p> </p>
@@ -220,7 +210,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-4.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-4.html</id>
 
-        <updated>2020-10-07T23:25:10+02:00</updated>
+        <updated>2020-10-08T14:38:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-portfolio.jpg" alt="" />
