@@ -3,36 +3,36 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-10-08T16:29:23+02:00</updated>
+    <updated>2020-10-14T11:19:05+02:00</updated>
     <author>
         <name>Lucas</name>
     </author>
     <id>https://lucas-bms.github.io/gh-pages</id>
 
     <entry>
-        <title>Redesigner l&#x27;expérience du site web</title>
+        <title>Redesigner l&#x27;expérience du site web Trabool</title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-10-08T16:29:23+02:00</updated>
+        <updated>2020-10-12T17:33:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-2.jpg" alt="" />
-                    Rôle. UX Designer - Service Designer Agence. Grand Lyon Métropole Équipe. Valentin,&hellip;
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/Pass_carte_cover.jpg" alt="" />
+                    Étiquettes. web - UX-UI - service public - test utilisateur Rôle. UX&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-2.jpg" alt="" />
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/Pass_carte_cover.jpg" alt="" />
                 <div class="info">
+<p><strong class="caption">Étiquettes. </strong><strong>web - UX-UI - service public - test utilisateur</strong></p>
 <p><strong class="caption">Rôle.</strong> <strong>UX Designer - Service Designer</strong></p>
 <p><strong class="caption">Agence.</strong> <strong>Grand Lyon Métropole</strong></p>
 <p><strong class="caption">Équipe. </strong><strong>Valentin, Alexandra</strong></p>
 <p><strong class="caption">Secteur.</strong> <strong>politiques publiques, numérique</strong></p>
-<p><strong class="caption">Étiquettes. </strong><strong>web - UX-UI - service public - test utilisateur</strong></p>
 <p><strong class="caption">Platform.</strong> <strong>app - objet - illustrator - xd - rhino 3D </strong></p>
 <p><strong class="caption">Timeline &amp; date. </strong><strong>Accompagnement sur 12 mois - projet de 2 mois</strong></p>
 <p> </p>
@@ -42,83 +42,93 @@
 <p>Ce service étant déployé à mon arrivé au sein de la Métropole, je l'ai suivi durant 12 mois au travers de plusieurs missions en parallèle (graphisme, test utilisateur de l'application, etc). Je vous présente ici le plus ambitieux projet.</p>
 <h3><strong>Problème</strong></h3>
 <p>Au fur et à mesure de l'évolution de Trabool, de nouvelles fonctionnalités techniques on été intégrée au site web afin de l'améliorer : ajouter des comptes, gérer plusieurs compte et abonnement, commander ou renouveler une carte et bien d'autres. Mais certains de ces aspects bloquaient le parcours utilisateur sur le site par l'architecture d'information et la mise en page. Piloter par le chef de projet, notre équipe a travaillé sur la refonte du site internet et des parcours utilisateurs afin d'y intégrer les évolutions.</p>
+<blockquote>
+<p>Comment ... ?</p>
+</blockquote>
 <h3><strong>Solution</strong></h3>
 <p>Après plusieurs itérations et des tests utilisateurs, nous avons conçu des interfaces facilitant le parcours d'inscription, l'abonnement ainsi que l'accès et la gestion de ces informations personnels.</p>
 <h5>Découvrez les offres sur le territoire lyonnais </h5>
 <p> </p>
 <h5> </h5>
-<h5><strong>Une gestion simplifier :</strong> Un seul site internet pour tout gérer.</h5>
+<h4><strong>Une gestion simplifier :</strong> Un seul site internet pour tout gérer.</h4>
 <p>Ajouter aussi simplement tout les membres de votre famille. Et en un coup d’oeil, regarder où en sont vos abonnements et ceux de votre famille. </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-un-pass-1.jpg" data-size="1920x1400"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-un-pass-1-thumbnail.jpg" alt="" width="768" height="560"></a></figure>
-</div></div>
-<figure class="post__image"></figure>
-<p class="align-left"> </p>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/5-E-mes-pass.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/5-E-mes-pass-lg.png 1024w"  alt="" width="576" height="454"></figure>
-<h5 class="align-left"><span data-token-index="0" data-reactroot="">Une clarté du service</span> : Avec Trabool, ayez une seule carte pour vos déplacements.</h5>
+<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Mes-pass-smart-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-lg.jpg 1024w"  alt="" width="325" height="600"></figure></h5>
+<h4> </h4>
+<h4 class="align-left"><span data-token-index="0" data-reactroot="">Une clarté du service</span> : Avec Trabool, ayez une seule carte pour vos déplacements.</h4>
 <p class="align-left">Un seul endroit pour commandez, vous abonnez à des services et gérer les abonnements de vous et votre famille.</p>
-<p class="align-left"> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Android-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-lg.jpg 1024w"  alt="" width="337" height="600"></figure></h5>
+<h3> </h3>
 <h3><strong>Processus : notre approche</strong></h3>
 <h3><figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/processus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-lg.png 1024w"  alt="" width="1383" height="265"></figure></h3>
 <h3> </h3>
 <h3><strong>Mon rôle</strong></h3>
-<p>J’ai accompagné le projet durant une année alternance entre l’université de Bordeaux Montainge et la Métropole de Lyon. Mon rôle dans ce projet été celui de designer de services et user experience dans une équipe composé de deux chef de projet, une psychologue sociale et une designer UX, en collaboration avec l’équipe chargé du développement de site internet (Sopra Steria) et d’une bisiness analysti.</p>
+<p>J’ai accompagné le projet durant une année alternance entre l’université de Bordeaux Montainge et la Métropole de Lyon. Mon rôle dans ce projet été celui de designer de services et user experience dans une équipe composé de deux chef de projet, une psychologue sociale et une designer UX, en collaboration avec l’équipe chargé du développement de site internet (Sopra Steria) et d’une bisiness analysti. Travaillant en équipe avec valentin et alexandra, nous avons décider ensemble de la démarche à suivre, avec des phases de travail en groupe et seul.</p>
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>1. Recherche</strong></span></h2>
 <p> </p>
-<h6><strong>Qui sont les usagers de Trabool ?</strong></h6>
-<p>Trabool est un service public et s'adresse à tout les habitans de la métropole. Certains services sont accés sur un groupe cible (exemple : professionel ex), mais la plupart du temps, tous les usagers de la Métropole sont la cible-audiance des services. Le public du service Trabool est tous les habitants à partir de 18 ans, mais les usagers actuelles sont des hommes-femmes de 40 à 6O ans (mais aussi des usager en famille et cadre) qui ont le besoin de combiné des abonnements (vélo, voiture partagé) et les gérer les abonnements de leurs familles.</p>
-<p>(Par exemple, la carte Trabool permet de transferer un abonnement que l'on a chez un partenaire : Bluely pour les voitures, le service de vélo Vélo'v, les abonnements de transports en commun TCL par exemple. Mais ces services sont déjà utilisé chez les partenaires de maniéres distince. Il y a un interet à utilisé la carte Trabool que si l'on combine des abonnements : vélo, parking. Mais les utilisateurs sont extremes dans ce cas la ce qui limite le panel d'utilisateur possible du service.)</p>
+<p>Le projet bénéficie d’une phase d’expérimentation menée par Valentin Labit, psychologue sociale, c’est-à-dire que des usagers volontaires appelé “Pionnier” testent des services avant la mise en place aux grands publics. Ils répondent à des questionnaires et sont mobilisés pour des ateliers. Son expertise au long du projet et les informations qu'il recueille depuis plusieurs mois nous permis de comprendre les comportement et émotions des gens, d'identifier les problèmes et de définir des usagers et leurs besoins. </p>
+<p>Trabool est un service public et s'adresse à tout les habitants de la métropole. Le public du service Trabool sont tous les habitants à partir de 18 ans, mais les usagers actuelles sont des hommes-femmes de 40 à 60 ans (mais aussi des usager en famille et cadre) qui ont le besoin de combiné des abonnements (vélo, voiture partagé) et les gérer les abonnements de leurs familles. Certains services sont tout de même accés sur un groupe cible particulier. </p>
 <p>Nous avons fluidifier le parcours et la compréhension des services proposé par Trabool pour ces types d'utilisateurs potentielle.</p>
-<h3><strong>Problème</strong></h3>
-<p>Le projet bénéficie d’une phase d’expérimentation menée par Valentin Labit, psychologue sociale, c’est-à-dire que des usagers volontaires, appelé “Pionnier”, testent des services avant la mise en place aux grands publics. Ils répondent à des questionnaires et sont mobilisés pour des ateliers. Son expertise au long du projet et les informations qu'il recueille depuis plusieurs mois nous permis de identifier-rechercher les problémes et de définir les besoins usagers.</p>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/test-utilisateur.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-lg.jpg 1024w"  alt="" width="4160" height="3120"></figure>
-<p> </p>
-<p>Nous avons pus analyser suite à des ateliers et questionnaire qu'il y avait des problèmes de compréhensions du service de la part des usagers : par la mise en page des informations, de la hiérarchisation des informations qui causé un manque de clarté du service et d’utilisation du site internet. Ils avaient des problèmes pour : </p>
+<figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/test-utilisateur.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-lg.jpg 1024w"  alt="présentation-test" width="4160" height="3120">
+<figcaption >Séance de test avec les experts techniques pour la future application mobile.</figcaption>
+</figure>
+<p>Suite à ses ateliers et des questionnaires, nous avons pus analyser  qu'il y avait des problèmes de compréhensions du service Trabool de la part des usagers ainsi que des problèmes pour : </p>
 <ul>
-<li>la commande d’une carte, la visualisation et navigation des offres disponibles</li>
-<li>le renouvellement d'une carte perdue</li>
+<li>la commande d’une carte, la visualisation et navigation des offres disponibles ;</li>
+<li>le renouvellement d'une carte perdue ;</li>
 <li>le transférer d’abonnement partenaire. (la création de compte, le commande d'offre).</li>
 </ul>
+<p>La plupart était du à la mise en page des informations, de la hiérarchisation des informations qui causé un manque de clarté du service et d’utilisation du site internet.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/probleme-commande.png" data-size="700x1242"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/probleme-commande-thumbnail.png" alt="" width="700" height="1242"></a>
+<figcaption>Probléme de resonsive</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Capture-decran-2020-10-12-a-10.51.33.png" data-size="694x1193"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Capture-decran-2020-10-12-a-10.51.33-thumbnail.png" alt="" width="694" height="1193"></a>
+<figcaption>Probléme de resonsive</figcaption>
+</figure>
+</div></div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Capture-decran-2020-10-12-a-10.53.41.png" data-size="1326x942"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Capture-decran-2020-10-12-a-10.53.41-thumbnail.png" alt="" width="768" height="546"></a>
+<figcaption>Message d'erreur non visible.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/probleme.png" data-size="1361x618"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/probleme-thumbnail.png" alt="" width="768" height="349"></a>
+<figcaption>Message d'erreur arrive en fin de parcours de commande.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/abonnement-probleme.png" data-size="2547x1427"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/abonnement-probleme-thumbnail.png" alt="" width="768" height="430"></a>
+<figcaption>Informations des abonnements non visible.</figcaption>
+</figure>
+</div></div>
 <h3><strong>Objectif de conception</strong></h3>
-<p>Nous avons déterminé que nos principaux objectifs est de clarifier la proposition de valeur de Trabool et ainsi permet d'augmenter la souscription à des services afin d'augmenter l'usage récurent du service. La plupart des utilisateurs utilisent le service pour souscrire mais ne reviennent par forcement, mise à part pour le renouvellement de leur abonnement.</p>
-<p>Les freins à cela sont le boitier pour recharger ça carte, qui ne peut pas actuellement de le faire sur smartphone limitant les usages aux personnes avec ordinateur. L'application étant en cours de développement.</p>
-<p>L'autre objectif est de faciliter la commande d’une carte, la gestion des abonnements et des utilisateurs afin que l’agence Sopra Steria développe les interfaces. Pour cette mission, ma ressource était ...</p>
+<p>Notre équipe de conception a déterminé que nos principaux objectifs était de clarifier la proposition de valeur de Trabool et ainsi permet d'augmenter la souscription à des services afin d'avoir un usage récurent du service. La plupart des utilisateurs utilisent le service pour souscrire mais ne reviennent par forcement, mise à part pour le renouvellement de leur abonnement. </p>
+<p>L'autre objectif est de faciliter la commande d’une carte, la gestion des abonnements et des informations personnelles. Pour cette mission, ma ressource a était de :</p>
 <ul>
-<li>Proposer de nouveaux parcours utilisateur plus clair et intuitifs</li>
-<li>Réorganiser les fonctionnalités existantes</li>
-<li>Compléter la charte graphique</li>
-<li>(connexion au compte ? inscription ?)</li>
+<li>proposer de nouveaux parcours utilisateur plus clair et intuitifs;</li>
+<li>réorganiser les fonctionnalités existantes;</li>
+<li>compléter la charte graphique.</li>
 </ul>
-<p>Nous avons aussi examiné le tableau de bord de plusieurs application permettent la gestion de plusieurs compte ne meme temps et avons put tiré les points clés de leurs réussites :</p>
+<p>Nous avons aussi examiné le tableau de bord de plusieurs application permettent la gestion de plusieurs compte ne même temps et avons put tiré les points clés de leurs réussites :</p>
 <ul>
-<li>navigation stucturé</li>
+<li>navigation structuré</li>
 <li>identification des informations relative à chaque compte</li>
-<li>présentation des offres</li>
+<li>présentation clair des offres</li>
 </ul>
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>2. Redesign process</strong></span></h2>
 <p> </p>
-<p>Grâce à aux observations que nous avions faites et l’analyse fournie par la <span data-token-index="1" data-reactroot="">business analyst,</span> nous avons pu commencer à imagin</p>
-<p>er des solutions de parcours d'usage. Notre phase d'idéation à commencé par des dessins-sketch rapide d'interface afin faire des wireframes et des prototypes, les testés, et itérer rapidement.</p>
-<p><strong>Commander un pass :</strong> nous avons imaginer un parcours plus simple pour crée son compte ou ce conencté via Grand Lyon connect (plateforme d'authentification de la Métropole), pour ensutie commander son pass.</p>
+<p>Grâce à aux observations que nous avions faites et l’analyse fournie par le</p>
+<div class="module__title js-about-item-title"><span class="module__title__link">business analyst du sous-traitant Sopra Steria sur les problèmes techniques</span><span data-token-index="1" data-reactroot="">,</span> nous avons put commencer à imaginer des solutions de parcours d'usage. Notre phase d'idéation à commencé par des sketch rapide d'interface basé sur les problemes repéré, pour ensuite faire des wireframes, les testés et itérer rapidement.</div>
+<p><strong>Commander un pass :</strong> nous avons imaginer un parcours plus simple pour crée son compte ou ce conencter via Grand Lyon Connect (la plateforme d'authentification de la Métropole), pour ensuite commander son pass.</p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-commander.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-lg.jpg 1024w"  alt="sketch-commande" width="400" height="300">
 <figcaption >Sketch de recherche. Séance de 1h 45 sketch.</figcaption>
 </figure>
-<p><strong>Gérer ses comptes :</strong> La gestion des offres se fait sur un seul interface, avec les informations relatives à chaque abonnement (date de fin, ) et les boutons rapide rénouveller. La meme interface permet d'acceder aux différnets abonnements des membres de sa "tribu", c'est-à-dire les adolescesnts-enfants. Nous avions imaginer de pouvoir changer de compte afin de gérer les informations de chaque compte, mais la visualition de tout les comptes sans changment produisait moins d'étapes.</p>
+<p><strong>Gérer ses comptes :</strong> La gestion des offres se fait sur un seul interface, avec les informations relatives à chaque abonnement et la possibilité de renouveler. Elle permet d’accéder aux différents  abonnements des membres de sa "Tribu", c'est-à-dire les personnes qui son de notre famille (marie, enfant). Le terme "Tribu" nous a posé question à savoir si les utilisateurs le comprennait, après le test nous sommes revenus à plus simple. Nous avions imaginer de pouvoir changer de compte afin de gérer les informations de chaque compte, mais cela rajouté des étapes dans le parcours.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-gerer.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-lg.jpg 1024w"  alt="" width="401" height="300"></figure>
-<p><strong>Les offres :</strong> nous avons travailler sur une visualtion simplifié des offres. Dans cette version, nous avons voulu que les utilisateurs puissent recherch<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">er plus rapidement les offres "culture" ou "mobilité".</span></p>
+<p><strong>Les offres :</strong> nous avons travailler sur une visualisation simplifié des offres. Dans cette version, nous avons voulu que les utilisateurs puissent recherch<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">er plus rapidement les par types d'offres.</span></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-offre.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-lg.jpg 1024w"  alt="" width="400" height="300"></figure>
-<p>Les séances de dessin rapide permettent de rapidement projeter les idées une fois le problémes trouver. Nous avons ici chercher a représenter une nouvelle architecture de l'infromation et des pages. Le raprésentanion sur véléda nous nous amené des pistes de solutions pour la repésentation et gestions de plusieurs compte.</p>
+<p>Les séances de sketch permettent de rapidement projeter les idées une fois le problèmes repérer. Nous avons ici chercher a représenter une nouvelle architecture de l’information ainsi que des pages.</p>
+<p>Le représentation sur tableau Véléd nous a amené des pistes de solutions pour la repésentation et la gestions de plusieurs compte. L'utilisation de papier et l'interaction manuel permette une première re approche de l'expérience utilisateur et de rapidement itérer. J'ai rapidement maquetter quelque écrans basic afin d'avoir des retours de l'équipe et des usagers sur la structure et ... , ce qui amené a établir une visualisation hiérarchique et mise en page stand pour les futures composants du site. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-2.jpg" data-size="4001x3992"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-2-thumbnail.jpg" alt="AAAAA" width="768" height="766"></a>
-<figcaption>BBBB</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-3.jpg" data-size="4001x3992"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-3-thumbnail.jpg" alt="AAAAA" width="768" height="766"></a>
 <figcaption>BBBB</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Commander_un_pass_etape1-2.jpg" data-size="4001x2601"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Commander_un_pass_etape1-2-thumbnail.jpg" alt="AAAAA" width="768" height="499"></a>
@@ -129,13 +139,12 @@
 </figure>
 </div></div>
 <p>L'usage actuel du site est tourné vers les utilisateurs d'ordinateur fixe, mais pour améliorer l'usage sur smartphone est (ainsité a revenir ou du moins pourvoir commander et par la suite gérer, le momement le plus douloureux sera la phase de synchronisation entre la carte et l'ordinateur).</p>
-<p>L'utilisation de papier et d'intéraction manuel permette une premiére approche de l'expérience utilisateur. C'est le moment d'itérer encore et encore rapidement (les wireframes).</p>
-<p>Nous avons remarqué que la phase de connexion pourrait posait car elle nécésittait le changement de site, puis la reconnexion à trabool. L'intégrer fluidirer la conexion et l'inscription.</p>
+<p>Nous avons remarqué que la phase de connexion pourrait posait car elle nécessitait le changement de site, puis la reconnexion à Trabool. L'intégrer fluidirer la conexion et l'inscription mais </p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/architecture-information.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-lg.png 1024w"  alt="architecture-information" width="457" height="300">
 <figcaption >architectures de l'information et interactions des pages. image bof bordel dans les pages et le placement des écrans par rapport aux autres.</figcaption>
 </figure>
 <p>Une fois validé les écrans wireframes finalisé (sans l'intégration des couleurs), nous avons put passé à la phase de test afin de les validés.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-pass.png" data-size="1920x2229"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-pass-thumbnail.png" alt="" width="768" height="892"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Decouvrir-offres.png" data-size="1920x2348"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Decouvrir-offres-thumbnail.png" alt="" width="768" height="939"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande.png" data-size="1920x1629"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande-thumbnail.png" alt="" width="768" height="652"></a></figure>
@@ -143,8 +152,8 @@
 <h2> </h2>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>3. Évaluation</strong></span></h2>
 <h3> </h3>
-<p>Tester est le meilleur moyen d'évaluer l'expérience utilisateur. Le test sur wireframe base fidélite (ou high fid) aller nous permettre de comprendre comment les utilisateurs naviguer et intéragiser avec le site. Les objectifs étaient de valider l’expérience utilisateur et nos hypothèses de conception avant la mise en production en évaluatent le système global, l'ergonomie, l'utilisabilité et la compréhension générale du service Trabool.</p>
-<p>Pour cela, j'ai conçu un protocole de test avec-à partir de scénario d'usage pour les testeurs, afin de mesurer les taches accomplit (pour les parcours et fonctionnalité à tester) à partir qu'une grille d'observation. (parler plus ?). Les tests allez nous servire a validé ou non des fonctionnalités et parcours tel que : (ou si les problémes rencontrés y était toujours)</p>
+<p>Tester est le meilleur moyen d'évaluer l'expérience utilisateur. J'ai conduit des tests usabilité avec les utilisateurs pour validé les nouvelles conceptions que nous avons trouver pour répondre à leurs probléme. Le test sur interface base fidélité aller aussi nous permettre de comprendre comment les utilisateurs naviguer et interagissez avec le site. Les objectifs étaient de valider l’expérience utilisateur et nos hypothèses de conception avant la mise en production en évaluatent le système global, l'ergonomie, l'utilisabilité et la compréhension générale du service Trabool.</p>
+<p>Pour cela, j'ai conçu un protocole de test avec-à partir de scénario d'usage pour les testeurs, afin de mesurer les taches accomplit (pour les parcours et fonctionnalité à tester) à partir qu'une grille d'observation. Les scénarios allez nous servirer a validé ou non des fonctionnalités et parcours tel que : ()</p>
 <ul>
 <li>la création de compte Grand Lyon Connect et Trabool</li>
 <li>la commander un pass pour soi, pour ma Tribu- famille</li>
@@ -152,7 +161,9 @@
 <li>gestion des offres souscrites dans mes abonnements et ma tribu</li>
 <li>compréhension de “Tribu” et du service en générale</li>
 </ul>
-<p><strong>PHOTO ?</strong></p>
+<p>Durant le test, j'oberse comment les testeurs intéragissent avec le site, ce qu'ils disent, quel sont leurs expressions.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/user-test-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-lg.jpg 1024w"  alt="" width="360" height="363"></figure>
+<p> </p>
 <p>Les tests sont suivi d'un entretient et finissent par le questionnaire SUS (System Usability Scale) mesurant l’utilisabilité et l'expérience du site afin de pouvoir identifier la valeur notre siteweb. Huits testers volontaires ont été choisis pour les tests se déroulant dans une salle en individuel, via un ordinateur portable avec un enregistrement vidéo et audio.</p>
 <p>L’utilisabilité :<em> "la capacité de l’objet à être facilement utilisé par une personne donnée pour réaliser la tâche pour laquelle il a été conçu. La notion d’utilisabilité englobe à la fois la performance de réalisation de la tâche, la satisfaction que procure l’utilisation de l’objet et la facilité avec laquelle on apprend à s’en servir." </em>Usabilis</p>
 <h3><strong>Les retours utilisateurs</strong></h3>
@@ -172,11 +183,12 @@
 </ul>
 <p>Les tests nous permit de s'appuyer sur les points négatifs du parcours du site afin de les améliorer et d’émettre des hypothèses sur la suite de la conception.. Certains aspects que ne l'on redouter par (tel que...) n'ont pas était globalement compris et nous permet de prendre du recul pour améliore la suite.</p>
 <p>Mais globalement, la valeur du service apportée pour les usagers n’est pas très claire et ne semble pas correspondre à leurs attentes. L’utilisateur cible n’étant pas identifié. C’est surtout à partir de l’analyse des problèmes technique et des données de l’expérimentation que nous avons conçu la suite.</p>
-<p> </p>
+<p>quest ce qui était plus simple ?</p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>4. Design final</strong></span></h2>
 <p> </p>
 <p>Après une phase d'itérations sur les interfaces hautes fidélités, nous avons conçu une version finale des interfaces. La version définitive des interfaces ont été re-tester afin de valider nos interfaces finales. Nous avons du limité nos idées aux techniques-des possibles et de la demande. Dans la version final, j'aurais voulu intégrer une carte des lieux ou ... . À la place, nous avons intégrer un trie par type de domaine des offres et une rubrique dédiés aux nouveaux services pour un affichage simple. Nous sommes contenue a des améliorations de reéogranisation des pages, de fluidification des parcours utilisateurs, et en intégrant la gestion desplusieurs comptes.</p>
 <p>Globalement dans la version fianl, les usagers se retrouvent dans les parcours, la création de compte et l'ajout et la gestion de plusieurs compte rendent plus clair la compréhension du service dans son ensemble et pours les nouveaux usagers.</p>
+<p>Nous avons conçus le maquette haute-fidélité sur Figma afin que tous les membres de l'équipe ainsi que les développers Front End puissent y accéder et de leurs permettre d'inspecter le fichier et d'exporter les composants CSS. Le suivi du développement c'est fait avec la business analysti, et via tableau pour le suivi des tickets afin de sassurer que l'implémentation était aligné avec les interfaces que nous avons concut. </p>
 <p><strong>Qu'est-ce qu'on a intégrer ?</strong></p>
 <p>Nous avons intégrer dans le site ....</p>
 <ul>
@@ -198,6 +210,7 @@
 <ul>
 <li>pensér la mobilité en générale : ce fait le long et les réunions projets</li>
 <li>penser la mobilité plus générale , et si on fesait comme si sa</li>
+<li> </li>
 </ul>
             ]]>
         </content>
@@ -334,41 +347,44 @@
         </content>
     </entry>
     <entry>
-        <title>Co-concevoir une mobilité durable dans les zones rurales / penser des nouveaux modes de transport dans les milieux ruraux</title>
+        <title>Penser des nouveaux modes de transport dans les milieux ruraux</title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
 
-        <updated>2020-10-07T22:21:58+02:00</updated>
+        <updated>2020-10-14T11:19:05+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
-                    Accompagner l’innovation dans les politiques publiques Pitch. Penser la mobilité durable dans&hellip;
+                    Concevoir une mobilité durable dans les zones rurales Rôle. UX Designer -&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
-                <p>Accompagner l’innovation dans les politiques publiques</p>
-<p><strong><em>Pitch. </em></strong>Penser la mobilité durable dans les zones rurales pour les trajets domiciles-travail</p>
-<p><strong><em>Étiquettes. </em></strong>UX Research - UX Design - Design Fiction </p>
-<p><strong><em>Durée. </em></strong>4 semaines</p>
-<p><strong><em>Équipe. </em></strong>Noémie Antoine designeuse graphique et d'expérience - Margaux Maro-des-grottes designeuse graphique et d'expérience - Mégane Richard designeuse de service et d'expérience</p>
-<p><strong><em>Agence.</em></strong>Université de Bordeaux Montaigne, Communauté de commune Val de Garonne agglomération</p>
-<p><strong><em>Secteur. </em></strong>Innovation Publique</p>
-<h3> </h3>
+                <div class="info">
+<p>Concevoir une mobilité durable dans les zones rurales</p>
+<p><strong class="caption">Rôle.</strong> <strong>UX Designer - Service Designer</strong></p>
+<p><strong class="caption">Agence.</strong> <strong>Université de Bordeaux Montaigne, Communauté de commune Val de Garonne agglomération</strong></p>
+<p><strong class="caption">Équipe. </strong><strong>Noémie Antoine designeuse graphique et d'expérience - Margaux Maro-des-grottes designeuse graphique et d'expérience - Mégane Richard designeuse de service et d'expérience</strong></p>
+<p><strong class="caption">Secteur.</strong> <strong>Innovation Publique</strong></p>
+<p><strong class="caption">Étiquettes. </strong><strong>UX Research - UX Design - Design Fiction </strong></p>
+<p><strong class="caption">Platform.</strong> <strong>app - objet - illustrator - xd - rhino 3D </strong></p>
+<p><strong class="caption">Timeline &amp; date. </strong><strong>4 semaines</strong></p>
+<p> </p>
+</div>
 <h3><strong>Résumé</strong></h3>
-<p>La collectivité publique Val de Garonne Agglomération (VGA) a pour volonté de devenir acteur du le développement économique que connait actuellement la métropole de Bordeaux. En vue d'augmenter sa croissance et son économie, elle souhaite participer (au developpement de bordeaux) en se positionnant en tant pole résidentielle dans le paysage rural de Bordeaux. Elle met donc en place une stratégie d’attractivité et de mobilité résidentielle qui passe par une offre de transport alternative à la voiture particulière <em>(train, transports en commun et covoiturage) et</em> qui a pour but de fluidifier l'axe entre Bordeaux et son territoire.</p>
-<p>Dans ce contexte, notre travail consiste à accompagner les politiques publiques en dressent des scénarios propetifs qui imagine le développement de la <strong>mobilité résidentielle et professionnelle</strong> à l’échelle de l’agglomération et des villages voisins.</p>
+<p>La collectivité publique Val de Garonne Agglomération (VGA) a pour volonté de devenir acteur du le développement économique que connait actuellement la métropole de Bordeaux. En vue d'augmenter sa croissance et son économie, elle souhaite participer au développement  de Bordeaux en se positionnant en tant pôle résidentielle dans le paysage rural de Bordeaux. Elle met donc en place une stratégie d’attractivité et de mobilité résidentielle qui passe par une offre de transport alternative à la voiture particulière (train, transports en commun et covoiturage) et qui a pour but de fluidifier l'axe entre Bordeaux et son territoire.</p>
+<p>Dans ce contexte l'agglomération a donc fait appel à nous et notre travail consiste à accompagner les politiques publiques en dressent des scénarios prospectifs sur développement de la <strong>mobilité résidentielle et professionnelle</strong> à l’échelle de l’agglomération et des villages voisins.</p>
 <h3><strong>Problème</strong></h3>
-<p>La voiture est très utilisée du à son milieu rural et la liberté qu'elle offre. Les transports en communs sont moins avantageux que la voiture, surtout en ce qui concerne les trajets domicile-travail. En comparaison, la voiture permet une plus grande flexibilité et indépendance dans ce milieu et se retrouve choix numéro 1 pour se déplacer. Mais dans le contexte actuel de la crise environnemental et de pollution, l'agglomération se trouve très polluer à cause de la voiture et doit repenser la mobilité vers <em>des comportements plus responsable, pour les flux de déplacement entre les communes pour les trajets domicile-travail et donc revoir le systeme de transport en commun.</em></p>
-<p><code>image diagramme utilisation voiture transport en commun.</code></p>
+<p>Dans ce territoire rural, les transports en communs sont moins avantageux que la voiture, surtout en ce qui concerne les trajets domicile-travail. En comparaison, la voiture permet une plus grande flexibilité et indépendance dans ce milieu et se retrouve choix numéro 1 pour se déplacer. L'agglomération se trouve très polluer à cause de la voiture et doit alors repenser la mobilité pour aller vers des comportements plus responsable les déplacement entre les villages pour les trajets domicile-travail et revoir son systéme de transport en commun.</p>
+<blockquote>
 <p><strong>Comment penser une offre de service de transport durable et flexible en prenant en compte le milieu rural dans le Val-de-Garonne afin de limiter l’usage de la voiture personnelle ?</strong></p>
+</blockquote>
 <h3><strong>Solution</strong></h3>
-<p>Les réponses apportées sont prospectives et permettent aux collectivités publiques d'envissager des possibles pistes de recherche et solutions à concrétisé sur le court, moyen et long terme. Notre piste ce base sur la création d'un univers fictif dans lequel habitants et élus du VGA vont se projeter par l'utilisation du design fiction, afin de remettre en question les hypothèses et à imaginer un future différent. Cette fiction sera l'introduction à une participation citoyenne par des débats et ateliers entre habitants, politiques publiques et acteurs autour de la mobilité dans le VGA afin d'envisager et d'expérimenter des solutions.</p>
-<p><span style="color: #f1c40f;">Nous avons conçu un processus de participation citoyenne afin d'informé et d'inclurer les citoyens à la conception d'idée pour une implémentation locale. </span></p>
+<p>Les réponses que nous avons apportées sont prospectives et permettent aux collectivités publiques d'envisager des possibles pistes de recherche et solutions à concrétisé sur le court, moyen et long terme. Notre piste ce base sur la création d'un univers fictif dans lequel habitants et élus du VGA vont se projeter par l'utilisation du design fiction, afin de remettre en question les hypothèses et à imaginer un future différent. Cette fiction sera l'introduction à une participation citoyenne par des débats et ateliers entre habitants, politiques publiques et acteurs autour de la mobilité dans le VGA afin d'envisager et d'expérimenter des solutions. La solution est accompagnée <span style="color: #f1c40f;">Nous avons conçu un processus de participation citoyenne afin d'informé et d'inclurer les citoyens à la conception d'idée pour une implémentation locale. </span></p>
 <h4>Le design fiction pour se projeter dans un future probable</h4>
 <p><span data-token-index="0" data-reactroot="">Titre</span></p>
 <p>Pour croire à la fiction, nous avons conçu une</p>
@@ -380,67 +396,54 @@
 <p><span data-token-index="0" data-reactroot="">Accompagner les politiques publiques d</span></p>
 <p>Ce récit fictionnel est l'ouverture à des ateliers de débats entre les parties prennentes. Ainsi, nous proposons des outils pour accompagner les ateliers afin de faire émerger des problématiques</p>
 <h3><strong>Processus</strong></h3>
-<p><strong>1. Immersion</strong></p>
-<ul>
-<li>recherche utilisateur</li>
-<li>questionnaire</li>
-<li>analyse des flux</li>
-</ul>
-<p><strong>2. Idéation</strong></p>
-<ul>
-<li>exploration de solution</li>
-<li>scénarios d'usage</li>
-<li>wireframe</li>
-</ul>
-<p><strong>3. Conception-exploration</strong></p>
-<ul>
-<li>design fiction</li>
-<li>vidéo</li>
-<li>atelier</li>
-</ul>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/process-vga.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/process-vga-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/process-vga-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/process-vga-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/process-vga-lg.png 1024w"  alt="" width="500" height="111"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/IMG_20180920_105053.jpg" data-size="4032x3024"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/IMG_20180920_105053-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/IMG-4375.JPG" data-size="4032x3024"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/IMG-4375-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+</div></div>
 <p> </p>
 <h2 class="align-center"><strong><span style="color: #fc9561;">1. IMMERSION</span></strong></h2>
 <p> </p>
 <h3><strong>Contexte</strong></h3>
 <p>Le Val-de-Garonne, c'est...</p>
-<p>43 communes<br>Deux villes-centres : Marmande (18 000 habitans) et Tonneins (9 000 habitants)<br>Situé à proximité de grandes métropoles : Bordeaux et Toulouse<br>Une politique coeur de ville : redynamiser la ville et le centre-vile de ville<br>Un patrimoine agricole et rural<br>Des pôles industriels.</p>
-<p>Le VGA est un territoire majoritairement rural et agricole. Les besoins des habitants sont décentralisés, par conséquent ils doivent parcourir de longues distances pour se rendre d’un point A à un point B, ce qui entraine une forte utilisation de la voiture. Malgrés les 4 lignes de transports fixes et un service de transports à la demande pour les villages situé aux alentours des villes centres (et location vélo), les transports en communs sont peut utilisés.</p>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/vga-chiffre.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-lg.png 1024w"  alt="" width="1394" height="628"></figure>
-<p><code>(communes excentrés et habitations isolés)</code></p>
-<p><code>travail en usine ? diogramme</code></p>
-<p>L'agglomération va se voir ajouter des lignes de transports reliant les villages (bourg-relais) au pole centrele (marmande et tonneins).</p>
-<figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/carte-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-2-lg.png 1024w"  alt="Carte-transport " width="1618" height="832">
-<figcaption >Visualtion des transports existants et futures dans le Val de Garonne</figcaption>
-</figure>
-<h3><strong>Inspiration terrain</strong></h3>
-<p>Après une réunion avec les élus de l'agglomération du Val-des-Garonnes pour le brief du projet et fixer les objectifs, notre équipe c'est rendu sur le terrain afin de commencer par une phase de recherche utilisateurs et d'immersion dans la ville la plus importante du VGA : Marmande. Pour chaque projet de design, commencé par une phase d'inspiration et d'immersion permet de ce confronté à certain vécu des usagers.</p>
-<p>À partir du grille de questions, nous avons aussi interrogé environ 20 habitants afin d'identifier les habitudes de transports et les connaissances des transports en communs et les besoins des usagers : les usagers des transports en commun, les chauffeurs de car, les riverains et automobiliste. et des informations sur les expériences de chacun-futur utilisateur.</p>
-<p>Nous avons pris les transports en commun afin de savoir au mieux comment se passe un trajet du centre ville de Marmande vers la périphérie (usines et habitations) (temps, confort).</p>
-<p><code>photo bus</code></p>
-<p><code>-&gt; image verbatins</code></p>
-<p><code>photo trie des verbatims</code></p>
-<p> </p>
-<h5><strong>Analyse des recherches</strong></h5>
-<p>A partir de cette étude et d'une observation global, nous avons fragmenté les utilisateurs principaux en plusieurs groupes : les utilisateurs de voiture, des transports en commun avec les jeunes travailleurs, les lycéens-collégiens et les personnes âgés. Nous avons détaillé leur profile en fonction de leurs objectifs, attentes, motivations, peurs et appétences technologique. Nous avons put élaborer la visualisation de l'expérience d'usagers. Grace à cela, nous avons visualisé les besoins et objectifs des l'utilisateurs durant leurs utilisations d'un service ou produit, en notant les émotions négatives et positives de ces interactions. Les points importants des besoins et douleurs de l'expérience nous ont été utile dans la phase d'idéation.</p>
-<p><strong><em>Photos livrables 1.1???</em></strong></p>
-<h5><strong>Les usagers en voitures</strong></h5>
-<p>Nous observons que la voiture est le moyen qui permet beaucoup le plus de flexibilité en comparaisons aux transorts en commun. De plus, en analysant l'économie des villes, nous observont des centres-villes desertique, les princpaux commerces se trouvent dans des zones commerciales en périphérie et que les services (travail, santé) sont éparpillés dans les communes du VGA. Ils sont donc plus adapté et accessible en voiture.</p>
-<p><code>→ personea</code></p>
-<p><code>→ parcours usager</code></p>
-<h5><strong>Les usagers des transports en commun</strong></h5>
-<p>Les parcours usagers des transports en communs est moins flexible car il y a moins de fréquence, peu d'arréte à l'extérieure dans les villages ce qui oblige à prendre le vélo par exemple. Il y aussi moins de connexion intercommunale obligant à passer par Marmande si l'on veux aller dans un autre village. De plus, la fluidité du parcours est ralenti par la complexité des inscription et des réservations pour les bus à la demande (il faut prévoir, appeler) et des problémes logistique entraine des retards et des problémes de correspondances. Enfin, il y a peu de service de mobilités proposait par rapport aux besoins de déplacement quotidients des habitants, autent en transport en commun mais aussi en aménagemnt <em>(peu ou pas de parking relais, peu ou pas de routes dédiés aux vélos).</em></p>
-<p><code>→ parcours</code></p>
-<p><code>→ personae</code></p>
-<h3><strong>Constat</strong></h3>
-<p>Notre analyse nous a amené à plusieurs constats : intermodalité actuelle en milieu rural :</p>
 <ul>
-<li>Un manque d’informations sur les transports à disposition ;</li>
-<li>Difficulté de réservation et d’accessibilité aux arrêts (adaptabilité suivant l’usager jeune ou sénior) ;</li>
-<li>Manque de services de mobilité - non flexible et non fluide ;</li>
-<li>Certains types de mobilité ne sont pas utilisés par manque d’information et peur / préjugés (covoiturage) ;</li>
-<li>Non sensibilisation à la mobilité de demain, intérêt collectif et individuel à utiliser les transports en commun pour favoriser l’intermodalité.</li>
+<li>43 communes</li>
+<li>Deux villes-centres : Marmande (18 000 habitans) et Tonneins (9 000 habitants)</li>
+<li>Situé à proximité de grandes métropoles : Bordeaux et Toulouse</li>
+<li>Une politique coeur de ville : redynamiser la ville et le centre-vile de ville</li>
+<li>Un patrimoine agricole et rural</li>
+<li>Des pôles industriels.</li>
 </ul>
-<h3><strong>Les besoins des usagers <span style="color: #fc9561;">(avant constat ?)</span></strong></h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/Plan-de-travail-34x-100-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Plan-de-travail-34x-100-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Plan-de-travail-34x-100-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Plan-de-travail-34x-100-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Plan-de-travail-34x-100-2-lg.jpg 1024w"  alt="" width="1968" height="1753"></figure>
+<p>Le VGA est un territoire majoritairement rural et agricole. Les besoins des habitants sont décentralisés, par conséquent ils doivent parcourir de longues distances pour se rendre d’un point A à un point B, ce qui entraine une forte utilisation de la voiture. Malgré les 4 lignes de transports fixes et un service de transports à la demande pour les villages situé aux alentours des villes centres et la location de vélo, les transports en communs sont peut utilisés.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/vga-chiffre.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vga-chiffre-lg.png 1024w"  alt="" width="1394" height="628"></figure>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/Capture-decran-2018-10-03-a-00.05.54.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Capture-decran-2018-10-03-a-00.05.54-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Capture-decran-2018-10-03-a-00.05.54-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Capture-decran-2018-10-03-a-00.05.54-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/Capture-decran-2018-10-03-a-00.05.54-lg.png 1024w"  alt="" width="1452" height="1192">
+<figcaption >Visualisation des transports existants et futures dans le Val de Garonne reliant les villages (bourg-relais) au pole centrale (Marmande et Tonneins).</figcaption>
+</figure>
+<h3> </h3>
+<h3><strong>Inspiration terrain</strong></h3>
+<p>Après une réunion avec les élus de l'agglomération du Val-des-Garonnes pour le brief du projet et fixer les objectifs, notre équipe c'est rendu sur le terrain afin de commencer par une phase de recherche utilisateurs et d'immersion afin de ce confronté à certain vécu des usagers. dans la ville la plus importante du VGA : Marmande.</p>
+<p><span style="text-decoration: line-through;">Pour chaque projet de design, commencé par une phase d'inspiration et d'immersion permet de ce confronté à certain vécu des usagers.</span></p>
+<p>À partir du grille de questions que l'on a préparé, nous avons aussi interrogé environ 20 habitants afin d'identifier les habitudes de transports et les connaissances des transports en communs et les besoins des usagers : les usagers des transports en commun, les chauffeurs de car, les riverains et automobiliste.</p>
+<p>Nous avons pris les transports en commun afin de savoir au mieux comment se passe un trajet du centre ville de Marmande vers la périphérie (usines et habitations).</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/arrete-de-bus.jpg" data-size="3024x4032"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/arrete-de-bus-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/P_20180924_144144.jpg" data-size="3120x4160"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/P_20180924_144144-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div></div>
+<h3>Analyse</h3>
+<h5><strong>Analyse des questionnaires</strong></h5>
+<p>À partir de cette étude et des observations, nous avons fragmenté les utilisateurs principaux en plusieurs groupes : les usagers en voiture et en transports en commun avec les jeunes travailleurs, les lycéens-collégiens et les personnes âgés. Nous avons détaillé leur profile en fonction de leurs objectifs, attentes, motivations, peurs et appétences technologique. Nous avons put élaborer la visualisation de l'expérience d'usagers. Grace à cela, nous avons visualisé les besoins et objectifs des l'utilisateurs durant leurs utilisations d'un service ou produit, en notant les émotions négatives et positives de ces interactions. Les points importants des besoins et douleurs de l'expérience nous ont été utile dans la phase d'idéation.</p>
+<p>Les vabatims des usagers ont était triès par sujet (voiture, transport en commun, vélo...) et par avis positif ou négatif, montrant les disfonctionnement des transports en commun en autre les retards, les oublies de passagers pour les transports en communs, le manque d'arréret. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/verbatin-5.jpg" data-size="3120x4160"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/verbatin-5-thumbnail.jpg" alt="verbatim-trie" width="768" height="1024"></a>
+<figcaption>Trie des verbatims par types et positif/négatif</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/verbatin.jpg" data-size="600x800"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/verbatin-thumbnail.jpg" alt="verbatim-1" width="600" height="800"></a>
+<figcaption>Verbatim</figcaption>
+</figure>
+</div></div>
+<p><code><strong><em>Photos livrables 1.1??? quel photos ? </em></strong></code></p>
+<h3><strong>Les besoins des usagers </strong></h3>
 <p><em>Suite à nos observations de terrain et à nos analyses des flux de mobilité et les services de mobilité existant, nous avons dégagés des besoins essentiels. P</em>armit ces points on peut citer : la mise en palce plus clair d'information clair sur les services de mobilité éxistant, d'avoir accés à des services de mobilités (fluides et flexibles, accessible, proximité). La fluidité pour <em>l'inscription et la réservation en amont de trajet en bus et nous constatons que l’accessibilité physique aux réseaux de transport est difficile, notamment si la personne n’a pas d’arrêt dans sa commune ou si les arrêts sont éloignés. Enfin, la fréquence des horaires est limitée.</em></p>
 <p><em>et aussi nous constatons que les correspondances sont nombreuses et que l’intermodalité est un frein aux déplacements doux.</em></p>
 <p>Les besoins des usagers :</p>
@@ -452,17 +455,57 @@
 <li>dépendance à la voiture</li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/besoins.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/besoins-lg.png 1024w"  alt="" width="1248" height="604"></figure>
-<p>Cibles</p>
+<h5>Les usagers cibles</h5>
 <p><span data-token-index="0" data-reactroot="">De ce contexte, nous avons dégagé des types d’usagers potentiels qui sont les habitants travaillant à horaires fixes pour la</span> <span data-token-index="2" data-reactroot="">mobilité résidentielle et professionnelle</span><span data-token-index="3" data-reactroot="">. Ceux qui réalisent ce type de trajet réguliers sont certains employés, beaucoup d’ouvriers et surtout les scolaires.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/cibles.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/cibles-lg.png 1024w"  alt="" width="2000" height="1066"></figure>
-<h2> </h2>
+<h3>Les parcours  des usagers </h3>
+<h5><strong>Les usagers en voitures</strong></h5>
+<p>Nous observons que la voiture est le moyen qui permet beaucoup le plus de flexibilité en comparaisons aux transports en commun. De plus, en analysant l'économie des villes, nous observont des centres-villes desertique, les princpaux commerces se trouvent dans des zones commerciales en périphérie et que les services (travail, santé) sont éparpillés dans les communes du VGA. Ils sont donc plus adapté et accessible en voiture.</p>
+<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/personae-voiture.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-lg.png 1024w"  alt="" width="1960" height="1402"></figure></h5>
+<p> </p>
+<h5><strong>Les usagers des transports en commun</strong></h5>
+<p>Les parcours usagers des transports en communs est moins flexible car il y a moins de fréquence, peu d'arréte à l'extérieure dans les villages ce qui oblige à prendre le vélo par exemple. Il y aussi moins de connexion intercommunale obligant à passer par Marmande si l'on veux aller dans un autre village. De plus, la fluidité du parcours est ralenti par la complexité des inscription et des réservations pour les bus à la demande (il faut prévoir, appeler) et des problémes logistique entraine des retards et des problémes de correspondances. Enfin, il y a peu de service de mobilités proposait par rapport aux besoins de déplacement quotidients des habitants, autent en transport en commun mais aussi en aménagemnt <em>(peu ou pas de parking relais, peu ou pas de routes dédiés aux vélos).</em></p>
+<p>Le parcours des usagers en tranports en commun est divisé en trois phases : au préalable afin de préparer le voyage, le jour j le moment où il ce déplace et l'après. </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/probleme-03.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/probleme-03-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/probleme-03-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/probleme-03-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/probleme-03-lg.jpg 1024w"  alt="" width="1755" height="1090"></figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/frictions.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-lg.png 1024w"  alt="" width="1562" height="367"></figure>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/persona-bus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-lg.png 1024w"  alt="" width="1547" height="994"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/parcours-bus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-lg.png 1024w"  alt="" width="1878" height="1234"></figure>
+<p>Pour éclairer nos phases de recherches, nous avons aussi comparé les modes de déplacements disponibles afin de d'identifié les avantages et contraintes de chaques celon certains critéques :</p>
+<ul>
+<li>Est-il disponible dans tout le VGA ?</li>
+<li>Combien de temps d'attente ?</li>
+<li>Quel est la fréquence ?</li>
+<li>Quel est le prix ?</li>
+<li>Quel est sont impact sur l'environnement ?</li>
+</ul>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/trableau-transport-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/trableau-transport-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/trableau-transport-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/trableau-transport-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/trableau-transport-2-lg.png 1024w"  alt="" width="2395" height="983"></figure>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/parcours-bus-voiture.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-lg.png 1024w"  alt="" width="1316" height="588">
+<figcaption >Comparatif d'un trajet entre la voiture et les transports en commun</figcaption>
+</figure>
+<h3> </h3>
+<h3><strong>Constat</strong></h3>
+<p>Notre analyse nous a amené à plusieurs constats : intermodalité actuelle en milieu rural :</p>
+<ul>
+<li>un manque d’informations sur les transports à disposition ;</li>
+<li>difficulté de réservation et d’accessibilité aux arrêts (adaptabilité suivant l’usager jeune ou sénior) ;</li>
+<li>manque de services de mobilité - non flexible et non fluide ;</li>
+<li>certains types de mobilité ne sont pas utilisés par manque d’information et peur / préjugés (covoiturage) ;</li>
+<li>non sensibilisation à la mobilité de demain, intérêt collectif et individuel à utiliser les transports en commun pour favoriser l’intermodalité.</li>
+</ul>
+<p> </p>
 <h2 class="align-center"><strong><span style="color: #fc9561;">2. Idéation</span></strong></h2>
 <p> </p>
 <p>Les parcours usagers ont permis d'identifier les points de faiblesse des usagers du bus mais au aussi des pistes de leviers sont apparues. Suite à la commande du commanditaire, nous avons émis trois pistes de solutions afin de le présenter et sélectionner la piste qu'ils voulaient explorer.</p>
-<h3>Piste 1</h3>
-<p>Notre premiére piste permet de p<strong>enser et favoriser l’offre de service de mobilité des navettes <s>(PEM - Bourgs-relais)</s>.</strong></p>
-<p>Faciliter l’accès au nouveau service de mobilité dans les trajets des communes vers les PEM (???) en améliorant la découverte et l’information, en optimisant la réservation et en enrichissant l’expérience du voyage. Cette hyposthése répont aux problémes de information et communciation autour des transports en commmuns. Cependant, cette hypothèse ne permettait pas de répondre à la demande de fluidité.</p>
-<p> </p>
+<h3>Piste 1 : améliorer l'expérience actuelle</h3>
+<p>Notre premiére piste permet de p<strong>enser et favoriser l’offre de service de mobilité des navettes </strong>(des villages relais au pole d'échange mutimodale).</p>
+<p>En effet, en facilitant l’accès au nouveau service de mobilité dans les trajets des communes vers les PEM en améliorant la découverte et l’information, en optimisant la réservation et en enrichissant l’expérience du voyage. Cette hyposthése répont directement aux problémes de information et communciation autour des transports en commmuns. Cependant, cette hypothèse ne permettait pas de répondre à la demande mobilité fluide, et il faudrait pour cela revoir les lignes de bus. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-08.jpg" data-size="1755x989"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-08-thumbnail.jpg" alt="" width="768" height="433"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-09.jpg" data-size="1755x998"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-09-thumbnail.jpg" alt="" width="768" height="437"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-10.jpg" data-size="1755x998"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-10-thumbnail.jpg" alt="" width="768" height="437"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-11.jpg" data-size="1755x998"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-11-thumbnail.jpg" alt="" width="768" height="437"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-12.jpg" data-size="1755x998"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-12-thumbnail.jpg" alt="" width="768" height="437"></a></figure>
+</div></div>
 <h3>Piste 2 : un s<strong>ervice de covoiturage</strong></h3>
 <p><code>→ page 22 à 27 livrable 2</code></p>
 <p>La deuxième piste explorer la notion de creation de nouvelle économie de la mobilité. Pour cela, j'ai imaginer un service de transport collaboratif basé sur le covoiturage, pour les déplacements communaux et in-tercommunaux de Val des Garonne Agglomération gratuit et gratifier. De plus cette nouvelle offre de service permet un intermédiaire à la voiture particulière pour faciliter l’intercommunalité et l’interconnexion avec les services de mobilité des navettes (PEM - Bourgs-relais).</p>
@@ -532,35 +575,36 @@
         </content>
     </entry>
     <entry>
-        <title>Accompagner les politiques publiques </title>
+        <title>Design sprint : clarification de l&#x27;offre des services publiques </title>
         <author>
             <name>Lucas</name>
         </author>
         <link href="https://lucas-bms.github.io/gh-pages/projet-2.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-2.html</id>
 
-        <updated>2020-10-06T16:43:03+02:00</updated>
+        <updated>2020-10-09T17:20:08+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/2/IMG_20190408_141355.jpg" alt="" />
-                    Réalisation de proposition de valeur suivi d'un sprint design afin de clarifier&hellip;
+                    Rôle. UX Designer - Service Designer Agence. Grand Lyon Métropole Équipe. pour&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://lucas-bms.github.io/gh-pages/media/posts/2/IMG_20190408_141355.jpg" alt="" />
-                <p>Réalisation de proposition de valeur suivi d'un sprint design afin de clarifier les offres de chaques service.</p>
-<p><strong>Étiquettes. </strong>facilitation, workshop, value proposition design, figma, design sprint, product design</p>
-<p><strong>Team. </strong>pour la préparation : Erwan Leluron chef de projet, Alexandra Douine designeuse de service et infographiste Nod-a (prestataire de service design)</p>
-<p><strong>Role. </strong>Designer de services</p>
-<p><strong>Platform. </strong>wireframe papier, concept de service, kit</p>
-<p><strong>Timeline. </strong>2 semaines</p>
-<p><strong>Constraints. </strong>le changement</p>
-<h1> </h1>
-<h1> </h1>
-<h1> </h1>
-<h1 class="align-center">Project overview</h1>
+                <div class="info">
+<p><strong class="caption">Rôle.</strong> <strong>UX Designer - Service Designer</strong></p>
+<p><strong class="caption">Agence.</strong> <strong>Grand Lyon Métropole</strong></p>
+<p><strong class="caption">Équipe. </strong><strong>pour la préparation : Erwan Leluron chef de projet, Alexandra Douine designeuse de service et infographiste Nod-a (prestataire de service design)</strong></p>
+<p><strong class="caption">Secteur.</strong> <strong>politiques publiques, numérique</strong></p>
+<p><strong class="caption">Étiquettes. </strong><strong>facilitation, workshop, value proposition design, figma, design sprint, product design</strong></p>
+<p><strong class="caption">Platform.</strong> <strong>wireframe papier, concept de service, kit</strong></p>
+<p><strong class="caption">Timeline &amp; date. </strong><strong>4 semaines</strong></p>
 <p> </p>
+</div>
+<h1 class="align-center">Aperçu du projet</h1>
+<p> </p>
+<h3>Résumé</h3>
 <p>Travaillant comme service designer et ux designer au sein de la Métropole de Lyon durant 1 an dans une équipe projet, j'ai participé à la préparation d'un sprint design. Pendant 18 heures, nous avons conçus et prototyper des applications mobiles (et business ? voir <a href="http://verachen.me">verachen.me</a>) afin de clarifier l'offre de service rendu par les services de la Métropole.</p>
 <ul>
 <li>améliorer les propositions de valeurs (clarifier)</li>
