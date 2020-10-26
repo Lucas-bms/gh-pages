@@ -3,7 +3,7 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-10-14T20:23:40+02:00</updated>
+    <updated>2020-10-16T20:27:20+02:00</updated>
     <author>
         <name>Lucas</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-10-12T17:33:56+02:00</updated>
+        <updated>2020-10-16T16:06:45+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/Pass_carte_cover.jpg" alt="" />
@@ -35,7 +35,6 @@
 <p><strong class="caption">Secteur.</strong> <strong>politiques publiques, numérique</strong></p>
 <p><strong class="caption">Platform.</strong> <strong>app - objet - illustrator - xd - rhino 3D </strong></p>
 <p><strong class="caption">Timeline &amp; date. </strong><strong>Accompagnement sur 12 mois - projet de 2 mois</strong></p>
-<p> </p>
 </div>
 <h3><strong>Résumé</strong></h3>
 <p>Trabool est un de services de mobilité et de loisirs culture sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole avec des partenaires publiques et privés. Le site de Trabool est utilisé par les usagers pour commander et recharger leurs carte et leurs abonnement depuis chez eux, grâce à un chargeur reçu dans le kit.</p>
@@ -223,16 +222,16 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-4.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-4.html</id>
 
-        <updated>2020-10-08T14:38:41+02:00</updated>
+        <updated>2020-10-16T20:27:20+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-portfolio.jpg" alt="" />
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-solution-1.png" alt="" />
                     Étiquettes. design interactif, workshop, product design, experimentation, iot Team. Mégane Richard, Alfiane,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-portfolio.jpg" alt="" />
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/4/feel-solution-1.png" alt="" />
                 <div class="info">
 <p><strong class="caption">Étiquettes. </strong><strong>design interactif, workshop, product design, experimentation, iot</strong></p>
 <p><strong class="caption">Team.</strong> <strong>Mégane Richard, Alfiane, Quentin, Lauraine</strong></p>
@@ -249,85 +248,48 @@
 <blockquote>
 <p>Discussion ou débat plus ou moins âpre et violent</p>
 </blockquote>
+<h3> </h3>
 <h3><strong>Solution</strong></h3>
 <p>Feel est une application qui permet de maîtriser vos tensions et anticiper les situations conflictuelles afin d’améliorer la vie en communauté. Lorsque le bracelet détecte que vos nerfs sont au bord de l’explosion par votre rythme cardiaque, il se manifeste en produisant une pression sur votre poignet et vous invite à consulter votre application. Alors le socle muni de la balle de parole s’active lorsque le conflit éclate. Elle invite les utilisateurs à se munir de la balle de parole afin de poursuivre la confrontation. La balle connectée au bracelet suit les principes du bâton de parole.</p>
-<p>Le bracelet connecté mesure ...</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c7e96d-ff78-464d-a63c-e4a2938bfc0b/ecosytem_Service_4.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c7e96d-ff78-464d-a63c-e4a2938bfc0b/ecosytem_Service_4.jpg"></p>
-<p>L'application Feel est connecté à tous les appareils et permet un suivi global.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/277bc6a7-f418-4cd4-8328-68a3b2e6e54a/ecosytem_Service_3.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/277bc6a7-f418-4cd4-8328-68a3b2e6e54a/ecosytem_Service_3.jpg"></p>
-<p>Le socle et la balle de parole : Ce support cylindrique permet de recharger la balle de parole et de détecter les tensions dans la pièce au sein de laquelle il se trouve.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5967fb72-9189-4217-b2d2-1fef72747f1d/ecosytem_Service_2.jpg" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5967fb72-9189-4217-b2d2-1fef72747f1d/ecosytem_Service_2.jpg"></p>
+<h5>Le bracelet connecté mesure ...</h5>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/4/ecosytem_Service-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-4-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-4-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-4-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-4-lg.jpg 1024w"  alt="" width="5333" height="3333"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/4/ecosytem_Service-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-3-lg.jpg 1024w"  alt="" width="5333" height="3333"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/4/ecosytem_Service-2-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-2-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-2-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-2-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ecosytem_Service-2-2-lg.jpg 1024w"  alt="" width="5333" height="3333"></figure>
 <p><code>photo de la video MOCKUP ?</code></p>
-<p><strong>Processus</strong></p>
-<ol>
-<li>
-<p>Jour 1</p>
-<ol>
-<li>idéation</li>
-<li>expérimentation</li>
-</ol>
-</li>
-<li>
-<p>Jour 2</p>
-<ol>
-<li>idéation</li>
-<li>scénario</li>
-</ol>
-</li>
-<li>
-<p>Jour 3</p>
-</li>
-<li>
-<p>Jour 4</p>
-</li>
-<li>
-<p>Jour 5</p>
-<ol>
-<li>presentation</li>
-</ol>
-</li>
-<li>
-<p>Ideation</p>
-</li>
-<li>
-<p>Scénario</p>
-</li>
-<li>
-<p>Expérimentation</p>
-</li>
-<li>
-<p>Prototypage</p>
-</li>
-<li>
-<p>Itération</p>
-</li>
-</ol>
+<h3><strong>Processus</strong></h3>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/4/processus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/processus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/processus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/processus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/processus-lg.png 1024w"  alt="" width="1652" height="265"></figure>
 <p> </p>
 <h1 class="align-center"><span style="color: #fc9561;"><strong>Idéation</strong></span></h1>
 <p>Le processus de design est itératif et le prototypage permet d'explorer des expériences.</p>
 <p>À partir de la thématique, nous avons commencé par faire des brainstorming afin trouver et relier des thématiques entre elle. C'est par cette méthode que nous avons trouvée l'idée de la "dispute". Elle représente des moments du quotidien dans des contextes, sujets et provoque certaines émotions qui sont susceptible d'arriver.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a1cf9bb-4a1a-45c9-aa25-cb6e0bf43c49/Capture_decran_2020-07-13_a_19.16.44.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a1cf9bb-4a1a-45c9-aa25-cb6e0bf43c49/Capture_decran_2020-07-13_a_19.16.44.png"></p>
-<p>Premier brainstorming</p>
-<p>Explication brainstorming plus</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/174dd761-ed49-4d9e-9f84-b165a1de8c19/Capture_decran_2020-07-13_a_19.19.32.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/174dd761-ed49-4d9e-9f84-b165a1de8c19/Capture_decran_2020-07-13_a_19.19.32.png"></p>
-<p>Deuxième brainstorming à partant de la dispute</p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/4/ideation-1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-1-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-1-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-1-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-1-lg.png 1024w"  alt="mindmapping" width="1670" height="1380">
+<figcaption >Mindmapping 1</figcaption>
+</figure>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/4/ideation-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-2-lg.png 1024w"  alt="" width="2012" height="1526">
+<figcaption >Mindmapping 2 à partir de la dispute</figcaption>
+</figure>
 <p>Nous avons scénarisé des contextes de "disputes" et les avons expérimenter avec divers medium. Cela nous a permis de comprendre comment fonctionner les éléments-stimuli extérieures à la personne qui peuvent agir. Nous avons matérialisé les résultats et recherche afin de comprendre pourquoi il arrive des disputes mais ela dépend aussi du caractére de chacun.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5589e01a-6dbd-49b6-a0cf-f3e09b6100de/Capture_decran_2020-07-13_a_19.30.17.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5589e01a-6dbd-49b6-a0cf-f3e09b6100de/Capture_decran_2020-07-13_a_19.30.17.png"></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0719b3e8-b622-4c12-9993-ab848c5155ba/Capture_decran_2020-07-13_a_19.44.37.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0719b3e8-b622-4c12-9993-ab848c5155ba/Capture_decran_2020-07-13_a_19.44.37.png"></p>
-<p>Sélection pour les scénarios. Element moteur de dispute et moment de dispute.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/4/gallery/ideation-3.png" data-size="1978x1184"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/4/gallery/ideation-3-thumbnail.png" alt="" width="768" height="460"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/4/gallery/qqoqcp-18.png" data-size="1280x801"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/4/gallery/qqoqcp-18-thumbnail.png" alt="" width="768" height="481"></a>
+<figcaption>Sélection pour les scénarios. Element moteur de dispute et moment de dispute.</figcaption>
+</figure>
+</div></div>
 <p>Nous avons rechercher plein d'idée par la scénarisation, des brainstormings afin de les prototypés et itérer.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97143659-dbb9-4d9e-8acc-23029d0b9bc0/Capture_decran_2020-07-13_a_19.32.45.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97143659-dbb9-4d9e-8acc-23029d0b9bc0/Capture_decran_2020-07-13_a_19.32.45.png"></p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/4/ideation-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-4-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-4-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-4-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-4-lg.png 1024w"  alt="" width="1888" height="1300"></figure>
 <p>Les scénarios, les prototypes d'expérience et les tests nous ont permis d'orienter notre chemin et nos choix de conception vers un produit qui permet la médiation et l'accompagnement lors de moment conflictuelle où il peut y avoir des manques de communication. Dans ce sens, les objets se veulent intermédiaire en changent l'emplacement conflictuelle qui peut avoir quand deux personnes ne sécoute pas.</p>
 <p><code>photo prototypage objet expérience</code></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4889e4f-9fc7-475d-a380-78eeee9d9073/Capture_decran_2020-07-13_a_19.35.30.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4889e4f-9fc7-475d-a380-78eeee9d9073/Capture_decran_2020-07-13_a_19.35.30.png"></p>
-<p>Problèmes qui peuvent survenir dans les pièces d'une maison.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d8b3415-2bb0-49e9-933d-65449aecf681/Capture_decran_2020-07-13_a_19.43.59.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d8b3415-2bb0-49e9-933d-65449aecf681/Capture_decran_2020-07-13_a_19.43.59.png"></p>
-<p>Parcours d'un dispute.</p>
+<figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/4/ideation-6.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-6-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-6-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-6-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/ideation-6-lg.png 1024w"  alt="Problèmes-maison" width="1258" height="936">
+<figcaption >Problèmes qui peuvent survenir dans les pièces d'une maison.</figcaption>
+</figure>
+<p>Nous avons fait le parcours usager d'une dispute en s'inpirant de l'outil service blueprint. </p>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/4/service-blue-print.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/service-blue-print-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/service-blue-print-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/service-blue-print-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/service-blue-print-lg.png 1024w"  alt="" width="1280" height="800"></figure>
 <p>Nous avons choisi d'expérimenter la dispute dans le contexte de foyer familliale ou la où l'on vit. Quand un moment contrainient arrive le pout agumente par l'augmentation des mouvement de bras du pout. Où bout de la deuxiéme evenement accentuent par un autre contraration, le bracelet vibre pour informer de cette état. Si le tont monte entre les individus, le socle repére la dispute et ce met à clignioté pour amener à prendre la balle et à la manipulet. Elle devient le baton de parole.</p>
 <p>Nous avons énormement diversifier nos supports alant du prototype carton, du sketch à des maquettes visuelles et 3D.</p>
 <p><code>sketch, 3D,wireframe</code></p>
 <p><code>vidéos</code></p>
-<h1 class="align-center"><span style="color: #fc9561;">Outputs</span></h1>
+<h1 class="align-center">Outputs</h1>
+<h3><figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/4/presentation-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/presentation-3-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/presentation-3-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/presentation-3-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/4/responsive/presentation-3-lg.png 1024w"  alt="Feel" width="909" height="569"></figure></h3>
 <ul>
 <li>photo 3D</li>
 <li>Application</li>
