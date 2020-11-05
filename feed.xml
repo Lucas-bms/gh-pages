@@ -3,7 +3,7 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-11-04T16:19:51+01:00</updated>
+    <updated>2020-11-05T18:58:07+01:00</updated>
     <author>
         <name>Lucas</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-10-27T17:10:25+01:00</updated>
+        <updated>2020-11-05T18:58:07+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-3-2.jpg" alt="" />
-                    Étiquettes. web - UX-UI - service public - test utilisateur Rôle. UX&hellip;
+                    Étiquettes. web - UX-UI - service public - test utilisateur Rôle. UX-UI&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,11 +29,11 @@
                     <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-3-2.jpg" alt="" />
                 <div class="info">
 <p><strong class="caption">Étiquettes. </strong><strong>web - UX-UI - service public - test utilisateur</strong></p>
-<p><strong class="caption">Rôle.</strong> <strong>UX Designer - Service Designer</strong></p>
+<p><strong class="caption">Rôle.</strong> <strong>UX-UI Designer - Service Designer</strong></p>
 <p><strong class="caption">Agence.</strong> <strong>Grand Lyon Métropole</strong></p>
-<p><strong class="caption">Équipe. </strong><strong>Valentin, Alexandra</strong></p>
+<p><strong class="caption">Équipe. </strong><strong>Valentin Labit (psychologie sociale) - Alexandra Douine (designer ux)</strong></p>
 <p><strong class="caption">Secteur.</strong> <strong>politiques publiques, numérique</strong></p>
-<p><strong class="caption">Platform.</strong> <strong>app - objet - illustrator - xd - rhino 3D </strong></p>
+<p><strong class="caption">Platform.</strong> <strong>application - figma - xd</strong></p>
 <p><strong class="caption">Timeline &amp; date. </strong><strong>Accompagnement sur 12 mois - projet de 2 mois</strong></p>
 </div>
 <h3><strong>Résumé</strong></h3>
@@ -41,23 +41,21 @@
 <p>Ce service étant déployé à mon arrivé au sein de la Métropole, je l'ai suivi durant 12 mois au travers de plusieurs missions en parallèle (graphisme, test utilisateur de l'application, etc). Je vous présente ici le plus ambitieux projet.</p>
 <h3><strong>Problème</strong></h3>
 <p>Au fur et à mesure de l'évolution de Trabool, de nouvelles fonctionnalités techniques on été intégrée au site web afin de l'améliorer : ajouter des comptes, gérer plusieurs compte et abonnement, commander ou renouveler une carte et bien d'autres. Mais certains de ces aspects bloquaient le parcours utilisateur sur le site par l'architecture d'information et la mise en page. Piloter par le chef de projet, notre équipe a travaillé sur la refonte du site internet et des parcours utilisateurs afin d'y intégrer les évolutions.</p>
-<blockquote>
-<p>Comment ... ?</p>
-</blockquote>
 <h3><strong>Solution</strong></h3>
-<p>Après plusieurs itérations et des tests utilisateurs, nous avons conçu des interfaces facilitant le parcours d'inscription, l'abonnement ainsi que l'accès et la gestion de ces informations personnels.</p>
-<h5>Découvrez les offres sur le territoire lyonnais </h5>
-<p> </p>
+<p>Après plusieurs itérations et des tests utilisateurs, nous avons conçu des nouvelles interfaces pour le parcours d'inscription, la souscription d'abonnement ainsi que la gestion de ces informations personnels.</p>
+<p><strong>Combiner vos abonnements </strong></p>
+<p>... </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Android.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-lg.jpg 1024w"  alt="" width="250" height="445"></figure>
 <h5> </h5>
-<h4><strong>Une gestion simplifier :</strong> Un seul site internet pour tout gérer.</h4>
+<p><strong>Une gestion simple et partagé avec vos proches</strong></p>
 <p>Ajouter aussi simplement tout les membres de votre famille. Et en un coup d’oeil, regarder où en sont vos abonnements et ceux de votre famille. </p>
-<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Mes-pass-smart-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-lg.jpg 1024w"  alt="" width="325" height="600"></figure></h5>
-<h4> </h4>
-<h4 class="align-left"><span data-token-index="0" data-reactroot="">Une clarté du service</span> : Avec Trabool, ayez une seule carte pour vos déplacements.</h4>
+<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Mes-pass-smart-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-lg.jpg 1024w"  alt="" width="250" height="462"></figure></h5>
+<p> </p>
+<p class="align-left"><strong>Avec Trabool, ayez une seule carte pour vos déplacements</strong></p>
 <p class="align-left">Un seul endroit pour commandez, vous abonnez à des services et gérer les abonnements de vous et votre famille.</p>
-<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Android-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-lg.jpg 1024w"  alt="" width="337" height="600"></figure></h5>
+<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Android-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-lg.jpg 1024w"  alt="" width="250" height="445"></figure></h5>
 <h3> </h3>
-<h3><strong>Processus : notre approche</strong></h3>
+<h3><strong>Méthodologie</strong></h3>
 <h3><figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/processus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-lg.png 1024w"  alt="" width="1383" height="265"></figure></h3>
 <h3> </h3>
 <h3><strong>Mon rôle</strong></h3>
@@ -65,13 +63,15 @@
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>1. Recherche</strong></span></h2>
 <p> </p>
-<p>Le projet bénéficie d’une phase d’expérimentation menée par Valentin Labit, psychologue sociale, c’est-à-dire que des usagers volontaires appelé “Pionnier” testent des services avant la mise en place aux grands publics. Ils répondent à des questionnaires et sont mobilisés pour des ateliers. Son expertise au long du projet et les informations qu'il recueille depuis plusieurs mois nous permis de comprendre les comportement et émotions des gens, d'identifier les problèmes et de définir des usagers et leurs besoins. </p>
-<p>Trabool est un service public et s'adresse à tout les habitants de la métropole. Le public du service Trabool sont tous les habitants à partir de 18 ans, mais les usagers actuelles sont des hommes-femmes de 40 à 60 ans (mais aussi des usager en famille et cadre) qui ont le besoin de combiné des abonnements (vélo, voiture partagé) et les gérer les abonnements de leurs familles. Certains services sont tout de même accés sur un groupe cible particulier. </p>
-<p>Nous avons fluidifier le parcours et la compréhension des services proposé par Trabool pour ces types d'utilisateurs potentielle.</p>
+<h3>État des lieux </h3>
+<p>Le projet bénéficie d’une phase d’expérimentation menée par Valentin Labit, psychologue sociale, c’est-à-dire que des usagers volontaires appelé “pionnier” testent des services avant la mise en place aux grands publics. Ils répondent à des questionnaires et sont mobilisés pour des ateliers. Son expertise au long du projet et les informations qu'il recueille depuis plusieurs mois nous permis de comprendre les comportement et émotions des gens, d'identifier les problèmes et de définir des usagers et leurs besoins. </p>
+<h3>Définir des cibles</h3>
+<p>Trabool est un service public et s'adresse à tout les habitants de la métropole. Le public du service Trabool sont tous les habitants à partir de 18 ans. Actuellement, les usagers sont des hommes-femmes de 40 à 60 ans, des usager en famille et cadre qui ont le besoin de combiné des abonnements et les gérer ceux de leurs proches. Certains services sont tout de même accés sur un groupe cible particulier. <span style="color: #9e9e9e;">Nous avons fluidifier le parcours et la compréhension des services proposé par Trabool pour ces types d'utilisateurs potentielle.</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/test-utilisateur.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-lg.jpg 1024w"  alt="présentation-test" width="4160" height="3120">
 <figcaption >Séance de test avec les experts techniques pour la future application mobile.</figcaption>
 </figure>
-<p>Suite à ses ateliers et des questionnaires, nous avons pus analyser  qu'il y avait des problèmes de compréhensions du service Trabool de la part des usagers ainsi que des problèmes pour : </p>
+<h3>Comprendre les difficultés</h3>
+<p>Suite à ses ateliers et des questionnaires, nous avons pus analyser qu'il y avait des problèmes de compréhensions du service Trabool de la part des usagers ainsi que des problèmes pour : </p>
 <ul>
 <li>la commande d’une carte, la visualisation et navigation des offres disponibles ;</li>
 <li>le renouvellement d'une carte perdue ;</li>
@@ -97,120 +97,114 @@
 <figcaption>Informations des abonnements non visible.</figcaption>
 </figure>
 </div></div>
-<h3><strong>Objectif de conception</strong></h3>
-<p>Notre équipe de conception a déterminé que nos principaux objectifs était de clarifier la proposition de valeur de Trabool et ainsi permet d'augmenter la souscription à des services afin d'avoir un usage récurent du service. La plupart des utilisateurs utilisent le service pour souscrire mais ne reviennent par forcement, mise à part pour le renouvellement de leur abonnement. </p>
-<p>L'autre objectif est de faciliter la commande d’une carte, la gestion des abonnements et des informations personnelles. Pour cette mission, ma ressource a était de :</p>
+<h3><strong>Définir les objectifs de conception</strong></h3>
+<p>Lors de brainstorming notre équipe a déterminé nos principaux objectifs de la roadmap en fonction des futures étapes du projet. Nous s'en sommes venu à ce consacrer sur la faciliter la commande d’une carte, la gestion des abonnements, des informations personnelles et la l'organisation global du site.</p>
+<p>Mais en plus du siteweb, nous avons travailler sur la clarification de la proposition de valeur de Trabool. Je crois qu'une proposition de service claire et forte est plus susceptible de créer des services fort. Cela permettrai d'augmenter la souscription à des services afin d'avoir un usage récurent. La plupart des utilisateurs utilisent le service pour le renouvellement de leur abonnement mais n'en souscrivent pas d'autre en plus.</p>
+<p>Pour cette mission, ma ressource a était de :</p>
 <ul>
-<li>proposer de nouveaux parcours utilisateur plus clair et intuitifs;</li>
-<li>réorganiser les fonctionnalités existantes;</li>
+<li>proposer de nouveaux parcours utilisateur plus clair et intuitifs ;</li>
+<li>réorganiser les fonctionnalités existantes ;</li>
 <li>compléter la charte graphique.</li>
-</ul>
-<p>Nous avons aussi examiné le tableau de bord de plusieurs application permettent la gestion de plusieurs compte ne même temps et avons put tiré les points clés de leurs réussites :</p>
-<ul>
-<li>navigation structuré</li>
-<li>identification des informations relative à chaque compte</li>
-<li>présentation clair des offres</li>
 </ul>
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>2. Redesign process</strong></span></h2>
 <p> </p>
-<p>Grâce à aux observations que nous avions faites et l’analyse fournie par le</p>
-<div class="module__title js-about-item-title"><span class="module__title__link">business analyst du sous-traitant Sopra Steria sur les problèmes techniques</span><span data-token-index="1" data-reactroot="">,</span> nous avons put commencer à imaginer des solutions de parcours d'usage. Notre phase d'idéation à commencé par des sketch rapide d'interface basé sur les problemes repéré, pour ensuite faire des wireframes, les testés et itérer rapidement.</div>
-<p><strong>Commander un pass :</strong> nous avons imaginer un parcours plus simple pour crée son compte ou ce conencter via Grand Lyon Connect (la plateforme d'authentification de la Métropole), pour ensuite commander son pass.</p>
+<h3>Inspiration</h3>
+<p>Nous avons aussi examiné le tableau de bord de plusieurs application permettent la gestion de plusieurs compte ne même temps et avons put tiré les points clés de leurs réussites :</p>
+<ul>
+<li>navigation structuré</li>
+<li>identification des informations relative à chaque compte</li>
+<li>présentation des offres et bouton d'action</li>
+</ul>
+<h3>Construire la structure des pages</h3>
+<p>Grâces nos observations et l’analyse des bugs techniques fournie par le business analyst du sous-traitant Sopra Steria, nous avons pu commencer à̀ imaginer des solutions de parcours d'usage. Notre phase d'idéation a commencé par des sketchs rapides d'interface basés sur les problèmes repérés, pour ensuite faire des wireframe, les tester et itérer rapidement. Les séances de sketch permettent de rapidement projeter les idées une fois le problèmes repérer et d'itérer rapidement.</p>
+<p>Nous avons ici chercher a représenter une nouvelle architecture de l’information pages.</p>
+<p><strong>Commander un pass</strong></p>
+<p>Nous avons imaginer un parcours plus simple pour crée son compte ou ce conencter via Grand Lyon Connect (la plateforme d'authentification de la Métropole), pour commander son pass.</p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-commander.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-commander-lg.jpg 1024w"  alt="sketch-commande" width="400" height="300">
-<figcaption >Sketch de recherche. Séance de 1h 45 sketch.</figcaption>
+<figcaption >Sketch de recherche du parcours d'inscription. Séance de 1h 45 sketch.</figcaption>
 </figure>
-<p><strong>Gérer ses comptes :</strong> La gestion des offres se fait sur un seul interface, avec les informations relatives à chaque abonnement et la possibilité de renouveler. Elle permet d’accéder aux différents  abonnements des membres de sa "Tribu", c'est-à-dire les personnes qui son de notre famille (marie, enfant). Le terme "Tribu" nous a posé question à savoir si les utilisateurs le comprennait, après le test nous sommes revenus à plus simple. Nous avions imaginer de pouvoir changer de compte afin de gérer les informations de chaque compte, mais cela rajouté des étapes dans le parcours.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-gerer.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-lg.jpg 1024w"  alt="" width="401" height="300"></figure>
-<p><strong>Les offres :</strong> nous avons travailler sur une visualisation simplifié des offres. Dans cette version, nous avons voulu que les utilisateurs puissent recherch<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">er plus rapidement les par types d'offres.</span></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-offre.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-lg.jpg 1024w"  alt="" width="400" height="300"></figure>
-<p>Les séances de sketch permettent de rapidement projeter les idées une fois le problèmes repérer. Nous avons ici chercher a représenter une nouvelle architecture de l’information ainsi que des pages.</p>
-<p>Le représentation sur tableau Véléd nous a amené des pistes de solutions pour la repésentation et la gestions de plusieurs compte. L'utilisation de papier et l'interaction manuel permette une première re approche de l'expérience utilisateur et de rapidement itérer. J'ai rapidement maquetter quelque écrans basic afin d'avoir des retours de l'équipe et des usagers sur la structure et ... , ce qui amené a établir une visualisation hiérarchique et mise en page stand pour les futures composants du site. </p>
+<p> </p>
+<p><strong>Gérer ses comptes</strong></p>
+<p>La gestion des offres se fait sur un seul interface, avec les informations relatives à chaque abonnement et la possibilité de renouveler. Elle permet d’accéder aux différents abonnements de sa "Tribu" composé de ses proches. Le terme "Tribu" nous a posé question à savoir si les utilisateurs le comprenait. Il était utilisé auparavant mais après les test nous sommes revenus à un terme plus simple.</p>
+<p>Nous avions imaginer le changement de compte afin de gérer les informations de chaque mais cela rajouté des étapes dans le parcours qui n'était pas utilise pour le moment.</p>
+<figure class="post__image post__image--center" ><img loading="lazy" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-gerer-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-gerer-2-lg.jpg 1024w"  alt="Sketch de recherche. Séance de 1h 45 sketch." width="400" height="300">
+<figcaption >Sketch de recherche pour la gestion du compte.</figcaption>
+</figure>
+<p> </p>
+<p><strong>Les offres</strong></p>
+<p>Nous avons travailler sur une visualisation simplifié des offres. Dans cette version, nous avons voulu que les utilisateurs puissent recherch<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">er plus rapidement les par types d'offres.</span></p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/sketch-offre-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/sketch-offre-2-lg.jpg 1024w"  alt="sketch-veleda" width="400" height="300">
+<figcaption >Sketch de recherche pour la visualisation des offres.</figcaption>
+</figure>
+<h3> </h3>
+<h3>Titre</h3>
+<p>Le représentation sur tableau Véléda nous a amené des pistes de solutions pour la repésentation et la gestions de plusieurs compte. L'utilisation de papier et l'interaction manuel permette une première approche de l'expérience utilisateur afin d'itérer.</p>
+<p>J'ai rapidement maquetter quelque écrans basic afin d'avoir des retours de l'équipe et des usagers sur la structure et l'organisation des pages, ce qui amené a établir une visualisation hiérarchique et mise en page stand pour les futures composants du site. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-2.jpg" data-size="4001x3992"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-2-thumbnail.jpg" alt="AAAAA" width="768" height="766"></a>
-<figcaption>BBBB</figcaption>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-2.jpg" data-size="4001x3992"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Accueil-2-thumbnail.jpg" alt="wireframe-accueil" width="768" height="766"></a>
+<figcaption>Wireframe de la page d'accueil</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Commander_un_pass_etape1-2.jpg" data-size="4001x2601"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Commander_un_pass_etape1-2-thumbnail.jpg" alt="AAAAA" width="768" height="499"></a>
-<figcaption>BBBB</figcaption>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Decouvrir_les_services-2.jpg" data-size="4001x6259"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Decouvrir_les_services-2-thumbnail.jpg" alt="wireframe-offre" width="768" height="1201"></a>
+<figcaption>Structure des offres</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Decouvrir_les_services-2.jpg" data-size="4001x6259"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Decouvrir_les_services-2-thumbnail.jpg" alt="AAAAA" width="768" height="1201"></a>
-<figcaption>BBBB</figcaption>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Commander_un_pass_etape1-2.jpg" data-size="4001x2601"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Wireframes_Commander_un_pass_etape1-2-thumbnail.jpg" alt="wireframe-commande" width="768" height="499"></a>
+<figcaption>Wireframe de la commande de carte</figcaption>
 </figure>
 </div></div>
-<p>L'usage actuel du site est tourné vers les utilisateurs d'ordinateur fixe, mais pour améliorer l'usage sur smartphone est (ainsité a revenir ou du moins pourvoir commander et par la suite gérer, le momement le plus douloureux sera la phase de synchronisation entre la carte et l'ordinateur).</p>
-<p>Nous avons remarqué que la phase de connexion pourrait posait car elle nécessitait le changement de site, puis la reconnexion à Trabool. L'intégrer fluidirer la conexion et l'inscription mais </p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/architecture-information.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-lg.png 1024w"  alt="architecture-information" width="457" height="300">
-<figcaption >architectures de l'information et interactions des pages. image bof bordel dans les pages et le placement des écrans par rapport aux autres.</figcaption>
+<p><span style="color: #9e9e9e;">L'usage actuel du site est tourné vers les utilisateurs d'ordinateur car pour renouveller ses abonnements il faut connecté sa carte à un boitier. Mais pour améliorer l'usage sur smartphone et insister à revenir, le moment le plus douloureux sera la phase de synchronisation entre la carte et l'ordinateur.</span></p>
+<h3>Parcours du site</h3>
+<p>Nous avons remarqué que la phase de connexion pourrait posait car elle nécessitait le changement de site, puis la reconnexion à Trabool. L'intégrer fluidifierait le parcours lors de la connexion et l'inscription mais la technique utilisée ne permettait pas de le faire.</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/architecture-information.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/architecture-information-lg.png 1024w"  alt="architecture-information" width="500" height="328">
+<figcaption >User flow.</figcaption>
 </figure>
-<p>Une fois validé les écrans wireframes finalisé (sans l'intégration des couleurs), nous avons put passé à la phase de test afin de les validés.</p>
+<h3>Wireframe +</h3>
+<p>Une fois validé les écrans wireframes finalisé sans couleurs, nous avons put passé à la phase de test afin de les validés.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-pass.png" data-size="1920x2229"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-pass-thumbnail.png" alt="" width="768" height="892"></a></figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Decouvrir-offres.png" data-size="1920x2348"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Decouvrir-offres-thumbnail.png" alt="" width="768" height="939"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande.png" data-size="1920x1629"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande-thumbnail.png" alt="" width="768" height="652"></a></figure>
 </div></div>
 <h2> </h2>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>3. Évaluation</strong></span></h2>
 <h3> </h3>
-<p>Tester est le meilleur moyen d'évaluer l'expérience utilisateur. J'ai conduit des tests usabilité avec les utilisateurs pour validé les nouvelles conceptions que nous avons trouver pour répondre à leurs probléme. Le test sur interface base fidélité aller aussi nous permettre de comprendre comment les utilisateurs naviguer et interagissez avec le site. Les objectifs étaient de valider l’expérience utilisateur et nos hypothèses de conception avant la mise en production en évaluatent le système global, l'ergonomie, l'utilisabilité et la compréhension générale du service Trabool.</p>
-<p>Pour cela, j'ai conçu un protocole de test avec-à partir de scénario d'usage pour les testeurs, afin de mesurer les taches accomplit (pour les parcours et fonctionnalité à tester) à partir qu'une grille d'observation. Les scénarios allez nous servirer a validé ou non des fonctionnalités et parcours tel que : ()</p>
+<h3>Préparation des tests utilisateurs</h3>
+<p>Tester est le meilleur moyen d'évaluer l'expérience utilisateur. J'ai conduit des tests usabilité avec les utilisateurs pour validé les nouvelles conceptions que nous avons trouver pour répondre à leurs probléme. Le test sur interface base fidélité aller aussi nous permettre de comprendre comment les utilisateurs naviguer et interagissez avec le site. </p>
+<h3>Protocole &amp; objectifs</h3>
+<p>Les objectifs étaient de valider l’expérience utilisateur et nos hypothèses de conception avant la mise en production en évaluent le système global, l'ergonomie, l'utilisabilité et la compréhension générale du service Trabool. Pour cela, j'ai conçu un protocole de test à partir de scénario d'usage afin de mesurer les taches accomplit pour les parcours et les fonctionnalités à partir qu'une grille d'observation. Les scénarios allez nous servir a validé ou non des fonctionnalités et parcours tel que : </p>
 <ul>
-<li>la création de compte Grand Lyon Connect et Trabool</li>
-<li>la commander un pass pour soi, pour ma Tribu- famille</li>
-<li>la souscription à une offre</li>
-<li>gestion des offres souscrites dans mes abonnements et ma tribu</li>
-<li>compréhension de “Tribu” et du service en générale</li>
+<li>la création de compte Grand Lyon Connect et Trabool ;</li>
+<li>la commander un pass pour soi, pour ma Tribu- famille ;</li>
+<li>la souscription à une offre ;</li>
+<li>gestion des offres souscrites dans mes abonnements et ma tribu ;</li>
+<li>compréhension de “Tribu” et du service en générale.</li>
 </ul>
-<p>Durant le test, j'oberse comment les testeurs intéragissent avec le site, ce qu'ils disent, quel sont leurs expressions.</p>
+<h3>Déroulé des tests</h3>
+<p>Durant le test, nous observons et prenont des notes sur comment les testeurs interagissent avec le site, ce qu'ils disent et quels sont leurs expressions.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/user-test-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/user-test-2-lg.jpg 1024w"  alt="" width="360" height="363"></figure>
+<p>Les tests sont suivi d'un entretient et finissent par le questionnaire SUS (System Usability Scale) mesurant l’utilisabilité et l'expérience du site afin de pouvoir identifier la valeur notre siteweb. Plusieurs tester volontaires ont été choisis pour les tests se déroulant dans une salle en individuel, via un ordinateur portable avec un enregistrement vidéo et audio. </p>
+<p class="msg--highlight msg ">L’utilisabilité est <em>" la capacité de l’objet à être facilement utilisé par une personne donnée pour réaliser la tâche pour laquelle il a été conçu. La notion d’utilisabilité englobe à la fois la performance de réalisation de la tâche, la satisfaction que procure l’utilisation de l’objet et la facilité avec laquelle on apprend à s’en servir. " </em>(source : Usabilis.com)</p>
+<h3><strong>Compréhension du service Trabool</strong></h3>
+<p>Lors des premier test, les testeurs avait des difficultés de compréhension du service Trabool et de son écosystème : un siteweb pour souscrire et une carte utilisé et comment il fonctionne. D'autre ne savait pas où chercher des informations sur Trabool et qui porte le projet. Les description n'est pas compréhensible et es long textes de présentations sont rarement lu.</p>
+<p>Pour les offres, il manque des explications et la lecture n’est pas visible, ce qui peut avoir comme conséquence une expérience négative car non compréhensible.</p>
+<h3><strong>Commander un Pass Trabool</strong></h3>
+<p>Lors de la commande de Pass, la demande de carte d’identité pose question sur son utilité et utilisation par le service. Le transfert d’abonnement n’est pas compris car les utilisateurs se demandent s’il n’y va pas y avoir une redondance dans les cartes. Nous avons aussi constater une mauvaise compréhension du wording lors de commande de la carte Trabool comme "Tribu" ou "Activer la fonction transport". Elle permet, une fois la carte reçu, de s'abonner aux transports en commun. Lors des tests, 2 utilisateurs sur 8 ne l'ont pas activer. Enfin, quand un nouveau usager créer un compte, l'aller-retour sur le site de connexion Grand Lyon Connect pose la problématique de cohérence global des services de la Métropole. </p>
+<h3>Le retours utilisateurs</h3>
+<p>Les tests nous permit de s'appuyer sur les points négatifs du parcours du site afin de les améliorer et d’émettre des hypothèses sur la suite de la conception. Certains aspects que ne l'on redouter pas, tel que lors de la commande de passe, n'ont pas était compris dans l'ensemble et nous permet de prendre du recul pour améliore les interfaces. Mais globalement, la valeur du service apportée pour les usagers n’est pas très claire et ne semble pas correspondre à leurs attentes. Les éléments qui sont plus simple sont la gestion, la commande d'offre. </p>
 <p> </p>
-<p>Les tests sont suivi d'un entretient et finissent par le questionnaire SUS (System Usability Scale) mesurant l’utilisabilité et l'expérience du site afin de pouvoir identifier la valeur notre siteweb. Huits testers volontaires ont été choisis pour les tests se déroulant dans une salle en individuel, via un ordinateur portable avec un enregistrement vidéo et audio.</p>
-<p>L’utilisabilité :<em> "la capacité de l’objet à être facilement utilisé par une personne donnée pour réaliser la tâche pour laquelle il a été conçu. La notion d’utilisabilité englobe à la fois la performance de réalisation de la tâche, la satisfaction que procure l’utilisation de l’objet et la facilité avec laquelle on apprend à s’en servir." </em>Usabilis</p>
-<h3><strong>Les retours utilisateurs</strong></h3>
-<p>Les entretiens on montrait que les testeurs comprennait si sa...</p>
-<p>Les tests nous ont permis de pointer des problèmes de conception poser problème aux utilisateurs.</p>
-<h5><strong>1- Compréhension du service Trabool</strong></h5>
-<p>Tout d'abord, les testeurs la présentation du service n’est pas très claire, certains testeurs ne comprennent pas le service qui est proposé. Les long textes de présentations sont rarement lu.</p>
-<p>Les utilisateurs ne savent pas où chercher des informations sur Trabool : qui porte le projet ? qu’est-ce que s’est ? Comment ça marche ? Pour les offres, il manque des explications et la lecture n’est pas visible, ce qui peut avoir comme conséquence une expérience négative car non compréhensible. Si les utilisateurs/visiteurs du site ne comprennent pas, ils ne vont pas revenir.</p>
-<p>Il y manque de compréhension dans l'écosystéme de Trabool : une carte et le siteweb pour souscrire aux offres.</p>
-<p>Ils ne comprenent pas le service, la description n’est pas compréhensible et quels sont les services proprosés, il n’y a pas d’informations sur les porteurs du projet, lors de la commande d’une carte, etc.</p>
-<p> </p>
-<h5><strong>2- Commander un Pass Trabool</strong></h5>
-<p>Lors de la commande de Pass, la demande de carte d’identité pose question sur son utilité et utilisation par le service. L’utilisateur ne sait pas ce qui signifie “Activité la fonctionnalité transport”. Le transfert d’abonnement n’est pas compris car les utilisateurs se demandent s’il n’y va pas y avoir une redondance dans les cartes. Nous avons constater une mauvaise compréhension du wording lors de commande de la carte Trabool comme "Activer la fonction transport" qui permet, une fois la carte recu, de s'abonner aux transports en commun. Lors des tests, 2 utilisateurs sur 8 ne l'ont pas activer.</p>
-<ul>
-<li>probleme changement de site cohérence des services global de le métropole</li>
-<li> </li>
-</ul>
-<p>Les tests nous permit de s'appuyer sur les points négatifs du parcours du site afin de les améliorer et d’émettre des hypothèses sur la suite de la conception.. Certains aspects que ne l'on redouter par (tel que...) n'ont pas était globalement compris et nous permet de prendre du recul pour améliore la suite.</p>
-<p>Mais globalement, la valeur du service apportée pour les usagers n’est pas très claire et ne semble pas correspondre à leurs attentes. L’utilisateur cible n’étant pas identifié. C’est surtout à partir de l’analyse des problèmes technique et des données de l’expérimentation que nous avons conçu la suite.</p>
-<p>quest ce qui était plus simple ?</p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>4. Design final</strong></span></h2>
 <p> </p>
-<p>Après une phase d'itérations sur les interfaces hautes fidélités, nous avons conçu une version finale des interfaces. La version définitive des interfaces ont été re-tester afin de valider nos interfaces finales. Nous avons du limité nos idées aux techniques-des possibles et de la demande. Dans la version final, j'aurais voulu intégrer une carte des lieux ou ... . À la place, nous avons intégrer un trie par type de domaine des offres et une rubrique dédiés aux nouveaux services pour un affichage simple. Nous sommes contenue a des améliorations de reéogranisation des pages, de fluidification des parcours utilisateurs, et en intégrant la gestion desplusieurs comptes.</p>
-<p>Globalement dans la version fianl, les usagers se retrouvent dans les parcours, la création de compte et l'ajout et la gestion de plusieurs compte rendent plus clair la compréhension du service dans son ensemble et pours les nouveaux usagers.</p>
-<p>Nous avons conçus le maquette haute-fidélité sur Figma afin que tous les membres de l'équipe ainsi que les développers Front End puissent y accéder et de leurs permettre d'inspecter le fichier et d'exporter les composants CSS. Le suivi du développement c'est fait avec la business analysti, et via tableau pour le suivi des tickets afin de sassurer que l'implémentation était aligné avec les interfaces que nous avons concut. </p>
-<p><strong>Qu'est-ce qu'on a intégrer ?</strong></p>
-<p>Nous avons intégrer dans le site ....</p>
-<ul>
-<li>cohérence graphique a garder avec tous le site</li>
-<li>gestion de comptes et abonnement</li>
-<li>probléme lié à la carte</li>
-<li>responsive design ?</li>
-</ul>
-<p>Cette refonte des interfaces et de l'expérience de l'utilisateur nous ont permis par la suite de continuer les évolutions présentent sur la roadmap en ajoutant une billéitique de pour des loisirs. Cela ajouterait une utilisation accentué de la carte et de l'application a venir qui permetterait de faire les deux.</p>
-<p>Il faudra tout de meme s'attendre à de retour usager pour envisager des ajustements !</p>
+<h3>L'intégration</h3>
+<p>Après une phase d'itérations sur les interfaces hautes fidélités, nous avons conçu une version finale des interfaces. La version définitive des interfaces ont été re-tester afin de valider nos interfaces finales. Nous avons du limité nos idées aux possibilité techniques et à la demande. Dans une version j'aurais voulu intégrer une carte des lieux culturelles et sportifs en combinaisons des possibilités de mobilités. À la place, nous avons intégrer un trie par type de domaine des offres et une rubrique dédiés aux nouveaux services pour un affichage simple, une cohérence graphique a garder, une gestion de comptes et abonnement et le responsive. Les améliorations réorganisent les pages, fluidifier les parcours utilisateurs et en intégrant la gestion de plusieurs comptes.</p>
+<p>Globalement dans la version final, les usagers se retrouvent dans les parcours, la création de compte et l'ajout et la gestion de plusieurs compte rendent plus clair la compréhension du service dans son ensemble et pour les nouveaux usagers.</p>
+<p>Cette refonte des interfaces et de l'expérience de l'utilisateur nous ont permis par la suite de continuer les évolutions présentent sur la roadmap en ajoutant une billéitique de pour des loisirs. Cela ajouterait une utilisation accentué de la carte et de l'application a venir qui permetterait de faire les deux. Il faudra tout de meme s'attendre à de retour usager pour envisager des ajustements !</p>
 <figure class="post__image post__image--full"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/ecran-shadow-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-lg.png 1024w"  alt="" width="1525" height="788"></figure>
-<h1> </h1>
-<h1 class="align-center"><strong>Conclusion</strong></h1>
+<h3>Partage Titre </h3>
+<p>Nous avons conçus le maquette haute-fidélité sur Figma afin que tous les membres de l'équipe ainsi que les développeurs front-end puissent y accéder et de leurs permettre d'inspecter le fichier et d'exporter les composants CSS. Le suivi du développement c'est fait avec la business analyste, et via tableau pour le suivi des tickets afin de s'assurer que l'implémentation était aligné avec les interfaces que nous avons conçu. </p>
 <p> </p>
-<p>Le plus dur a été de travailler sur la conception du site internet, son expérience globale, mais nous n'avons pas put travailler le concept du service : imaginé d'autres parcours usagers, des interactions.</p>
-<p>De mon point de vue, la Métropole pouvait apporter autre chose qu’un site pour commander des abonnements et les regrouper dans une seule carte, et les tests utilisateurs ont permis de pointer ça.</p>
-<p>alors que les designers en interne auraient le rôle et les compétences pour le faire. Par la suite, j’ai cherché les objectifs initiaux du projets, pour quelles raisons, dans quels buts, qui ne m’avaient jamais été clairement donnés et affichés.</p>
-<p>Ce projet à remis en question ma pratique car j’ai vu qu’il fallait itérer beaucoup plus vite, tester beaucoup plus tôt pour perdre moins de temps sur des aspects incertains de la conception.</p>
-<ul>
-<li>pensér la mobilité en générale : ce fait le long et les réunions projets</li>
-<li>penser la mobilité plus générale , et si on fesait comme si sa</li>
-<li> </li>
-</ul>
+<h2 class="align-center"><span style="color: #fc9561;"><strong>Conclusion</strong></span></h2>
+<p> </p>
+<p>Le plus dur a été de travailler sur la conception du site internet, son expérience globale, mais nous n'avons pas put travailler le concept du service : imaginé d'autres parcours usagers, des interactions sur la mobilité plus générale par exemple. De mon point de vue, nous pourrions apporter autre chose qu’un site pour commander des abonnements et les regrouper dans une seule carte, et les tests utilisateurs ont permis de pointer ça.</p>
+<p>Ce projet à remis en question ma pratique car j’ai compris qu'il fallait itérer beaucoup plus vite et par tester beaucoup plus tôt pour perdre moins de temps sur des aspects incertains de la conception, cela tout en répondant aux impératif de limite de temps. </p>
             ]]>
         </content>
     </entry>
@@ -316,7 +310,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
 
-        <updated>2020-11-04T16:19:51+01:00</updated>
+        <updated>2020-11-04T18:35:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
@@ -337,8 +331,19 @@
 <p> </p>
 </div>
 <h3><strong>Résumé</strong></h3>
-<p>La collectivité publique Val de Garonne Agglomération (VGA) a pour volonté de devenir acteur du le développement économique que connait actuellement la métropole de Bordeaux. En vue d'augmenter sa croissance et son économie, elle souhaite participer au développement  de Bordeaux en se positionnant en tant pôle résidentielle dans le paysage rural de Bordeaux. Elle met donc en place une stratégie d’attractivité et de mobilité résidentielle qui passe par une offre de transport alternative à la voiture particulière (train, transports en commun et covoiturage) et qui a pour but de fluidifier l'axe entre Bordeaux et son territoire.</p>
-<p>Dans ce contexte l'agglomération a donc fait appel à nous et notre travail consiste à accompagner les politiques publiques en dressent des scénarios prospectifs sur développement de la <strong>mobilité résidentielle et professionnelle</strong> à l’échelle de l’agglomération et des villages voisins.</p>
+<div class="container">
+<div class="space-section">
+<div class="row">
+<div class="col-12">
+<p>Dresser un panorama prospectif de la mobilité sur le territoire Val de garonnais, dans la perspective d’une stratégie territoriale d’attractivité résidentielle, fondée sur le développement d’une <span class="txt-color">offre de mobilité fluide et durable au sujet des déplacements à échelle communale et inter-communale de l’agglomération.</span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="space-section"> </div>
+</div>
+<p><span style="color: #fc9561;">Dans ce contexte l'agglomération a fait appel à nous et notre travail consiste à accompagner les politiques publiques en dressent des scénarios prospectifs sur développement de la <strong>mobilité résidentielle et professionnelle</strong> à l’échelle de l’agglomération et des villages voisins.</span></p>
 <h3><strong>Problème</strong></h3>
 <p>Dans ce territoire rural, les transports en communs sont moins avantageux que la voiture, surtout en ce qui concerne les trajets domicile-travail. En comparaison, la voiture permet une plus grande flexibilité et indépendance dans ce milieu et se retrouve choix numéro 1 pour se déplacer. L'agglomération se trouve très polluer à cause de la voiture et doit alors repenser la mobilité pour aller vers des comportements plus responsable les déplacement entre les villages pour les trajets domicile-travail et revoir son systéme de transport en commun.</p>
 <blockquote>
@@ -445,6 +450,9 @@
 <li>certains types de mobilité ne sont pas utilisés par manque d’information et peur / préjugés (covoiturage) ;</li>
 <li>non sensibilisation à la mobilité de demain, intérêt collectif et individuel à utiliser les transports en commun pour favoriser l’intermodalité.</li>
 </ul>
+<figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/5-why.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-lg.jpg 1024w"  alt="" width="4032" height="3024">
+<figcaption >Méthode "5 why"</figcaption>
+</figure>
 <p> </p>
 <h2 class="align-center"><strong><span style="color: #fc9561;">2. Idéation</span></strong></h2>
 <p> </p>
@@ -507,6 +515,7 @@
 <p>Flyers et affiches en ville : moyen fortement utilisé par le ministère pour transmettre un message + Style. conventionnel qui appui cette jonction au réel.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/vigniette.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vigniette-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vigniette-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vigniette-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/vigniette-lg.png 1024w"  alt="" width="600" height="119"></figure>
 <p>Pour introduire le design fiction, nous avons imaginer une vidéo de présentation fictive présentent le concept dans le VGA. C'est communication indirecte autre que du gouvernement qui plonge directement dans la fiction, permettant de cibler les citoyens jeunes qui utilisent un autre médium pour s’informer de l’actualité comme Facebook.</p>
+<p>-&gt; jeune a horaire fixe que l'on vise </p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/UoD2nug4mdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <p><a href="#INTERNAL_LINK#/post/null"></a>Pour immerger les spectateurs et habitants en plus de la vidéo, nous avons présenté un site internet où les usagers peuvent simuler leur carte Écovoit’, pour asseoir l’image sérieuse et préventive de l’institution.<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/b-22rFtHWkQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <p>Cette vidéo et ce site sont des objets de diégèse qui invite à croire en une fiction par lequel nous envisageons l’avenir. Ils non pas pour but d’être des produits applicables ou vendables, ce sont des prototypes du design fiction qui ont pour but de questionner.</p>
