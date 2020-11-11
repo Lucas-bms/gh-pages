@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucas-bms.github.io/gh-pages/sitemap.xml
