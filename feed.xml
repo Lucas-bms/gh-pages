@@ -3,7 +3,7 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-11-12T08:43:03+01:00</updated>
+    <updated>2020-11-14T22:28:17+01:00</updated>
     <author>
         <name>Lucas</name>
     </author>
@@ -297,7 +297,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
 
-        <updated>2020-11-11T20:22:04+01:00</updated>
+        <updated>2020-11-14T22:28:17+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
@@ -368,6 +368,8 @@
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/carte-bus-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-lg.jpg 1024w"  alt="" width="1774" height="1763">
 <figcaption >Visualisation des transports existants et futures dans le Val de Garonne reliant les villages (bourg-relais) au pole centrale (Marmande et Tonneins).</figcaption>
 </figure>
+<p><span data-token-index="0" data-reactroot="">Nous avons cartographié tous les acteurs et les interactions entre eux aux travers d'une représentation systémiques du projet afin d'identifier toutes les parties prenantes et d'avoir une vision clair des role de chacun et des relations complexes qu'ils entretient.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/A_actormap-photo.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/A_actormap-photo-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/A_actormap-photo-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/A_actormap-photo-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/A_actormap-photo-lg.jpg 1024w"  alt="" width="3966" height="2315"></figure>
 <h3><strong>Recherche ethnographique</strong></h3>
 <p>Après une réunion avec les élus de l'agglomération du Val-des-Garonnes pour le brief du projet et fixer les objectifs, notre équipe c'est rendu sur le terrain afin de commencer par une phase de recherche utilisateurs et d'immersion afin de ce confronté à certain vécu des usagers. dans la ville la plus importante du VGA : Marmande.</p>
 <p>À partir du grille de questions que l'on a préparé, nous avons aussi interrogé environ 20 habitants afin d'identifier les habitudes de transports et les connaissances des transports en communs et les besoins des usagers : les usagers des transports en commun, les chauffeurs de car, les riverains et automobiliste. Nous avons pris les transports en commun afin de savoir au mieux comment se passe un trajet du centre ville de Marmande vers la périphérie (usines et habitations).</p>
@@ -395,7 +397,7 @@
 <li>certains types de mobilité ne sont pas utilisés par manque d’information et peur / préjugés (covoiturage) ;</li>
 <li>non sensibilisation à la mobilité de demain, intérêt collectif et individuel à utiliser les transports en commun pour favoriser l’intermodalité.</li>
 </ul>
-<figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/5-why.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/5-why-lg.jpg 1024w"  alt="" width="4032" height="3024">
+<figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/C-5_why.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/C-5_why-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/C-5_why-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/C-5_why-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/C-5_why-lg.jpg 1024w"  alt="" width="1063" height="579">
 <figcaption >Méthode "5 why's".</figcaption>
 </figure>
 <p>Nous avons dégagés des besoins essentiels. Parmi ces points on peut citer : la mise en place clair d'information sur les services de mobilité existant, d'avoir accès à des services de mobilités fluides et flexibles (pour l'inscription et la réservation en amont de trajet en bus). Nous constatons que l’accessibilité physique aux réseaux de transport est difficile, notamment si la personne n’a pas d’arrêt dans sa commune ou si les arrêts sont éloignés et que la fréquence des horaires est limitée. Les correspondances sont nombreuses et l’intermodalité est un frein aux déplacements doux.</p>
@@ -409,12 +411,31 @@
 <p>Nous observons que la voiture est le moyen qui permet beaucoup le plus de flexibilité en comparaisons aux transports en commun. De plus, en analysant l'économie des villes, nous observons des centres-villes desertiques, les principaux commerces se trouvent dans des zones commerciales en périphérie et que les services (travail, santé) sont éparpillés dans les communes du VGA. Ils sont donc plus adapté et accessible en voiture.</p>
 <h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/personae-voiture.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-lg.png 1024w"  alt="" width="1960" height="1402"></figure></h5>
 <h5><strong>Les usagers des transports en commun</strong></h5>
-<p>Les parcours usagers des transports en communs est moins flexible car il y a moins de fréquence, peu d'arrête à l'extérieure dans les villages ce qui oblige à prendre le vélo par exemple. Il y aussi moins de connexion intercommunale obligent à passer par Marmande si l'on veux aller dans un autre village.</p>
+<p>Pour les trajets pendulaires ou occasionels, les parcours usagers des transports en communs est moins flexible car il y a moins de fréquence, peu d'arrête à l'extérieure dans les villages ce qui oblige à prendre le vélo par exemple. Il y aussi moins de connexion intercommunale obligent à passer par Marmande si l'on veux aller dans un autre village.</p>
 <p>De plus, la fluidité du parcours est ralenti par la complexité des inscription et des réservations pour les bus à la demande (il faut prévoir, appeler) et des problèmes logistique entraine des retards et des problèmes de correspondances.</p>
 <p>Enfin, il y a peu de service de mobilités proposait par rapport aux besoins de déplacement quotidiens des habitants, autant en transport en commun mais aussi en aménagement <em>(il y a peu de parking relais, peu ou pas de routes dédiés aux vélos).</em></p>
 <p>Le parcours des usagers en transports en commun est divisé en trois phases : au préalable afin de préparer le voyage, le jour j le moment où il ce déplace et l'après.  </p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/frictions.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-lg.png 1024w"  alt="" width="1562" height="367"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/persona-bus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-bus-lg.png 1024w"  alt="" width="1547" height="994"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-1.jpg" data-size="2008x1305"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-1-thumbnail.jpg" alt="" width="768" height="499"></a>
+<figcaption>Persona trajet pendulaire - Salarié travaillant à Bordeaux </figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-1.jpg" data-size="1507x1055"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-1-thumbnail.jpg" alt="" width="768" height="538"></a>
+<figcaption>Parcours 1</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-2-2.jpg" data-size="2020x1345"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-2-2-thumbnail.jpg" alt="" width="768" height="511"></a>
+<figcaption>Persona trajet pendulaire - Lycéen étudiant à Tonneins</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-2.jpg" data-size="1515x1038"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-2-thumbnail.jpg" alt="" width="768" height="526"></a>
+<figcaption>Parcours 2</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-3-2.jpg" data-size="2020x1329"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-3-2-thumbnail.jpg" alt="" width="768" height="505"></a>
+<figcaption>Persona trajet occasionnel - Sénior allant à Marmande</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-3.jpg" data-size="1619x1057"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-3-thumbnail.jpg" alt="" width="768" height="501"></a>
+<figcaption>Parcours 3</figcaption>
+</figure>
+</div></div>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/parcours-bus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-lg.png 1024w"  alt="" width="1878" height="1234"></figure>
 <h3>Voiture VS transport en commun</h3>
 <p>Pour éclairer nos phases de recherches, nous avons comparé les modes de déplacements disponibles afin de d'identifié les avantages et contraintes de chaque :</p>
@@ -429,7 +450,8 @@
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/parcours-bus-voiture.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-voiture-lg.png 1024w"  alt="" width="1316" height="588">
 <figcaption >Comparatif d'un trajet entre la voiture et les transports en commun.</figcaption>
 </figure>
-<p> </p>
+<h3>Problématique</h3>
+<p><strong>Comment penser une offre de service de transport durable et flexible en prenant en compte le milieu rural dans le Val de Garonne afin de limiter l’usage de la voiture personnelle ?</strong></p>
 <h2 class="align-center"><strong><span style="color: #fc9561;">2. Idéation</span></strong></h2>
 <p> </p>
 <p>Les parcours usagers ont permis d'identifier les points de faiblesse des usagers du bus mais au aussi des pistes de leviers sont apparues. Suite à la commande du commanditaire, nous avons chacun émis des pistes de solutions afin de le présenter et sélectionner la piste qu'ils voulaient explorer.</p>
@@ -445,11 +467,9 @@
 <p>La deuxième piste explorer la notion de creation de nouvelle économie de la mobilité. Pour cela, j'ai imaginer un service de transport collaboratif basé sur le covoiturage, pour les déplacements communaux et in-tercommunaux de Val des Garonne Agglomération gratuit et gratifier. De plus cette nouvelle offre de service permet un intermédiaire à la voiture particulière pour faciliter l’intercommunalité et l’interconnexion avec les services de mobilité des navettes (PEM - Bourgs-relais).</p>
 <p>Le service de covoiturage fonctionnerai sur le meme principe qu'une application mais de façon gratuite en rémunérant les usagers de monnaie local créer pour cela. La monnaie pourrait ensuite étre utilsié dans les commerces du VGA. Cependant, le conducteur ne se rémunére par sur les couts de sont trajets. En partenariat avec les commerçants locaux.</p>
 <p>Pour présenter cette hypothése, nous l'avons mit sout forme de scénarios d'usage.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/piste-2-1.png" data-size="1542x990"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/piste-2-1-thumbnail.png" alt="" width="768" height="493"></a></figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/piste-2-2.png" data-size="922x539"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/piste-2-2-thumbnail.png" alt="" width="768" height="449"></a></figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/piste-2-3.png" data-size="916x440"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/piste-2-3-thumbnail.png" alt="" width="768" height="369"></a></figure>
-</div></div>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/piste-2-1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-1-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-1-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-1-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-1-lg.png 1024w"  alt="" width="1542" height="990"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/piste-2-2-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-2-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-2-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-2-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-2-2-lg.jpg 1024w"  alt="" width="842" height="457"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/piste-2-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-2-3-lg.jpg 1024w"  alt="" width="842" height="457"></figure>
 <h3><strong>Piste 3 : réfléxion transversal</strong></h3>
 <p>En plus de ces deux pistes, nous avons proposé une réflexion transversale sur l’évolution des mobilités en milieu rural identifiées en phase d'inspiration. Nous avons imaginer de possibles futurs modes de transport par la construction de design fiction. Utiliser le design fiction permet d'établir un contexte qui engage le débat et la réflexion afin de sensibiliser les usages vis-à-vis de la voiture. </p>
 <figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/piste-3-transversalle.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/piste-3-transversalle-lg.png 1024w"  alt="" width="1552" height="786"></figure>
