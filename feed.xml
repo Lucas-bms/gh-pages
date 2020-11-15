@@ -3,7 +3,7 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-11-14T22:28:17+01:00</updated>
+    <updated>2020-11-15T20:24:10+01:00</updated>
     <author>
         <name>Lucas</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
 
-        <updated>2020-11-12T08:43:03+01:00</updated>
+        <updated>2020-11-15T18:35:11+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-3-2.jpg" alt="" />
@@ -164,9 +164,12 @@
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-pass.png" data-size="1920x2229"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/Commander-pass-thumbnail.png" alt="" width="768" height="892"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande.png" data-size="1920x1629"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/gallery/ma-tribu-commande-thumbnail.png" alt="" width="768" height="652"></a></figure>
 </div></div>
-<h2> </h2>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/accueil.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-lg.jpg 1024w"  alt="" width="500" height="573">
+<figcaption >Accueil</figcaption>
+</figure>
+<p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>3. Évaluation</strong></span></h2>
-<h3> </h3>
+<p> </p>
 <h3>Préparation des tests utilisateurs</h3>
 <p>Tester est le meilleur moyen d'évaluer l'expérience utilisateur. J'ai conduit des tests usabilité avec les utilisateurs pour validé les nouvelles conceptions que nous avons trouver pour répondre à leurs probléme. Le test sur interface base fidélité aller aussi nous permettre de comprendre comment les utilisateurs naviguer et interagissez avec le site. </p>
 <h3>Protocole &amp; objectifs</h3>
@@ -197,7 +200,8 @@
 <p>Après une phase d'itérations sur les interfaces hautes fidélités, nous avons conçu une version finale des interfaces. La version définitive des interfaces ont été re-tester afin de valider nos interfaces finales. Nous avons du limité nos idées aux possibilité techniques et à la demande. Dans une version j'aurais voulu intégrer une carte des lieux culturelles et sportifs en combinaisons des possibilités de mobilités. À la place, nous avons intégrer un trie par type de domaine des offres et une rubrique dédiés aux nouveaux services pour un affichage simple, une cohérence graphique a garder, une gestion de comptes et abonnement et le responsive. Les améliorations réorganisent les pages, fluidifier les parcours utilisateurs et en intégrant la gestion de plusieurs comptes.</p>
 <p>Globalement dans la version final, les usagers se retrouvent dans les parcours, la création de compte et l'ajout et la gestion de plusieurs compte rendent plus clair la compréhension du service dans son ensemble et pour les nouveaux usagers.</p>
 <p>Cette refonte des interfaces et de l'expérience de l'utilisateur nous ont permis par la suite de continuer les évolutions présentent sur la roadmap en ajoutant une billéitique de pour des loisirs. Cela ajouterait une utilisation accentué de la carte et de l'application a venir qui permetterait de faire les deux. Il faudra tout de meme s'attendre à de retour usager pour envisager des ajustements !</p>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/ecran-shadow-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/ecran-shadow-2-lg.png 1024w"  alt="" width="1525" height="788"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/background-ordi.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-lg.jpg 1024w"  alt="" width="1525" height="788"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/background-smartphone-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-lg.jpg 1024w"  alt="" width="1810" height="1022"></figure>
 <h3>Partage Titre </h3>
 <p>Nous avons conçus le maquette haute-fidélité sur Figma afin que tous les membres de l'équipe ainsi que les développeurs front-end puissent y accéder et de leurs permettre d'inspecter le fichier et d'exporter les composants CSS. Le suivi du développement c'est fait avec la business analyste, et via tableau pour le suivi des tickets afin de s'assurer que l'implémentation était aligné avec les interfaces que nous avons conçu. </p>
 <p> </p>
@@ -297,16 +301,16 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
 
-        <updated>2020-11-14T22:28:17+01:00</updated>
+        <updated>2020-11-15T20:24:10+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
+                        <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-5.jpg" alt="" />
                     Rôle. UX Designer - Service Designer Agence. Université de Bordeaux Montaigne, Communauté&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-2.JPG" alt="" />
+                    <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-5.jpg" alt="" />
                 <div class="info">
 <p><strong class="caption">Rôle.</strong> <strong>UX Designer - Service Designer</strong></p>
 <p><strong class="caption">Agence.</strong> <strong>Université de Bordeaux Montaigne, Communauté de commune Val de Garonne agglomération</strong></p>
@@ -409,7 +413,10 @@
 <p>Pour visualisé le vécu des usagers, nous avons matérialisé des parcours usagers à partir de nos données récoltés sur le terrain. </p>
 <h5><strong>Les parcours en voitures</strong></h5>
 <p>Nous observons que la voiture est le moyen qui permet beaucoup le plus de flexibilité en comparaisons aux transports en commun. De plus, en analysant l'économie des villes, nous observons des centres-villes desertiques, les principaux commerces se trouvent dans des zones commerciales en périphérie et que les services (travail, santé) sont éparpillés dans les communes du VGA. Ils sont donc plus adapté et accessible en voiture.</p>
-<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/personae-voiture.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/personae-voiture-lg.png 1024w"  alt="" width="1960" height="1402"></figure></h5>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/persona-voiture.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-voiture-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-voiture-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-voiture-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/persona-voiture-lg.jpg 1024w"  alt="" width="1347" height="886"></figure>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/parcours-voiture.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-voiture-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-voiture-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-voiture-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-voiture-lg.jpg 1024w"  alt="" width="300" height="428">
+<figcaption >Parcours de Julie.</figcaption>
+</figure>
 <h5><strong>Les usagers des transports en commun</strong></h5>
 <p>Pour les trajets pendulaires ou occasionels, les parcours usagers des transports en communs est moins flexible car il y a moins de fréquence, peu d'arrête à l'extérieure dans les villages ce qui oblige à prendre le vélo par exemple. Il y aussi moins de connexion intercommunale obligent à passer par Marmande si l'on veux aller dans un autre village.</p>
 <p>De plus, la fluidité du parcours est ralenti par la complexité des inscription et des réservations pour les bus à la demande (il faut prévoir, appeler) et des problèmes logistique entraine des retards et des problèmes de correspondances.</p>
@@ -436,7 +443,6 @@
 <figcaption>Parcours 3</figcaption>
 </figure>
 </div></div>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/parcours-bus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/parcours-bus-lg.png 1024w"  alt="" width="1878" height="1234"></figure>
 <h3>Voiture VS transport en commun</h3>
 <p>Pour éclairer nos phases de recherches, nous avons comparé les modes de déplacements disponibles afin de d'identifié les avantages et contraintes de chaque :</p>
 <ul>
@@ -539,7 +545,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-2.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-2.html</id>
 
-        <updated>2020-11-10T19:31:12+01:00</updated>
+        <updated>2020-11-15T19:38:20+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/2/IMG_20190408_141355.jpg" alt="" />
@@ -693,6 +699,7 @@
 <p>Les retours globals des décideurs sont sur la séparation des services, qu'ils voient plus en croisement afin que les usagers puissent passé d'un service à l'autre.</p>
 <p><code>photo presentation final</code></p>
 <p> </p>
+<p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>3. L'après sprint</strong></span></h2>
 <p> </p>
 <ol>
@@ -713,8 +720,9 @@
 <p> </p>
 <p>Lors de la première réunion, les chefs de projets et les membres des équipes n’étaient pas satisfaits des résultats et préféraient continuer comme ils étaient partis, malgré les incohérences et les recouvrements de services. <s>J’ai été très étonné de la décision de ne pas choisir, mais cela révèle le dysfonctionnement interne de la Métropole.</s> La décisions final était de continuer les projets et nous n'avons pas pus tester les idées.</p>
 <p>À partir de là, nous avons quand même fait les réunions avec les directeurs et décideur afin de récolter les avis positifs et négatifs de chaque proposition de service, mais aussi les stratégies de la Métropole et le rôle qu’ils estiment qu’elle devrait avoir. Les réunions nous ont servi à faire ressortir des règles d’obligations, de contraintes et de souhaits par rapport au service.</p>
-<p> </p>
-<p><code>photo du kit et des politiques publiques</code></p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-lg.jpg 1024w"  alt="" width="595" height="842"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-lg.jpg 1024w"  alt="" width="595" height="842"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-lg.jpg 1024w"  alt="" width="595" height="402"></figure>
 <p>Nous avons conçus un kit projet afin que les chefs de projets s'oriente en foncions de la stratégie de la Métropole.</p>
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>Conclusion</strong></span></h2>
