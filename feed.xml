@@ -3,7 +3,7 @@
     <title>lucasbramas</title>
     <link href="https://lucas-bms.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://lucas-bms.github.io/gh-pages" />
-    <updated>2020-11-15T20:24:10+01:00</updated>
+    <updated>2020-11-16T20:15:11+01:00</updated>
     <author>
         <name>Lucas</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Lucas</name>
         </author>
-        <link href="https://lucas-bms.github.io/gh-pages/projet-1.html"/>
-        <id>https://lucas-bms.github.io/gh-pages/projet-1.html</id>
+        <link href="https://lucas-bms.github.io/gh-pages/redesigner-experience-site-web-trabool.html"/>
+        <id>https://lucas-bms.github.io/gh-pages/redesigner-experience-site-web-trabool.html</id>
 
-        <updated>2020-11-15T18:35:11+01:00</updated>
+        <updated>2020-11-16T20:15:11+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/1/cover-3-2.jpg" alt="" />
@@ -37,27 +37,26 @@
 <p><strong class="caption">Timeline &amp; date. </strong><strong>Accompagnement sur 12 mois - projet de 2 mois</strong></p>
 </div>
 <h3><strong>Résumé</strong></h3>
-<p>Trabool est un de services de mobilité et de loisirs culture sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole avec des partenaires publiques et privés. Le site de Trabool est utilisé par les usagers pour commander et recharger leurs carte et leurs abonnement depuis chez eux, grâce à un chargeur reçu dans le kit.</p>
+<p>Trabool est un de services de mobilité et de loisirs culturel sur le territoire lyonnais s'utilisant avec une carte ou son smartphone. Elle est mise en place par la Métropole avec des partenaires publiques et privés. Le site de Trabool est utilisé par les usagers pour commander et recharger leurs carte et leurs abonnement depuis chez eux, grâce à un chargeur reçu dans le kit.</p>
 <p>Ce service étant déployé à mon arrivé au sein de la Métropole, je l'ai suivi durant 12 mois au travers de plusieurs missions en parallèle (graphisme, test utilisateur de l'application, etc). Je vous présente ici le plus ambitieux projet.</p>
 <h3><strong>Problème</strong></h3>
 <p>Au fur et à mesure de l'évolution de Trabool, de nouvelles fonctionnalités techniques on été intégrée au site web afin de l'améliorer : ajouter des comptes, gérer plusieurs compte et abonnement, commander ou renouveler une carte et bien d'autres. Mais certains de ces aspects bloquaient le parcours utilisateur sur le site par l'architecture d'information et la mise en page. Piloter par le chef de projet, notre équipe a travaillé sur la refonte du site internet et des parcours utilisateurs afin d'y intégrer les évolutions.</p>
 <h3><strong>Solution</strong></h3>
 <p>Après plusieurs itérations et des tests utilisateurs, nous avons conçu des nouvelles interfaces pour le parcours d'inscription, la souscription d'abonnement ainsi que la gestion de ces informations personnels.</p>
-<p><strong>Combiner vos abonnements </strong></p>
-<p>... </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Android.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-lg.jpg 1024w"  alt="" width="250" height="445"></figure>
-<h5> </h5>
-<p><strong>Une gestion simple et partagé avec vos proches</strong></p>
-<p>Ajouter aussi simplement tout les membres de votre famille. Et en un coup d’oeil, regarder où en sont vos abonnements et ceux de votre famille. </p>
-<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Mes-pass-smart-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Mes-pass-smart-3-lg.jpg 1024w"  alt="" width="250" height="462"></figure></h5>
-<p> </p>
 <p class="align-left"><strong>Avec Trabool, ayez une seule carte pour vos déplacements</strong></p>
 <p class="align-left">Un seul endroit pour commandez, vous abonnez à des services et gérer les abonnements de vous et votre famille.</p>
-<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/Android-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/Android-2-lg.jpg 1024w"  alt="" width="250" height="445"></figure></h5>
-<h3> </h3>
+<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/accueil.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/accueil-lg.png 1024w"  alt="" width="450" height="600"></figure></h5>
+<p> </p>
+<p><strong>Une gestion simple et partagé avec vos proches</strong></p>
+<p>Ajouter aussi simplement tout les membres de votre famille. Et en un coup d’oeil, regarder où en sont vos abonnements et ceux de votre famille sur smartphone ou ordinateur. </p>
+<h5><figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/mes-pass.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/mes-pass-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/mes-pass-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/mes-pass-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/mes-pass-lg.png 1024w"  alt="" width="300" height="533"></figure></h5>
+<p> </p>
+<p><strong>Combiner vos abonnements </strong></p>
+<p>Ajouter vos abonnements TCL, Vélo'v et Blue ou transferez-les sur votre carte Trabool.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/commande-tcl-round.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/commande-tcl-round-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/commande-tcl-round-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/commande-tcl-round-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/commande-tcl-round-lg.png 1024w"  alt="" width="1313" height="1018"></figure>
+<p> </p>
 <h3><strong>Méthodologie</strong></h3>
 <h3><figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/processus.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/processus-lg.png 1024w"  alt="" width="1383" height="265"></figure></h3>
-<h3> </h3>
 <h3><strong>Mon rôle</strong></h3>
 <p>J’ai accompagné le projet durant une année alternance entre l’université de Bordeaux Montainge et la Métropole de Lyon. Mon rôle dans ce projet été celui de designer de services et user experience dans une équipe composé de deux chef de projet, une psychologue sociale et une designer UX, en collaboration avec l’équipe chargé du développement de site internet (Sopra Steria) et d’une bisiness analysti. Travaillant en équipe avec valentin et alexandra, nous avons décider ensemble de la démarche à suivre, avec des phases de travail en groupe et seul.</p>
 <p> </p>
@@ -65,8 +64,10 @@
 <p> </p>
 <h3>État des lieux </h3>
 <p>Le projet bénéficie d’une phase d’expérimentation menée par Valentin Labit, psychologue sociale, c’est-à-dire que des usagers volontaires appelé “pionnier” testent des services avant la mise en place aux grands publics. Ils répondent à des questionnaires et sont mobilisés pour des ateliers. Son expertise au long du projet et les informations qu'il recueille depuis plusieurs mois nous permis de comprendre les comportement et émotions des gens, d'identifier les problèmes et de définir des usagers et leurs besoins. </p>
+<p>Nous avons aussi établit un businnes model canvas en état éctuel du projet, en identifiant les propositions de valeur et les cibles du projet. Vous pouvez dans le design sprint. </p>
+<p> </p>
 <h3>Définir des cibles</h3>
-<p>Trabool est un service public et s'adresse à tout les habitants de la métropole. Le public du service Trabool sont tous les habitants à partir de 18 ans. Actuellement, les usagers sont des hommes-femmes de 40 à 60 ans, des usager en famille et cadre qui ont le besoin de combiné des abonnements et les gérer ceux de leurs proches. Certains services sont tout de même accés sur un groupe cible particulier. <span style="color: #9e9e9e;">Nous avons fluidifier le parcours et la compréhension des services proposé par Trabool pour ces types d'utilisateurs potentielle.</span></p>
+<p>Trabool est un service public et s'adresse à tout les habitants de la métropole. Le public du service Trabool sont tous les habitants à partir de 18 ans. Actuellement, les usagers sont des hommes-femmes de 40 à 60 ans, des usager en famille et cadre qui ont le besoin de combiné des abonnements et les gérer ceux de leurs proches. Certains services sont tout de même accès sur un groupe cible particulier.</p>
 <figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/1/test-utilisateur.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/test-utilisateur-lg.jpg 1024w"  alt="présentation-test" width="4160" height="3120">
 <figcaption >Séance de test avec les experts techniques pour la future application mobile.</figcaption>
 </figure>
@@ -202,7 +203,7 @@
 <p>Cette refonte des interfaces et de l'expérience de l'utilisateur nous ont permis par la suite de continuer les évolutions présentent sur la roadmap en ajoutant une billéitique de pour des loisirs. Cela ajouterait une utilisation accentué de la carte et de l'application a venir qui permetterait de faire les deux. Il faudra tout de meme s'attendre à de retour usager pour envisager des ajustements !</p>
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/background-ordi.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-ordi-lg.jpg 1024w"  alt="" width="1525" height="788"></figure>
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/1/background-smartphone-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/1/responsive/background-smartphone-2-lg.jpg 1024w"  alt="" width="1810" height="1022"></figure>
-<h3>Partage Titre </h3>
+<h3>Partage des avancés</h3>
 <p>Nous avons conçus le maquette haute-fidélité sur Figma afin que tous les membres de l'équipe ainsi que les développeurs front-end puissent y accéder et de leurs permettre d'inspecter le fichier et d'exporter les composants CSS. Le suivi du développement c'est fait avec la business analyste, et via tableau pour le suivi des tickets afin de s'assurer que l'implémentation était aligné avec les interfaces que nous avons conçu. </p>
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>Conclusion</strong></span></h2>
@@ -301,7 +302,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-3.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-3.html</id>
 
-        <updated>2020-11-15T20:24:10+01:00</updated>
+        <updated>2020-11-16T12:18:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/3/cover-5.jpg" alt="" />
@@ -367,8 +368,9 @@
 <li>Des pôles industriels.</li>
 </ul>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/carte-1-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-1-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-1-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-1-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-1-2-lg.jpg 1024w"  alt="" width="1692" height="1772"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/0-contexte.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/0-contexte-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/0-contexte-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/0-contexte-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/0-contexte-lg.jpg 1024w"  alt="" width="1646" height="746"></figure>
 <p>Le VGA est un territoire majoritairement rural et agricole. Les besoins des habitants sont décentralisés, par conséquent ils doivent parcourir de longues distances pour se rendre d’un point A à un point B, ce qui entraine une forte utilisation de la voiture. Malgré les 4 lignes de transports fixes et un service de transports à la demande pour les villages situé aux alentours des villes centres et la location de vélo, les transports en communs sont peut utilisés.</p>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/1-vga-chiffre-voiture.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-lg.png 1024w"  alt="" width="1394" height="628"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/1-vga-chiffre-voiture.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/1-vga-chiffre-voiture-lg.jpg 1024w"  alt="" width="1555" height="602"></figure>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/carte-bus-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/carte-bus-4-lg.jpg 1024w"  alt="" width="1774" height="1763">
 <figcaption >Visualisation des transports existants et futures dans le Val de Garonne reliant les villages (bourg-relais) au pole centrale (Marmande et Tonneins).</figcaption>
 </figure>
@@ -405,10 +407,10 @@
 <figcaption >Méthode "5 why's".</figcaption>
 </figure>
 <p>Nous avons dégagés des besoins essentiels. Parmi ces points on peut citer : la mise en place clair d'information sur les services de mobilité existant, d'avoir accès à des services de mobilités fluides et flexibles (pour l'inscription et la réservation en amont de trajet en bus). Nous constatons que l’accessibilité physique aux réseaux de transport est difficile, notamment si la personne n’a pas d’arrêt dans sa commune ou si les arrêts sont éloignés et que la fréquence des horaires est limitée. Les correspondances sont nombreuses et l’intermodalité est un frein aux déplacements doux.</p>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/2-besoins.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-lg.png 1024w"  alt="" width="1167" height="531"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/2-besoins-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/2-besoins-2-lg.jpg 1024w"  alt="" width="1304" height="621"></figure>
 <h3>Cibler les usagers</h3>
 <p><span data-token-index="0" data-reactroot="">Suite à ces analyses, nous avons dégagé des types d’usagers potentiels : les habitants travaillant à horaires fixes pour les déplacements</span><span data-token-index="2" data-reactroot=""> résidentielle et professionnelle</span><span data-token-index="3" data-reactroot="">. Ceux qui réalisent ce type de trajet réguliers sont employés, beaucoup d’ouvriers et les scolaires.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/3-cibles-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-2-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-2-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-2-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-2-lg.png 1024w"  alt="" width="1846" height="841"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/3-cibles.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/3-cibles-lg.jpg 1024w"  alt="" width="1464" height="621"></figure>
 <h3>Analyse des parcours </h3>
 <p>Pour visualisé le vécu des usagers, nous avons matérialisé des parcours usagers à partir de nos données récoltés sur le terrain. </p>
 <h5><strong>Les parcours en voitures</strong></h5>
@@ -424,19 +426,19 @@
 <p>Le parcours des usagers en transports en commun est divisé en trois phases : au préalable afin de préparer le voyage, le jour j le moment où il ce déplace et l'après.  </p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/3/frictions.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/3/responsive/frictions-lg.png 1024w"  alt="" width="1562" height="367"></figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-1.jpg" data-size="2008x1305"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-1-thumbnail.jpg" alt="" width="768" height="499"></a>
-<figcaption>Persona trajet pendulaire - Salarié travaillant à Bordeaux </figcaption>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/persona-1-3.jpg" data-size="1339x871"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/persona-1-3-thumbnail.jpg" alt="" width="768" height="500"></a>
+<figcaption>Persona trajet pendulaire - Salarié travaillant à Bordeaux</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-1.jpg" data-size="1507x1055"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-1-thumbnail.jpg" alt="" width="768" height="538"></a>
 <figcaption>Parcours 1</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-2-2.jpg" data-size="2020x1345"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-2-2-thumbnail.jpg" alt="" width="768" height="511"></a>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/persona-2.jpg" data-size="1347x897"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/persona-2-thumbnail.jpg" alt="" width="768" height="511"></a>
 <figcaption>Persona trajet pendulaire - Lycéen étudiant à Tonneins</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-2.jpg" data-size="1515x1038"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-2-thumbnail.jpg" alt="" width="768" height="526"></a>
 <figcaption>Parcours 2</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-3-2.jpg" data-size="2020x1329"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/personae-3-2-thumbnail.jpg" alt="" width="768" height="505"></a>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/persona-3.jpg" data-size="1347x886"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/persona-3-thumbnail.jpg" alt="" width="768" height="505"></a>
 <figcaption>Persona trajet occasionnel - Sénior allant à Marmande</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-3.jpg" data-size="1619x1057"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/parcours-3-thumbnail.jpg" alt="" width="768" height="501"></a>
@@ -545,7 +547,7 @@
         <link href="https://lucas-bms.github.io/gh-pages/projet-2.html"/>
         <id>https://lucas-bms.github.io/gh-pages/projet-2.html</id>
 
-        <updated>2020-11-15T19:38:20+01:00</updated>
+        <updated>2020-11-16T20:13:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lucas-bms.github.io/gh-pages/media/posts/2/IMG_20190408_141355.jpg" alt="" />
@@ -566,12 +568,10 @@
 <p> </p>
 </div>
 <h3>Résumé</h3>
-<p>Travaillant comme service designer et ux designer au sein de la Métropole de Lyon durant 1 an dans une équipe projet, j'ai participé à la préparation d'un sprint design. Pendant 18 heures, nous avons conçus et prototyper des applications mobiles <strong>(et business ? voir <a href="http://verachen.me">verachen.me</a>)</strong> afin de clarifier l'offre de service rendu par les services de la Métropole.</p>
+<p>Travaillant comme service designer et ux designer au sein de la Métropole de Lyon durant 1 an dans une équipe projet, j'ai participé à la préparation d'un sprint design. Pendant 18 heures, nous avons conçus et prototyper des concepts de services à travers des applications mobiles afin de clarifier l'offre de service rendu par les services de la Métropole.</p>
 <h3><strong>Problème</strong></h3>
 <p>Les services numériques proposé aux usagers de la Métropole de Lyon sont orientés vers l'utilisation de Toodego pour les démarches administratives et vers le service Trabool pour la mobilité en transport et les offres culturelles. Ces services sont construits en silo car les feuilles de routes actuel et future ne sont pas connus et partagé à toutes l'équipe ce qui entraine des propositions des services parfois similaire : horaires des bus, proposition de service, même partenaires. Suite à des retours des partenaires et des usagers exprimant leurs manquent de compréhension des services, les chefs de projets ont décidé de trouver une solution. en organisant un design sprint. L’agence de design Nod-A a été missionner afin de mettre en place le workshop. Le chef de projet Erwan Leluron a invité les designers internes à la Métropole, Alexandra Douine et moi-même pour l'accompagnement. Notre rôle était de concevoir avec les designers de l’agence l'organisation du sprint. </p>
 <p class="msg msg--highlight ">Le design sprint est une méthode d'atelier basé sur la résolution de problème par l'expérimentation, le maquettage et le test d'idée-hypothèse rapide sur 5 jours avec très peu de moyen.</p>
-<h3>Solution</h3>
-<p> </p>
 <h3>Méthodologie </h3>
 <figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/processus-design-sprint.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/processus-design-sprint-xs.png 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/processus-design-sprint-sm.png 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/processus-design-sprint-md.png 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/processus-design-sprint-lg.png 1024w"  alt="" width="1470" height="294"></figure>
 <h2> </h2>
@@ -581,7 +581,7 @@
 <p>Avec l'équipe internet, nous avons fixer les objectifs en amont et aval du projet lors de séance de co-création. Nous nous sommes donné pour but de : </p>
 <ul>
 <li>améliorer et clarifier les propositions de valeurs ;</li>
-<li>aider les usagers partenaires à mieux différencier les services et fludifier les parcours entre eux (ctd passage d'un service à l'autre).</li>
+<li>aider les usagers partenaires à mieux différencier les services et fludifier les parcours entre eux (passage d'un service à l'autre).</li>
 <li>afin de communiquer clairement sur les services proposaient ;</li>
 <li>clarifier les offres de services, d'avoir une vision commune partagée avec toute l'équipe. </li>
 </ul>
@@ -607,7 +607,7 @@
 <figure class="post__image" ><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/ecosysteme.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/ecosysteme-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/ecosysteme-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/ecosysteme-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/ecosysteme-lg.jpg 1024w"  alt="" width="887" height="751">
 <figcaption >Écosystème des projets.</figcaption>
 </figure>
-<h3>.Proposition de valeur</h3>
+<h3>+Proposition de valeur</h3>
 <p>J'ai en amont du sprint proposé de faire le business model et la proposition de valeur de chaque service concernés avec les chefs de projets (Toodego, Trabool, Only'moov, Grand Lyon Connect) afin d'identifier des possibles répétition ou sujet à clarifier. Ils seront par la suite présentés aux participants lors du sprint afin d'identifier des possibles répétitions ou sujet à clarifier.</p>
 <p class="msg msg--highlight ">La value proposition design et le business model servent à identifier <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">la valeur créent par un produit ou services que les clients ont besoins.</span></p>
 <p>J'ai donc organisé des ateliers avec les chefs de projets pour le développement de nouvelle proposition de service. Cette exercice à était le moyen d'identifier des opportunités lors du workshop.</p>
@@ -643,7 +643,7 @@
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/IMG_20190408_143119.jpg" data-size="4608x3456"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/IMG_20190408_143119-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Les différents parcours en fonction des hypothèses.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190408_143426-2.jpg" data-size="2474x2413"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190408_143426-2-thumbnail.jpg" alt="" width="768" height="749"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190408_143426-2-2.jpg" data-size="1746x2413"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190408_143426-2-2-thumbnail.jpg" alt="" width="768" height="1061"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/photo-groupe-2.jpg" data-size="3534x2566"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/photo-groupe-2-thumbnail.jpg" alt="" width="768" height="558"></a></figure>
 </div></div>
 <h3><strong>Quelles hypothèses choisir ?</strong></h3>
@@ -667,63 +667,49 @@
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190408_165844-2.jpg" data-size="3120x4160"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190408_165844-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133116-2.jpg" data-size="1566x3120"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133116-2-thumbnail.jpg" alt="" width="768" height="1530"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133127-2.jpg" data-size="2678x2488"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133127-2-thumbnail.jpg" alt="" width="768" height="714"></a></figure>
-<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133146-2.jpg" data-size="3120x4160"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133146-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133146-3.jpg" data-size="2605x3038"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133146-3-thumbnail.jpg" alt="" width="768" height="896"></a></figure>
 <figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133133-2.jpg" data-size="3356x3002"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/P_20190409_133133-2-thumbnail.jpg" alt="" width="768" height="687"></a></figure>
 </div></div>
-<h3><strong>Fiches produits</strong></h3>
+<h3><strong>Fiches produits des solutions</strong></h3>
 <p><strong><em>Équipe 1</em></strong></p>
 <p>L'équipe une à imaginer deux services :</p>
 <ul>
 <li>un permettent d'étre faire toutes ces démarches</li>
 <li>le deuxiéme afin de pouvoir utilisé tous les services de liés à la métropole et la "carte"</li>
 </ul>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb8e055b-968c-4a04-af02-ea7fac024199/Capture_decran_2020-07-09_a_16.28.25.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb8e055b-968c-4a04-af02-ea7fac024199/Capture_decran_2020-07-09_a_16.28.25.png"></p>
-<p>Service 1.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f63d79dd-61db-4e4e-b07a-46efb52b8551/Capture_decran_2020-07-09_a_16.22.07.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f63d79dd-61db-4e4e-b07a-46efb52b8551/Capture_decran_2020-07-09_a_16.22.07.png"></p>
-<p>Service 2.</p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/774142ff-1388-4c96-a54e-d31d0c0a5f3d/Capture_decran_2020-07-09_a_16.35.05.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/774142ff-1388-4c96-a54e-d31d0c0a5f3d/Capture_decran_2020-07-09_a_16.35.05.png"></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-Principe.jpg" data-size="1263x1372"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-Principe-thumbnail.jpg" alt="" width="768" height="834"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-Fiche-produit-Mon-assistant-metropolitain.jpg" data-size="1264x1789"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-Fiche-produit-Mon-assistant-metropolitain-thumbnail.jpg" alt="" width="768" height="1087"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-Fiche-produit-Only-Fun.jpg" data-size="1263x1789"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-Fiche-produit-Only-Fun-thumbnail.jpg" alt="" width="768" height="1088"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-ecosysteme-equipe_1.jpg" data-size="3171x1960"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/2-ecosysteme-equipe_1-thumbnail.jpg" alt="" width="768" height="475"></a></figure>
+</div></div>
 <p><strong><em>Équipe 2</em></strong></p>
-<p>Je vous présente les solutions de l'équipe de je fesais partie. Nous avons séléetionner l'hyppoth"ée celon l'aquelle il serait préférable de séparer les services proposés de façon distincte.</p>
-<p><code>Reprendre le texte des fiches</code></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68116a8e-73af-415a-8e02-81a618223f5b/Capture_decran_2020-07-09_a_16.36.46.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68116a8e-73af-415a-8e02-81a618223f5b/Capture_decran_2020-07-09_a_16.36.46.png"></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10a1b77d-9664-4cb4-9b61-382decfbafa3/Capture_decran_2020-07-09_a_16.36.52.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10a1b77d-9664-4cb4-9b61-382decfbafa3/Capture_decran_2020-07-09_a_16.36.52.png"></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/659853ad-1421-42b9-9620-2d524adb8bf7/Capture_decran_2020-07-09_a_16.36.58.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/659853ad-1421-42b9-9620-2d524adb8bf7/Capture_decran_2020-07-09_a_16.36.58.png"></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14c9dadd-9069-4a02-a3f9-cf676555cce2/Capture_decran_2020-07-09_a_16.37.10.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14c9dadd-9069-4a02-a3f9-cf676555cce2/Capture_decran_2020-07-09_a_16.37.10.png"></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dea584c-89d9-4de5-aea8-31f902891a12/Capture_decran_2020-07-09_a_16.37.04.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dea584c-89d9-4de5-aea8-31f902891a12/Capture_decran_2020-07-09_a_16.37.04.png"></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c6896e0-de35-48b7-93d9-e19d5e1b36cb/Capture_decran_2020-07-09_a_16.37.17.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c6896e0-de35-48b7-93d9-e19d5e1b36cb/Capture_decran_2020-07-09_a_16.37.17.png"></p>
-<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fe3bc65-7a91-41a0-aa71-4142aa179534/Capture_decran_2020-07-09_a_16.37.23.png" data-is-external-image="true"  alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fe3bc65-7a91-41a0-aa71-4142aa179534/Capture_decran_2020-07-09_a_16.37.23.png"></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Principe.jpg" data-size="1263x1039"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Principe-thumbnail.jpg" alt="" width="768" height="632"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Fiche-produit-Only-Demarches.jpg" data-size="1264x1789"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Fiche-produit-Only-Demarches-thumbnail.jpg" alt="" width="768" height="1087"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Fiche-produit-Only-Fun.jpg" data-size="1263x1789"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Fiche-produit-Only-Fun-thumbnail.jpg" alt="" width="768" height="1088"></a></figure>
+<figure class="gallery__item"><a href="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Fiche-produit-Only-moov.jpg" data-size="1264x1789"><img loading="lazy" src="https://lucas-bms.github.io/gh-pages/media/posts/2/gallery/1-Fiche-produit-Only-moov-thumbnail.jpg" alt="" width="768" height="1087"></a></figure>
+</div></div>
 <h3><strong>Présentation final</strong></h3>
 <p>Afin de présenter les solutions trouver et pour envisager la suite après le sprint, nous avons présenter les prototypes au directeur du service qui est le décideur final du sprint. Les retours qu'il a put faire sont sur la séparation des services-silotage de notre solution... est qu'il pensent que les services ne devraient pas étre séparer mes croisée afin que les usagers passe d'un service à l'autre et soi un usage quotidien. (voir figma notes apple). Finalement, il décidera de ne pas partir sur une des solutions imaginer. Malgrés cela,</p>
 <p>si l'on continue avec les changements de sprint et si finalement les efforts du sprint n'ont pas abouti à une solution. Le directeur du service sera le décideur final du sprint.</p>
 <p>la séparation des services, qu'ils voient plus en croisement afin que les usagers puissent passé d'un service à l'autre. Quelque soit le choix, nous avont fait des progres.</p>
 <p>Les retours globals des décideurs sont sur la séparation des services, qu'ils voient plus en croisement afin que les usagers puissent passé d'un service à l'autre.</p>
-<p><code>photo presentation final</code></p>
-<p> </p>
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>3. L'après sprint</strong></span></h2>
 <p> </p>
-<ol>
-<li><strong>Retour du sprint</strong>
-<ol>
-<li>analyse des retours</li>
-<li>réunions avec les chefs de projets</li>
-<li>réunions avec les boss</li>
-<li>test auprès des agents</li>
-<li>partages avec les chefs de projets</li>
-<li>création d'un "kit projet"</li>
-</ol>
-</li>
-</ol>
-<p><strong>Analyse des retours</strong></p>
+<h3><strong>Analyse des retours</strong></h3>
 <p>Le sprint est fini, que faisons-nous ? Le gros du travail a été fait durant deux jours grâce à l'intelligence collective et les expertises de chacun, créant beaucoup de matière sur laquelle se basé, il fallait la retravaillé, en discuter l'esprit froid. De plus, l'important du design sprint est aussi de tester les prototypes afin d'évaluer les retours usagers et surtout de validé ou invalidé les hypothèses avec des prototypes. A ce stade, nous ne savons pas si nos idées déboucherons sur quelque chose.</p>
 <p>Pour la suite, nous avons (l'équipe projet) orgnaiser des réunions avec les chefs de projets pour reparler des solutions réalisés ainsi que de la suite et avec les décideurs afin d'avoir une vision stratégiques. Ce processus finirait par des tests ou expérimentation avec un panel d'usager expérimentateur.</p>
-<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/photo-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/photo-1-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/photo-1-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/photo-1-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/photo-1-lg.jpg 1024w"  alt="" width="400" height="533"></figure>
+<h3>Partage d'équipe</h3>
 <p>Lors de la première réunion, les chefs de projets et les membres des équipes n’étaient pas satisfaits des résultats et préféraient continuer comme ils étaient partis, malgré les incohérences et les recouvrements de services. <s>J’ai été très étonné de la décision de ne pas choisir, mais cela révèle le dysfonctionnement interne de la Métropole.</s> La décisions final était de continuer les projets et nous n'avons pas pus tester les idées.</p>
 <p>À partir de là, nous avons quand même fait les réunions avec les directeurs et décideur afin de récolter les avis positifs et négatifs de chaque proposition de service, mais aussi les stratégies de la Métropole et le rôle qu’ils estiment qu’elle devrait avoir. Les réunions nous ont servi à faire ressortir des règles d’obligations, de contraintes et de souhaits par rapport au service.</p>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-lg.jpg 1024w"  alt="" width="595" height="842"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-lg.jpg 1024w"  alt="" width="595" height="842"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-lg.jpg 1024w"  alt="" width="595" height="402"></figure>
+<h3>Création d'un "kit projet"</h3>
 <p>Nous avons conçus un kit projet afin que les chefs de projets s'oriente en foncions de la stratégie de la Métropole.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-1-lg.jpg 1024w"  alt="" width="400" height="566"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-2-lg.jpg 1024w"  alt="" width="400" height="566"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://lucas-bms.github.io/gh-pages/media/posts/2/kit-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-xs.jpg 300w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-sm.jpg 480w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-md.jpg 768w ,https://lucas-bms.github.io/gh-pages/media/posts/2/responsive/kit-3-lg.jpg 1024w"  alt="" width="400" height="270"></figure>
 <p> </p>
 <h2 class="align-center"><span style="color: #fc9561;"><strong>Conclusion</strong></span></h2>
 <p> </p>
