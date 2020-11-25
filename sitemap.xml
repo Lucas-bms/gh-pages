@@ -5,12 +5,12 @@
 <loc>https://lucas-bms.github.io/gh-pages/</loc>
 </url>
 <url>
-<loc>https://lucas-bms.github.io/gh-pages/about.html</loc>
-<lastmod>2020-11-18T18:41:47+01:00</lastmod>
+<loc>https://lucas-bms.github.io/gh-pages/a-propos.html</loc>
+<lastmod>2020-11-24T16:04:40+01:00</lastmod>
 </url>
 <url>
 <loc>https://lucas-bms.github.io/gh-pages/design-sprint.html</loc>
-<lastmod>2020-11-18T19:02:39+01:00</lastmod>
+<lastmod>2020-11-24T15:57:55+01:00</lastmod>
 <image:image>
 <image:loc>https://lucas-bms.github.io/gh-pages/media/posts/2/IMG_20190408_141355.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -134,7 +134,7 @@
 </url>
 <url>
 <loc>https://lucas-bms.github.io/gh-pages/objet-electronique.html</loc>
-<lastmod>2020-11-17T20:20:45+01:00</lastmod>
+<lastmod>2020-11-25T15:02:19+01:00</lastmod>
 <image:image>
 <image:loc>https://lucas-bms.github.io/gh-pages/media/posts/4/photo-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -212,7 +212,7 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://lucas-bms.github.io/gh-pages/media/posts/4/Plan-de-travail-2-8.png</image:loc>
+<image:loc>https://lucas-bms.github.io/gh-pages/media/posts/4/3D-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -230,9 +230,9 @@
 </url>
 <url>
 <loc>https://lucas-bms.github.io/gh-pages/projet-3.html</loc>
-<lastmod>2020-11-18T18:58:38+01:00</lastmod>
+<lastmod>2020-11-25T15:17:16+01:00</lastmod>
 <image:image>
-<image:loc>https://lucas-bms.github.io/gh-pages/media/posts/3/cover-5.jpg</image:loc>
+<image:loc>https://lucas-bms.github.io/gh-pages/media/posts/3/cover-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -341,7 +341,7 @@
 </image:image>
 <image:image>
 <image:loc>https://lucas-bms.github.io/gh-pages/media/posts/3/parcours-vs.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Comparatif d'un trajet entre la voiture et les transports en commun.]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://lucas-bms.github.io/gh-pages/media/posts/3/gallery/Sans-titre-1-09-thumbnail.jpg</image:loc>
@@ -406,7 +406,7 @@
 </url>
 <url>
 <loc>https://lucas-bms.github.io/gh-pages/redesigner-experience-site.html</loc>
-<lastmod>2020-11-18T19:03:35+01:00</lastmod>
+<lastmod>2020-11-24T17:14:43+01:00</lastmod>
 <image:image>
 <image:loc>https://lucas-bms.github.io/gh-pages/media/posts/1/cover-3-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>

@@ -13,7 +13,7 @@ window.addEventListener('scroll', function (e) {
 		header.classList.add("is-hidden");
 
 		// Scrolling up
-	} else if (new_scroll_position > last_scroll_position) {
+	} else if (new_scroll_position > last_scroll_position && last_scroll_position > 89) {
 		header.classList.remove("is-hidden");
 		header.classList.add("is-visible");
 		if (stickyMenu) {

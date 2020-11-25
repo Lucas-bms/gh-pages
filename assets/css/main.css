@@ -1,4 +1,34 @@
 @charset "UTF-8";
+:root {
+  --page-margin: 4vw;
+  --page-width: 66rem;
+  --entry-width: 62ch;
+  --header-height: 4rem;
+  --border-radius: 2px;
+  --grid-gap: 0.5rem;
+  --font-weight-normal: 400;
+  --font-weight-bold: 600;
+  --line-height: 1.6;
+  --headings-weight: 600;
+  --headings-transform: none;
+  --white: #FFFFFF;
+  --black: #000000;
+  --dark: #111111;
+  --gray-1: #686868;
+  --gray-2: #888888;
+  --light: #D5D5D5;
+  --lighter: #F5F5F5;
+  --color: #FF80AB;
+  --color-rgb: 255,128,171;
+  --text-color: #111111;
+  --headings-color: #111111;
+}
+@media all and (min-width: 56.25em) {
+  :root {
+    --header-height: 6rem;
+  }
+}
+
 article,
 aside,
 footer,
@@ -34,36 +64,6 @@ input,
 select,
 textarea {
   font: inherit;
-}
-
-:root {
-  --page-margin: 4vw;
-  --page-width: 66rem;
-  --entry-width: 62ch;
-  --header-height: 4rem;
-  --border-radius: 2px;
-  --grid-gap: 0.5rem;
-  --font-weight-normal: 400;
-  --font-weight-bold: 600;
-  --line-height: 1.6;
-  --headings-weight: 600;
-  --headings-transform: none;
-  --white: #FFFFFF;
-  --black: #000000;
-  --dark: #111111;
-  --gray-1: #686868;
-  --gray-2: #888888;
-  --light: #D5D5D5;
-  --lighter: #F5F5F5;
-  --color: #FF80AB;
-  --color-rgb: 255,128,171;
-  --text-color: #111111;
-  --headings-color: #111111;
-}
-@media all and (min-width: 56.25em) {
-  :root {
-    --header-height: 6rem;
-  }
 }
 
 .facebook:hover .icon {
@@ -741,6 +741,9 @@ textarea {
   max-width: var(--page-width);
   position: absolute;
   top: 1vw;
+  -webkit-transition: all 0.36s ease-in-out;
+  -o-transition: all 0.36s ease-in-out;
+  transition: all 0.36s ease-in-out;
   width: 100%;
   z-index: 999;
 }
@@ -749,10 +752,6 @@ textarea {
         grid-template-areas: ". logo nav search .";
     -ms-grid-columns: var(--page-margin) 10% 1fr 2rem var(--page-margin);
     grid-template-columns: var(--page-margin) 10% 1fr 2rem var(--page-margin);
-  }
-}
-@media all and (min-width: 56.25em) {
-  .header {
     height: var(--header-height);
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
@@ -1414,7 +1413,7 @@ textarea {
   margin: 2.1333333333rem auto 0;
   width: 15%;
 }
-.hero > p:not(.author-page__info) {
+.hero > p:not(.author-page__info):not(.author-page__website) {
   color: var(--gray-1);
   font-size: 0.624295077rem;
   letter-spacing: 0.18em;
@@ -1453,6 +1452,7 @@ textarea {
 
 .l-col {
   margin: calc(-1 * var(--grid-gap));
+  list-style: none;
   position: relative;
 }
 .l-col:after {
@@ -2120,6 +2120,18 @@ textarea {
 .author-page__info {
   font-family: var(--heading-font);
   margin-top: 1.6rem;
+}
+.author-page__website {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin-top: 1.6rem;
+}
+.author-page__website a {
+  margin-left: 0.4rem;
 }
 
 .search-page__input {
