@@ -38,18 +38,18 @@
             "date_modified": "2023-08-10T08:46:54+02:00"
         },
         {
-            "id": "https://lucas-bms.github.io/gh-pages/projetshtml/",
-            "url": "https://lucas-bms.github.io/gh-pages/projetshtml/",
-            "title": "Projets",
-            "summary": "Enquête de terrain ciblant les agriculteurs possédant de petites exploitations. L'objectif était la conception et le développement d'un service de&hellip;",
-            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100.57%; border-style: none;\" border=\"1\">\n<tbody>\n<tr style=\"border-style: hidden;\">\n<td style=\"width: 50.0713%; border-style: hidden;\">\n<h4>Ignitia, Ghana</h4>\n<details>\n<summary><strong>Summary</strong></summary>\n<p>Enquête de terrain ciblant les agriculteurs possédant de petites exploitations. L'objectif était la conception et le développement d'un service de prévision météorologique et de conseils pratiques en matière agricole.</p>\n</details></td>\n<td class=\"align-center\" style=\"width: 29.1013%; border-style: hidden;\">\n<p><strong>#service-design #user-research</strong></p>\n</td>\n<td class=\"align-center\" style=\"width: 20.8274%; border-style: hidden;\">\n<p><strong>2022-2023</strong></p>\n</td>\n</tr>\n<tr style=\"border-style: hidden;\">\n<td style=\"width: 50.0713%; border-style: hidden;\">\n<h4>Archives</h4>\n<details>\n<summary><strong>Summary</strong></summary>\n<p>Work in progress</p>\n</details></td>\n<td class=\"align-center\" style=\"width: 29.1013%; border-style: hidden;\">\n<p><strong>service design</strong></p>\n</td>\n<td class=\"align-center\" style=\"width: 20.8274%; border-style: hidden;\">\n<p><strong>2019-2022</strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+            "id": "https://lucas-bms.github.io/gh-pages/projects/",
+            "url": "https://lucas-bms.github.io/gh-pages/projects/",
+            "title": "Projects",
+            "summary": "Field survey targeting farmers with smallholdings. The aim was to design and develop a weather forecasting service and practical agricultural&hellip;",
+            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100.57%; border-style: none;\" border=\"1\">\n<tbody>\n<tr style=\"border-style: hidden;\">\n<td style=\"width: 50.0713%; border-style: hidden;\">\n<h4>Ignitia, Ghana</h4>\n<details>\n<summary><strong>Summary</strong></summary>\n<p>Field survey targeting farmers with smallholdings. The aim was to design and develop a weather forecasting service and practical agricultural advice.</p>\n</details></td>\n<td class=\"align-center\" style=\"width: 29.1013%; border-style: hidden;\">\n<p><strong>#service-design #user-research</strong></p>\n</td>\n<td class=\"align-center\" style=\"width: 20.8274%; border-style: hidden;\">\n<p><strong>2022-2023</strong></p>\n</td>\n</tr>\n<tr style=\"border-style: hidden;\">\n<td style=\"width: 50.0713%; border-style: hidden;\">\n<h4>Archives</h4>\n<details>\n<summary><strong>Summary</strong></summary>\n<p>Work in progress</p>\n</details></td>\n<td class=\"align-center\" style=\"width: 29.1013%; border-style: hidden;\">\n<p><strong>service design</strong></p>\n</td>\n<td class=\"align-center\" style=\"width: 20.8274%; border-style: hidden;\">\n<p><strong>2019-2022</strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
             "author": {
                 "name": "Lucas"
             },
             "tags": [
             ],
             "date_published": "2023-06-28T14:11:06+02:00",
-            "date_modified": "2023-08-16T16:34:51+02:00"
+            "date_modified": "2023-08-16T16:52:19+02:00"
         }
     ]
 }
